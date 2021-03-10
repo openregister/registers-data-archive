@@ -1,0 +1,379 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"cardinality":"1","datatype":"string","field":"register","phase":"beta","register":"register","text":"Registers maintained by the UK government"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The name of the entity."}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography","phase":"beta","register":"statistical-geography","text":"The unique code for a geography used in official statistics. A geography is a way to divide a larger area into smaller areas."}
+add-item	{"cardinality":"n","datatype":"curie","field":"area","phase":"beta","text":"The geographic area for an entity."}
+add-item	{"register-name":"Statistical geography register"}
+add-item	{"register-name":"Statistical geography"}
+add-item	{"name":"statistical-geography"}
+add-item	{"cardinality":"1","datatype":"curie","field":"organisation","phase":"beta","text":"The entity's organisation."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography","phase":"beta","register":"statistical-geography","text":"The entity (record) for geographies that are used in official statistics."}
+add-item	{"fields":["statistical-geography","name","area","organisation","register","start-date","end-date"],"phase":"beta","register":"statistical-geography","registry":"office-for-national-statistics","text":"Geographies that are used in compiling official statistics"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"name":"Westminster Parliamentary Constituencies","start-date":"2009-01-01","statistical-geography":"E14"}
+add-item	{"name":"Counties","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E10"}
+add-item	{"name":"Built-up Areas","organisation":"government-organisation:D303","start-date":"2013-06-27","statistical-geography":"E34"}
+add-item	{"name":"Local Learning and Skills Council areas","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E24"}
+add-item	{"name":"Country","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"W92"}
+add-item	{"name":"Workplace Zones","organisation":"government-organisation:EA701","start-date":"2016-10-20","statistical-geography":"N19"}
+add-item	{"name":"Clinical Commissioning Groups","organisation":"government-organisation:PB1202","start-date":"2013-04-01","statistical-geography":"E38"}
+add-item	{"name":"Cancer Networks","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"W13"}
+add-item	{"name":"Primary Urban Areas","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E25"}
+add-item	{"name":"Registration Sub-district","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E29"}
+add-item	{"name":"Non-metropolitan Districts","organisation":"government-organisation:D4","register":"statistical-geography-non-metropolitan-district-eng","start-date":"2009-01-01","statistical-geography":"E07"}
+add-item	{"name":"District Electoral Areas","organisation":"government-organisation:OT428","start-date":"2014-05-22","statistical-geography":"N10"}
+add-item	{"name":"Settlements","organisation":"government-organisation:OT1075","start-date":"2009-01-01","statistical-geography":"S20"}
+add-item	{"name":"Council Areas","start-date":"2009-01-01","statistical-geography":"S12"}
+add-item	{"name":"Communities","start-date":"2009-01-01","statistical-geography":"W04"}
+add-item	{"name":"Built-up Area sub-divisions","organisation":"government-organisation:D303","start-date":"2013-06-27","statistical-geography":"E35"}
+add-item	{"area":["territory:IM"],"name":"Strategic Health Authorities","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"M00"}
+add-item	{"name":"Fire and Rescue Authorities","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E31"}
+add-item	{"name":"Travel to Work Areas","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"W22"}
+add-item	{"name":"Travel to Work Areas","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"S22"}
+add-item	{"name":"Community Health Partnerships sub-areas","organisation":"government-organisation:DA1020","start-date":"2013-11-01","statistical-geography":"S26"}
+add-item	{"name":"Cancer Alliances","organisation":"government-organisation:PB481","start-date":"2016-11-23","statistical-geography":"E56"}
+add-item	{"name":"Workplace Zones","organisation":"government-organisation:D303","start-date":"2013-01-31","statistical-geography":"W35"}
+add-item	{"name":"Output Areas","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"W00"}
+add-item	{"name":"Transport Consortia Areas","start-date":"2010-05-06","statistical-geography":"W28"}
+add-item	{"name":"Community Safety Partnerships","organisation":"government-organisation:D16","start-date":"2009-01-01","statistical-geography":"W14"}
+add-item	{"name":"Registration Districts","organisation":"government-organisation:D303","register":"statistical-geography-registration-district-wls","start-date":"2009-01-01","statistical-geography":"W20"}
+add-item	{"name":"Scottish Fire and Rescue Service Delivery Areas","organisation":"government-organisation:DA1020","start-date":"2016-02-01","statistical-geography":"S40"}
+add-item	{"area":["territory:JE","territory:GG"],"name":"British Crown Dependencies","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"L93"}
+add-item	{"name":"Scottish Police Divisions","organisation":"government-organisation:DA1020","start-date":"2013-11-01","statistical-geography":"S32"}
+add-item	{"name":"Metropolitan Counties","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E11"}
+add-item	{"name":"National Parks","organisation":"government-organisation:PB202","start-date":"2009-01-01","statistical-geography":"E26"}
+add-item	{"name":"National Assembly for Wales Electoral Regions","organisation":"government-organisation:OT432","start-date":"2009-01-01","statistical-geography":"W10"}
+add-item	{"name":"Unitary Authorities","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E06"}
+add-item	{"name":"Strategic Regeneration Sub-areas","start-date":"2010-05-06","statistical-geography":"W27"}
+add-item	{"name":"Local Enterprise Partnerships","organisation":"government-organisation:D3","start-date":"2012-07-31","statistical-geography":"E37"}
+add-item	{"name":"Community Justice Authorities","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S25"}
+add-item	{"name":"Travel to Work Areas","organisation":"government-organisation:D303","start-date":"2015-07-31","statistical-geography":"N12"}
+add-item	{"name":"Urban Regeneration Companies","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S10"}
+add-item	{"name":"Spatial Plan Areas","start-date":"2009-01-01","statistical-geography":"W23"}
+add-item	{"name":"Waste Authorities","organisation":"government-organisation:D7","start-date":"2016-04-22","statistical-geography":"E50"}
+add-item	{"name":"Electoral Wards","start-date":"2009-01-01","statistical-geography":"W05"}
+add-item	{"name":"Regeneration Outcome Areas - Community Planning Partnerships","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S05"}
+add-item	{"name":"Public Health England Regions","organisation":"government-organisation:EA480","start-date":"2014-06-03","statistical-geography":"E46"}
+add-item	{"name":"Civil Parishes","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E04"}
+add-item	{"name":"Non-Civil Parished Areas","organisation":"government-organisation:D303","start-date":"2013-11-01","statistical-geography":"E43"}
+add-item	{"name":"Police Force Areas","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S23"}
+add-item	{"name":"Northern Ireland Fire and Rescue Service Districts","start-date":"2016-02-01","statistical-geography":"N33"}
+add-item	{"name":"Local Resilience Forums","organisation":"government-organisation:D4","start-date":"2015-07-23","statistical-geography":"E48"}
+add-item	{"name":"Health Board areas","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S08"}
+add-item	{"name":"Workplace Zones","organisation":"government-organisation:OT1075","start-date":"2016-10-20","statistical-geography":"S34"}
+add-item	{"name":"Development Corporations","organisation":"government-organisation:D4","start-date":"2016-04-22","statistical-geography":"E51"}
+add-item	{"name":"NHS England (Region, Local Office)","organisation":"government-organisation:PB1202","start-date":"2013-04-01","statistical-geography":"E39"}
+add-item	{"name":"Enterprise Regions","start-date":"2009-01-01","statistical-geography":"S09"}
+add-item	{"name":"Strategic Clinical Networks","organisation":"government-organisation:PB1202","start-date":"2016-09-01","statistical-geography":"E55"}
+add-item	{"name":"Scottish Parliamentary Regions","start-date":"2009-01-01","statistical-geography":"S17"}
+add-item	{"name":"National Assembly Economic Regions","start-date":"2009-01-01","statistical-geography":"W19"}
+add-item	{"name":"LEP - non overlapping part","organisation":"government-organisation:D3","start-date":"2016-04-22","statistical-geography":"E53"}
+add-item	{"name":"Strategic Development Plan Areas","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S11"}
+add-item	{"name":"Census Merged Local Authority Districts","organisation":"government-organisation:D303","start-date":"2013-04-01","statistical-geography":"E41"}
+add-item	{"name":"Major Towns and Cities","organisation":"government-organisation:D303","start-date":"2016-04-22","statistical-geography":"J01"}
+add-item	{"name":"Agricultural Regions","start-date":"2010-10-31","statistical-geography":"W29"}
+add-item	{"name":"Scottish Fire and Rescue Local Senior Officer Areas","organisation":"government-organisation:DA1020","start-date":"2016-02-01","statistical-geography":"S39"}
+add-item	{"name":"Westminster Parliamentary Constituencies","organisation":"government-organisation:OT428","start-date":"2010-05-06","statistical-geography":"N06"}
+add-item	{"name":"National Assembly for Wales Constituencies","organisation":"government-organisation:OT432","start-date":"2009-01-01","statistical-geography":"W09"}
+add-item	{"name":"Scottish Parliamentary Constituencies","start-date":"2009-01-01","statistical-geography":"S16"}
+add-item	{"name":"Settlement 2015","organisation":"government-organisation:EA701","start-date":"2015-01-29","statistical-geography":"N11"}
+add-item	{"name":"Built Up Area sub divisions","organisation":"government-organisation:D303","start-date":"2013-06-27","statistical-geography":"K06"}
+add-item	{"name":"Fire and Rescue Authorities","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"W25"}
+add-item	{"name":"Spatial Plan Sub-areas","start-date":"2009-01-01","statistical-geography":"W24"}
+add-item	{"name":"ISD Health Board of Treatment","start-date":"2013-11-01","statistical-geography":"S27"}
+add-item	{"name":"Built-up Area sub-divisions","organisation":"government-organisation:D303","start-date":"2013-06-27","statistical-geography":"W38"}
+add-item	{"name":"Footprint Regions for Public Service Collaboration","organisation":"government-organisation:DA1019","start-date":"2011-09-01","statistical-geography":"W36"}
+add-item	{"name":"Electoral Wards","organisation":"government-organisation:EA701","start-date":"2015-04-01","statistical-geography":"N08"}
+add-item	{"name":"European Electoral Regions","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E15"}
+add-item	{"name":"Agricultural Small Areas","start-date":"2010-10-31","statistical-geography":"W30"}
+add-item	{"name":"Combined Authorities","organisation":"government-organisation:D4","start-date":"2015-07-10","statistical-geography":"E47"}
+add-item	{"name":"Output Areas","organisation":"government-organisation:OT1075","start-date":"2009-01-01","statistical-geography":"S00"}
+add-item	{"name":"Super Output Areas, Middle Layer","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"W02"}
+add-item	{"name":"National Parks","start-date":"2009-01-01","statistical-geography":"W18"}
+add-item	{"name":"European Electoral Regions","start-date":"2009-01-01","statistical-geography":"S15"}
+add-item	{"name":"LEP - overlapping part","organisation":"government-organisation:D3","start-date":"2016-04-22","statistical-geography":"E52"}
+add-item	{"name":"Westminster Parliamentary Constituencies","organisation":"government-organisation:OT432","start-date":"2009-01-01","statistical-geography":"W07"}
+add-item	{"name":"Non-metropolitan Districts","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E07"}
+add-item	{"name":"Regions","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E12"}
+add-item	{"name":"Data Zones","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S01"}
+add-item	{"name":"Cancer Networks","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"E21"}
+add-item	{"name":"Unitary Authorities","register":"statistical-geography-unitary-authority-wls","start-date":"2009-01-01","statistical-geography":"W06"}
+add-item	{"name":"Census Local Characteristics","organisation":"government-organisation:OT1075","start-date":"2013-11-01","statistical-geography":"S29"}
+add-item	{"name":"Local Resilience Forums","organisation":"government-organisation:D4","start-date":"2015-07-23","statistical-geography":"W41"}
+add-item	{"name":"Sustainability and Transformation Partnerships","organisation":"government-organisation:PB481","start-date":"2016-04-22","statistical-geography":"E54"}
+add-item	{"name":"Metropolitan Districts","organisation":"government-organisation:D4","register":"statistical-geography-metropolitan-district-eng","start-date":"2009-01-01","statistical-geography":"E08"}
+add-item	{"name":"Community Health Partnerships","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S03"}
+add-item	{"name":"Non-Communities First Areas","start-date":"2011-01-01","statistical-geography":"W34"}
+add-item	{"name":"Police Force Areas","organisation":"government-organisation:D16","start-date":"2009-01-01","statistical-geography":"W15"}
+add-item	{"name":"New Deal for Communities","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E27"}
+add-item	{"name":"NHS England Regions","organisation":"government-organisation:PB1202","start-date":"2013-04-01","statistical-geography":"E40"}
+add-item	{"name":"Public Health England Centres","organisation":"government-organisation:EA480","start-date":"2014-06-03","statistical-geography":"E45"}
+add-item	{"name":"Northern Ireland Fire and Rescue Service Areas","start-date":"2016-02-01","statistical-geography":"N32"}
+add-item	{"name":"Electoral Wards","start-date":"2009-01-01","statistical-geography":"S13"}
+add-item	{"name":"Census Merged Local Authority Districts","organisation":"government-organisation:D303","start-date":"2013-04-01","statistical-geography":"W40"}
+add-item	{"name":"Counties","organisation":"government-organisation:D4","register":"statistical-geography-county-eng","start-date":"2009-01-01","statistical-geography":"E10"}
+add-item	{"name":"National Parks","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S21"}
+add-item	{"name":"Broad Rental Market Areas","organisation":"government-organisation:DA1020","start-date":"2015-07-09","statistical-geography":"S33"}
+add-item	{"name":"Super Output Areas, Middle Layer","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E02"}
+add-item	{"name":"Regeneration Outcome Areas - Local Areas","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S06"}
+add-item	{"area":["country:GB"],"name":"Travel to Work Areas","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"K01"}
+add-item	{"name":"Super Output Areas, Lower Layer","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"W01"}
+add-item	{"name":"Registration Sub-district","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"W21"}
+add-item	{"name":"Registration Districts","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E28"}
+add-item	{"name":"Unitary Authorities","organisation":"government-organisation:D4","register":"statistical-geography-unitary-authority-eng","start-date":"2009-01-01","statistical-geography":"E06"}
+add-item	{"name":"Local Administrative Units 1","organisation":"government-organisation:DA1020","start-date":"2013-11-01","statistical-geography":"S30"}
+add-item	{"name":"Country","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E92"}
+add-item	{"name":"Community Safety Partnerships","organisation":"government-organisation:D16","start-date":"2009-01-01","statistical-geography":"E22"}
+add-item	{"name":"Non-Strategic Regeneration Area","start-date":"2010-10-31","statistical-geography":"W32"}
+add-item	{"name":"Regional Transport Partnerships","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S07"}
+add-item	{"name":"Local Administrative Units 2","organisation":"government-organisation:DA1020","start-date":"2013-11-01","statistical-geography":"S31"}
+add-item	{"area":["country:GB"],"name":"United Kingdom","organisation":"government-organisation:D303","start-date":"2010-10-31","statistical-geography":"K02"}
+add-item	{"name":"Super Output Areas, Upper Layer","start-date":"2009-01-01","statistical-geography":"W03"}
+add-item	{"area":["territory:JE","territory:GG"],"name":"Strategic Health Authorities","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"L00"}
+add-item	{"name":"Strategic Regeneration Areas","start-date":"2010-05-06","statistical-geography":"W26"}
+add-item	{"name":"Built-up Areas","organisation":"government-organisation:D303","start-date":"2013-06-27","statistical-geography":"W37"}
+add-item	{"name":"Police Force Areas","organisation":"government-organisation:OT657","start-date":"2016-02-01","statistical-geography":"N23"}
+add-item	{"name":"Northern Ireland Fire and Rescue Service","start-date":"2016-02-01","statistical-geography":"N31"}
+add-item	{"name":"Census Merged Wards","organisation":"government-organisation:D303","start-date":"2013-01-31","statistical-geography":"E36"}
+add-item	{"name":"Census Detailed Characteristics","organisation":"government-organisation:OT1075","start-date":"2013-11-01","statistical-geography":"S28"}
+add-item	{"name":"European Electoral Regions","organisation":"government-organisation:OT428","start-date":"2010-05-06","statistical-geography":"N07"}
+add-item	{"name":"Highlands and Islands Enterprise","start-date":"2009-01-01","statistical-geography":"S24"}
+add-item	{"name":"European Electoral Regions","organisation":"government-organisation:OT432","start-date":"2009-01-01","statistical-geography":"W08"}
+add-item	{"name":"Care Trusts","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"E17"}
+add-item	{"name":"Country","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"S92"}
+add-item	{"name":"Island Groups","organisation":"government-organisation:OT1075","start-date":"2016-02-01","statistical-geography":"S36"}
+add-item	{"name":"Local Government Districts","organisation":"government-organisation:EA701","start-date":"2015-04-01","statistical-geography":"N09"}
+add-item	{"name":"Cancer Registries","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"W12"}
+add-item	{"name":"Workplace Zones","organisation":"government-organisation:D303","start-date":"2013-01-31","statistical-geography":"E33"}
+add-item	{"name":"Small Areas","organisation":"government-organisation:EA701","start-date":"2013-01-31","statistical-geography":"N00"}
+add-item	{"name":"Inner and Outer London","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E13"}
+add-item	{"name":"Police Force Districts","organisation":"government-organisation:OT657","start-date":"2016-02-01","statistical-geography":"N24"}
+add-item	{"name":"Travel to Work Areas","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E30"}
+add-item	{"name":"Registration Districts","organisation":"government-organisation:D303","register":"statistical-geography-registration-district-eng","start-date":"2009-01-01","statistical-geography":"E28"}
+add-item	{"name":"Localities","organisation":"government-organisation:OT1075","start-date":"2009-01-01","statistical-geography":"S19"}
+add-item	{"name":"Department for Children, Education, Lifelong Learning and Skills, WG","start-date":"2009-01-01","statistical-geography":"W16"}
+add-item	{"name":"Built Up Areas","organisation":"government-organisation:D303","start-date":"2013-06-27","statistical-geography":"K05"}
+add-item	{"name":"Civil Parish","organisation":"government-organisation:OT1075","start-date":"2016-02-01","statistical-geography":"S35"}
+add-item	{"name":"Scottish Fire and Rescue Service","organisation":"government-organisation:DA1020","start-date":"2016-02-01","statistical-geography":"S38"}
+add-item	{"name":"Cancer Registries","organisation":"government-organisation:EA480","start-date":"2009-01-01","statistical-geography":"E20"}
+add-item	{"name":"Local Health Boards","start-date":"2009-01-01","statistical-geography":"W11"}
+add-item	{"name":"Primary Care Trusts","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"E16"}
+add-item	{"area":["territory:IM"],"name":"Primary Healthcare Directorate","organisation":"government-organisation:PB1202","start-date":"2010-05-06","statistical-geography":"M01"}
+add-item	{"name":"Westminster Parliamentary Constituencies","start-date":"2009-01-01","statistical-geography":"S14"}
+add-item	{"name":"Metropolitan Districts","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E08"}
+add-item	{"name":"National Cancer Vanguards","organisation":"government-organisation:PB481","start-date":"2016-11-23","statistical-geography":"E57"}
+add-item	{"name":"Output Areas","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E00"}
+add-item	{"name":"Super Output Areas, Lower Layer","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"E01"}
+add-item	{"name":"Non-National Park Area","start-date":"2010-10-31","statistical-geography":"W31"}
+add-item	{"name":"Communities First Areas","start-date":"2011-01-01","statistical-geography":"W33"}
+add-item	{"name":"Census Merged Wards","organisation":"government-organisation:D303","start-date":"2013-01-31","statistical-geography":"W39"}
+add-item	{"name":"London Assembly Constituencies","organisation":"local-authority-eng:GLA","start-date":"2009-05-06","statistical-geography":"E32"}
+add-item	{"name":"Census Merged Counties","organisation":"government-organisation:D303","start-date":"2013-04-01","statistical-geography":"E42"}
+add-item	{"name":"Country","organisation":"government-organisation:D303","start-date":"2010-05-06","statistical-geography":"N92"}
+add-item	{"name":"Intermediate Zones","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S02"}
+add-item	{"name":"Strategic Health Authorities","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"E18"}
+add-item	{"name":"Electoral Wards/Divisions","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E05"}
+add-item	{"name":"Pan Strategic Health Authorities","organisation":"government-organisation:PB1202","start-date":"2009-01-01","statistical-geography":"E19"}
+add-item	{"name":"Regeneration Outcome Agreement Areas - Scotland","organisation":"government-organisation:DA1020","start-date":"2009-01-01","statistical-geography":"S04"}
+add-item	{"name":"London Boroughs","organisation":"government-organisation:D4","start-date":"2009-01-01","statistical-geography":"E09"}
+add-item	{"name":"London Boroughs","organisation":"government-organisation:D4","register":"statistical-geography-london-borough-eng","start-date":"2009-01-01","statistical-geography":"E09"}
+add-item	{"name":"Counties","organisation":"government-organisation:D4","register":"statistical-geography","start-date":"2009-01-01","statistical-geography":"E10"}
+add-item	{"area":["territory:IM"],"name":"British Crown Dependency","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"M83"}
+add-item	{"name":"Registration Districts","organisation":"government-organisation:D303","start-date":"2009-01-01","statistical-geography":"W20"}
+add-item	{"name":"Integration Authorities","start-date":"2016-02-01","statistical-geography":"S37"}
+add-item	{"name":"England and Wales","organisation":"government-organisation:D303","start-date":"2010-10-31","statistical-geography":"K04"}
+add-item	{"name":"Great Britain","organisation":"government-organisation:D303","start-date":"2010-10-31","statistical-geography":"K03"}
+add-item	{"name":"Enterprise Zones","organisation":"government-organisation:D4","start-date":"2016-02-01","statistical-geography":"E49"}
+add-item	{"name":"Police Force Areas","organisation":"government-organisation:D16","start-date":"2009-01-01","statistical-geography":"E23"}
+append-entry	system	name	2017-08-04T15:14:55Z	sha-256:a91d631586ec6609676851d67b1130a8d7e9cf4dd3bfcac687a70adfa278cdaf
+append-entry	system	custodian	2017-08-04T15:14:55Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography	2017-08-04T15:14:55Z	sha-256:cf41b32aab2f57cb558df85de590d94c34178bdcb5768fba2576bff39296edf8
+append-entry	system	field:name	2017-08-04T14:37:58Z	sha-256:44fd2a5810045e94c0a9c6b0e49bb9f0abab65699bc0c93067e1f89e38b7661f
+append-entry	system	field:area	2017-08-04T15:14:55Z	sha-256:8a14865b2b3d58bd154202372da72da7af5bf38c18321aa8537aa3579bde4ab6
+append-entry	system	field:organisation	2017-08-04T15:14:55Z	sha-256:ab37e2bcbb803b0a0a563add927311acc5618ee17302cdc01cb9377f7ebf3bde
+append-entry	system	field:register	2017-08-04T15:14:55Z	sha-256:332b083ad764d967b33b37b3693425fd52c35eee085ef05bc7ede9b7158cfbcf
+append-entry	system	field:start-date	2017-08-04T15:14:55Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-08-04T15:14:55Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography	2017-08-04T15:14:55Z	sha-256:e043c9c3add2a67fefaf22e39830670657cc0eea8d17400fb328cca34b7bc44f
+append-entry	system	field:statistical-geography	2018-06-07T11:36:11Z	sha-256:5348e291d8d8ed04771428ef76c7abe2e9212596754f167dad2f11182268387c
+append-entry	system	register:statistical-geography	2018-09-05T12:04:58Z	sha-256:e043c9c3add2a67fefaf22e39830670657cc0eea8d17400fb328cca34b7bc44f
+append-entry	system	register-name	2018-09-05T17:21:10Z	sha-256:8d4d987d74b58ccaeba0b30c3632f0847dffbd77591ae13a547d96e4dd1d77cf
+append-entry	system	register-name	2018-09-10T10:29:35Z	sha-256:a290b1481772c02e31e026e9b2673441b6377a34224c04192223c0665a40b082
+append-entry	user	E92	2017-08-04T15:14:55Z	sha-256:97d105d4bb0b028a9ee93c7f91554265b95576e7cdab8195d880e8346169708b
+append-entry	user	E00	2017-08-04T15:14:55Z	sha-256:e57ac678d6874a1092f04478951ad5f8bdf94897222bae560bde79e583796916
+append-entry	user	E01	2017-08-04T15:14:55Z	sha-256:e66020f1a9d632c0ef29fee0e6258c9acd3e40345866fd7edc172d3a936d816f
+append-entry	user	E02	2017-08-04T15:14:55Z	sha-256:8c1f8d802b2d891f32605899d81d2c9d0d01cd6fe52c346c4584603115cffaf1
+append-entry	user	E04	2017-08-04T15:14:55Z	sha-256:3f07b0734ba3374cfb1ce8189de4f654322bf5213f96bdeca2f367ef20f73fdc
+append-entry	user	E05	2017-08-04T15:14:55Z	sha-256:f2cb36dc2aef13552d6ccbf4e5cf6744e7a925687bfe2704d1c3ebf0ecd2ae09
+append-entry	user	E06	2017-08-04T15:14:55Z	sha-256:2c8dbffa9a5ebcf10cdce6692ff83d44836585537eacc8061c81b2cc3a2b830e
+append-entry	user	E07	2017-08-04T15:14:55Z	sha-256:6cd1d7b801e1c19022867e0e13e26f2c5fe66d294b9f39b74ccf25dfb434cede
+append-entry	user	E08	2017-08-04T15:14:55Z	sha-256:e40dcbf6d5c8996e856df192dd08bcb3622abb4d3e7833cf2aece143387541b3
+append-entry	user	E09	2017-08-04T15:14:55Z	sha-256:f4ff1ab7fe28ba2b6d04fefb2571c6293a5ff1336776c81a11e211e561a9f15e
+append-entry	user	E10	2017-08-04T15:14:55Z	sha-256:00c5e0833a1c1cb70272dce0b6926991d4ccf178ef87d7888431b10a9cc8a370
+append-entry	user	E11	2017-08-04T15:14:55Z	sha-256:269981f91f948ef4f498972b1f5967f17ede6b7bf8f81cf1c09fc73cff2fdf5c
+append-entry	user	E12	2017-08-04T15:14:55Z	sha-256:6d60143cb5db413329ad6cf663180ada66e129284b23b406b6520e1c1d44ad00
+append-entry	user	E13	2017-08-04T15:14:55Z	sha-256:c62f71eeeecd59fc4b67809a5ebab51960605adb69cb88009baa47236a91be94
+append-entry	user	E14	2017-08-04T15:14:55Z	sha-256:0486392493ec64ff8bbe32e078acb72365237f5512b766f90a37b5ea9b337285
+append-entry	user	E15	2017-08-04T15:14:55Z	sha-256:66ab21a1068d959a4d7785d2f95d2b6c7511149e3404c7dadf293d3feaf51eed
+append-entry	user	E16	2017-08-04T15:14:55Z	sha-256:dbe453d8c09cba330a0b660fe59eb84a0226864200f973ed2afac1a5d058d8ca
+append-entry	user	E17	2017-08-04T15:14:55Z	sha-256:b85bc14643b70f95b4b670215d2734e72e966a0facdfd27adf23734e5c5ea8a1
+append-entry	user	E18	2017-08-04T15:14:55Z	sha-256:f2353c39fbd7c1ed34b4714b42e82adfe9b26f1d84ca7fe1cdffe09f937f47e9
+append-entry	user	E19	2017-08-04T15:14:55Z	sha-256:f455f2ca41731bbd2284873b3d2f72ef41b37ebe57478bc5b3dd751ef6a8a2df
+append-entry	user	E20	2017-08-04T15:14:55Z	sha-256:da1bd4cde1577048e860085f1957d65bf217981999290339c9059b97cac9fd3b
+append-entry	user	E21	2017-08-04T15:14:55Z	sha-256:6f2b254a9e356c523d635ab2c09884edfe193719bb8f3afaa9af054f38582341
+append-entry	user	E22	2017-08-04T15:14:55Z	sha-256:9a59ce8ec0b3e28be7203e866a5024a099a33790f724c378e2c6fa4f28416d8c
+append-entry	user	E23	2017-08-04T15:14:55Z	sha-256:ff30d84d22b44a731fd30d0b52761316205a1f42662bd80f12569d1a99d22198
+append-entry	user	E24	2017-08-04T15:14:55Z	sha-256:05c753e3ff585f4dd7dba649e1a68732156b9fb17451daefddcd0a8714260596
+append-entry	user	E25	2017-08-04T15:14:55Z	sha-256:0c2f77777500458536fea85867b90e825ccde104a9b7838d1776ac4b8d89b863
+append-entry	user	E26	2017-08-04T15:14:55Z	sha-256:2c0808a594d985d50c3ebd4b813a55ee46dcf1631faa657e60608f113bc576e0
+append-entry	user	E27	2017-08-04T15:14:55Z	sha-256:7b8f2d01da7a22ba1719ac24c5d3813549936aba23b475985ccaf55d20725baf
+append-entry	user	E28	2017-08-04T15:14:55Z	sha-256:9223d135c6794bf8860206791541f6265bb7e3d287a2a58d98462c1e444e8304
+append-entry	user	E29	2017-08-04T15:14:55Z	sha-256:0dec92457aaa28060446b0d8d26aab24d893eef624f5fe206d44efee3f4745d0
+append-entry	user	E30	2017-08-04T15:14:55Z	sha-256:c80594787df9a36f8724bfb7ebc423acb8c2490edeaa66914cb9abe590a0a9b3
+append-entry	user	E31	2017-08-04T15:14:55Z	sha-256:18dc7f54099240546a14719bba1d6522fa8d70f7bf830d3de7db82416a77670a
+append-entry	user	E32	2017-08-04T15:14:55Z	sha-256:e7ef536b282ea3efe293e3e40d9a7e398d2ce2bf8ffffd3bebe2292e768e4dce
+append-entry	user	E33	2017-08-04T15:14:55Z	sha-256:c56245d59c6a76cb337dff10dbefbfb19ae4ac79fb1138f3afa05fd077b82627
+append-entry	user	E34	2017-08-04T15:14:55Z	sha-256:023b159e938fb3dd0f912da5188c357e72365891891b32190fb1176a1bb73aaf
+append-entry	user	E35	2017-08-04T15:14:55Z	sha-256:1558c0ddd39271af063f5ab23339ff122eb06a9a00d2d0521bacc1d227feaf94
+append-entry	user	E36	2017-08-04T15:14:55Z	sha-256:b0b7e5e8f4e6798e2c892d48e5b78e56d819194b247579c10f1365eb2fa36208
+append-entry	user	E37	2017-08-04T15:14:55Z	sha-256:3173c31e489b35fd89000fe69bd1fb243731a803c8f3a6e6a78a05d212f28c4a
+append-entry	user	E38	2017-08-04T15:14:55Z	sha-256:09471fe7145994fdbe97e98f50a10b5b9c34c276b9107127a2893c2331e825ed
+append-entry	user	E39	2017-08-04T15:14:55Z	sha-256:45e048c7f298591c7fe41cd2f907fde1c9489d83f1e538299937243a6c1a0557
+append-entry	user	E40	2017-08-04T15:14:55Z	sha-256:7bd2d90ffe807ce272a1b29873051994c12da60809d48d27ca9b676fe1e87950
+append-entry	user	E41	2017-08-04T15:14:55Z	sha-256:4f49378c9b778e79d174c96b86d0bf7c9914d508ebfcbf8de86eada1696fa3a1
+append-entry	user	E42	2017-08-04T15:14:55Z	sha-256:ebf7ed814a897573ac463daea626bbedf2e2eb5bade43ff68c46d895d623abb1
+append-entry	user	E43	2017-08-04T15:14:55Z	sha-256:3f1e1dc2cf566fda15afbe546a3098771f1b264274c543071f758bea1d925dbe
+append-entry	user	E45	2017-08-04T15:14:55Z	sha-256:7bff80c0634c1113c25b83f6995098f65b2844dc77d213a98a38dddded41fe4c
+append-entry	user	E46	2017-08-04T15:14:55Z	sha-256:3e437014686a2927b7568bbdcd5cabfc0ec2e627ba7ac01de93e90d25d306ed0
+append-entry	user	E47	2017-08-04T15:14:55Z	sha-256:685a33a888d277f65ceac57e50ed01691c9f63ee369a70ab7df26fe6f2e6553a
+append-entry	user	E48	2017-08-04T15:14:55Z	sha-256:43ffe1e30f9e238a489556e3da814137cfab1328f52ca4471108ef2d713bd86c
+append-entry	user	E49	2017-08-04T15:14:55Z	sha-256:fe16616bf0071bd3451ba6a3d597ff1a0b07412079de2ba70fc7197005fce804
+append-entry	user	E50	2017-08-04T15:14:55Z	sha-256:39023ed97b499de714d01d5dce12e97f254501c486771b2dca4f0fa8003f9b9c
+append-entry	user	E51	2017-08-04T15:14:55Z	sha-256:450bf536b6f5f5dcac53b2ea1e98161369c8e6e579ee530423b0610510559309
+append-entry	user	E52	2017-08-04T15:14:55Z	sha-256:6c144213dd89408dd17a022d482830308f7479f32cc72f374171a99190e23365
+append-entry	user	E53	2017-08-04T15:14:55Z	sha-256:4acd0c66c1a7fd930c0fac1bc5e4d1c1fec88d8b1683c6db3b6062fd24df23f5
+append-entry	user	E54	2017-08-04T15:14:55Z	sha-256:758a0caa838f6d20aac09be69f88f0d49d379be57483825ef19b73bc721ebae5
+append-entry	user	E55	2017-08-04T15:14:55Z	sha-256:46c053c324eddc2c5d79bb8cf8b79c918809ab00db94a2fb2699b91f9ae167d2
+append-entry	user	E56	2017-08-04T15:14:55Z	sha-256:1a2ba69bbba85e5d56dcf83e70cbb15916eaff63d01beb666def597c879531da
+append-entry	user	E57	2017-08-04T15:14:55Z	sha-256:e51ccbb0b8b960be38360cac9c87f83a88811d38fb0e56d8e9021bde144abca9
+append-entry	user	W92	2017-08-04T15:14:55Z	sha-256:06a209effb0a4d0923111a7359c4defcb71fa41e71ec510df2ef103b1dc4aee5
+append-entry	user	W00	2017-08-04T15:14:55Z	sha-256:1b00d6e99c43dd7899cc28f1a440c53252816f8c8e1732cdd4be0e8cb7626a30
+append-entry	user	W01	2017-08-04T15:14:55Z	sha-256:90cf86d4290ce779d30a322d9d7ce68bda2f85ec16b979a2aa073c797e9c465d
+append-entry	user	W02	2017-08-04T15:14:55Z	sha-256:69853ae237e33884c49f8b883dc8b5ee1fb33c552923394f66c4ce66f5471c23
+append-entry	user	W03	2017-08-04T15:14:55Z	sha-256:9fa3cc0fb735bdad7a7ff45044e3191f4b27be0ada999d7ab2771e66c3b8321a
+append-entry	user	W04	2017-08-04T15:14:55Z	sha-256:147ac82a41262d1664ed5c8d623a35eab2d196ffc89bb782c76b2f8aa8e392ba
+append-entry	user	W05	2017-08-04T15:14:55Z	sha-256:3a0e8efd2dbaf6f270a0bcc71d9058c98856cd43b6cf8b8a9857d079da65c3ca
+append-entry	user	W06	2017-08-04T15:14:55Z	sha-256:6f9d4553694822dc16c5dd182a58a451aef043f973063d8551f04976ffe49c42
+append-entry	user	W07	2017-08-04T15:14:55Z	sha-256:6c4a768ecdd24547fcb8a24c0d5293c6ac020d98d77de6b1cfbc27be4993b05f
+append-entry	user	W08	2017-08-04T15:14:55Z	sha-256:b781003c5b30fcedb1e3ecc5433dcc751f31fcd7158b8170c77b8414b6f55a61
+append-entry	user	W09	2017-08-04T15:14:55Z	sha-256:5635ad04b506b0ad0cfdea14da258b691fc8932c3c40e11e41aa4c24ac678504
+append-entry	user	W10	2017-08-04T15:14:55Z	sha-256:2c3b441c5db7d38e8c941f0e02b222a4c72a55651ef43362fabf01336d200ada
+append-entry	user	W11	2017-08-04T15:14:55Z	sha-256:dafe4ef89417a37d97e5ec298dd38435edf26d78f455ea047a022ab0c37945f2
+append-entry	user	W12	2017-08-04T15:14:55Z	sha-256:c41aea71ee527edd7415f11d2d189662634b806a43cf877d3eddee0b8cc52f03
+append-entry	user	W13	2017-08-04T15:14:55Z	sha-256:0bea8fbca39ab057905cdd008619253ce5d3a548a175a9df46454715bee6a7a2
+append-entry	user	W14	2017-08-04T15:14:55Z	sha-256:1c84d511bc457b34f1aa36d3c09c0b417785c0dc019a3bafe1a5369cee4ec838
+append-entry	user	W15	2017-08-04T15:14:55Z	sha-256:7b334dfd108ac6c738107b44a105b6329f6e045ead11afe5b96f54aa8efb432f
+append-entry	user	W16	2017-08-04T15:14:55Z	sha-256:d261e1a37adac597672f4fa264618e57894adff6a1577915de205d364a3e0e94
+append-entry	user	W18	2017-08-04T15:14:55Z	sha-256:69c49055f6a610e55bb728109090d691f03681a5c8ca0608cbb72ecf0c905c88
+append-entry	user	W19	2017-08-04T15:14:55Z	sha-256:4abe68bceb632b7feed8c788f8b1606537429152a339b30d68b0e48b3145b34e
+append-entry	user	W20	2017-08-04T15:14:55Z	sha-256:fadf50ac0648461dd49a643f33262d4d967ee85bff56fb25a091d258fa20af3f
+append-entry	user	W21	2017-08-04T15:14:55Z	sha-256:9204d65a7fc6e1bfd93831cdf612e21337cb63d53b93e44be8823876be15ca48
+append-entry	user	W22	2017-08-04T15:14:55Z	sha-256:191ce7b6be0df9cceb681862e02ae1ac9444a6d2673dd74fc2a97bede5c5bb58
+append-entry	user	W23	2017-08-04T15:14:55Z	sha-256:38ae993abf5291cd4f2f633b5374f54606e9de0d127c2171ecc10817f7811ef2
+append-entry	user	W24	2017-08-04T15:14:55Z	sha-256:5c1edbc4c840afb914b63cb1d895b1c9aee5a1cdabb364581f457689a642de55
+append-entry	user	W25	2017-08-04T15:14:55Z	sha-256:5bf3add31ec41eb029aece413fe36e5ef06a1ae7b14ae57f631f47b62d6f7289
+append-entry	user	W26	2017-08-04T15:14:55Z	sha-256:a244766e78253d385dc0d37ce7e7fbe244fac245d630a90c3be02c40e5997ec2
+append-entry	user	W27	2017-08-04T15:14:55Z	sha-256:31150c36b5deca464b1f5975342e2d9864eb7a47806fc5b890777c3c4a181bfe
+append-entry	user	W28	2017-08-04T15:14:55Z	sha-256:1bb19e5c82bf1bb0ffc59206a24e5196b456dafe27baca33252617bd5397e30e
+append-entry	user	W29	2017-08-04T15:14:55Z	sha-256:5100c61f1ed2908219e2cd256b2d208ebd767eca46abd99e7f56863311c4ce0f
+append-entry	user	W30	2017-08-04T15:14:55Z	sha-256:67af162bd0a4cfb7bf0771f7437f2bd9c4cc96623fa2ebedf38e173d7ce02419
+append-entry	user	W31	2017-08-04T15:14:55Z	sha-256:e6bdb3431e3fcba96d701e0b82279220fc4d9f6ce621e848d9d0ee6f556c16fc
+append-entry	user	W32	2017-08-04T15:14:55Z	sha-256:9a7889ff97d2108db2020b2b198a450ebc8d10e9e1ac057039af548591d2f111
+append-entry	user	W33	2017-08-04T15:14:55Z	sha-256:e6c319478afe2d22b826ecbf1d6b4e56098ad41ed33b005c8e7350ac88b4a3a4
+append-entry	user	W34	2017-08-04T15:14:55Z	sha-256:7815d30e900f0e0391fd24685fcd345b5a40812eb46dcaee08898d9465c1d17b
+append-entry	user	W35	2017-08-04T15:14:55Z	sha-256:1adca8fc6fdba19ec43147cd88da1fa698d3f204b0f8b533c36b7c4005d60164
+append-entry	user	W36	2017-08-04T15:14:55Z	sha-256:63a72dd6af05c641c171295d4e8418ffb97a55bf72ca930116a827d475e486e0
+append-entry	user	W37	2017-08-04T15:14:55Z	sha-256:aa02d42035ede5bc3228758a29c2835f0c4f397ff74b88ac59bb89d79cbf82e3
+append-entry	user	W38	2017-08-04T15:14:55Z	sha-256:5ea800e414e1dc075c111d84e6a075e9502795a33f81b33589fd3f372de127e3
+append-entry	user	W39	2017-08-04T15:14:55Z	sha-256:e701fdb4355223e4c3ff4d64b729957a4f03e0dc218ab47c56cf47e98516be4f
+append-entry	user	W40	2017-08-04T15:14:55Z	sha-256:870d2fb16beacb5303df8b947ad3b8c60824fbd51ddb70099e19833eba305804
+append-entry	user	W41	2017-08-04T15:14:55Z	sha-256:7375c8f1d6ec44eb8da734ddf98e82176390d82992e60d038319ddb857d79e99
+append-entry	user	S92	2017-08-04T15:14:55Z	sha-256:b8dfeb39e792e1859785b124d33a9338b24816a92c6402f71f34228f3d608de1
+append-entry	user	S00	2017-08-04T15:14:55Z	sha-256:68a95c835b3940eb6d38b257932171dc00ea331bb61278905cfccfa870dfe778
+append-entry	user	S01	2017-08-04T15:14:55Z	sha-256:6ea6778564d47633b4b6a230b503cea9e3c2b25387c5a81c18b53cf3a81b984a
+append-entry	user	S02	2017-08-04T15:14:55Z	sha-256:efe504577fa87d4ccff334f9cdc746514577e360e77b357eb36dc69a749a2863
+append-entry	user	S03	2017-08-04T15:14:55Z	sha-256:771d800ba4c8acec2870555a03403d24bb59510e9cd9312eb878045dce1069d4
+append-entry	user	S04	2017-08-04T15:14:55Z	sha-256:f48b947c3cf65d292c0bba2e5b8a875949246bb20fd47300e36d39d05bc876f4
+append-entry	user	S05	2017-08-04T15:14:55Z	sha-256:3b52ea9a5da44e490619dbf72e65dffeeeeb351139ee1d8a6f988a283268c203
+append-entry	user	S06	2017-08-04T15:14:55Z	sha-256:8cad0c220c3de7659f117b23fa2a2c640fb8ba487803374c0e026052e10b9981
+append-entry	user	S07	2017-08-04T15:14:55Z	sha-256:9bae502564254059ccd923f96cfda1c6591e0f32f98a94d65ba7b72e482e82e6
+append-entry	user	S08	2017-08-04T15:14:55Z	sha-256:44a71b967bbed3f70e86fd9619eeea25d761b7cc43cf3b87c46664f8db8dae53
+append-entry	user	S09	2017-08-04T15:14:55Z	sha-256:4670de9183273463de07a5ed91ee54cca53db9ff07eb75ec9ef9470d6c7bce26
+append-entry	user	S10	2017-08-04T15:14:55Z	sha-256:3868c0f5b97090d823ff8c2aafc3524380960d99c47472e85d2481b3acc680a4
+append-entry	user	S11	2017-08-04T15:14:55Z	sha-256:4e8d066cd0ea2f5396c83ae496fc4e84508987445e4aaf0ab5e99e62767ea859
+append-entry	user	S12	2017-08-04T15:14:55Z	sha-256:13c6a3cee967172da41ea6efc504c5b1b35b6d2d50e70fcb43ee1457bd308830
+append-entry	user	S13	2017-08-04T15:14:55Z	sha-256:83b790317428ffc1780b94b066fdf74a85e838bb5e98be707e87eff69e13f6c4
+append-entry	user	S14	2017-08-04T15:14:55Z	sha-256:e40aedb4c6a4351d32773ccc0ca405a24601ad5931b628795402b739d2166417
+append-entry	user	S15	2017-08-04T15:14:55Z	sha-256:6a7afdb5f7babeabd184979e6de246b18c43e739efba0161e2f34d8bac12be6c
+append-entry	user	S16	2017-08-04T15:14:55Z	sha-256:58a842a884825c29f806da8b741ed83eac4252d1aa87f6436d8d68f46fa21a72
+append-entry	user	S17	2017-08-04T15:14:55Z	sha-256:4a3cb6dca26610ade8b4d7ea17ae61eaac5300185b3cffe918c27f4dc300113e
+append-entry	user	S19	2017-08-04T15:14:55Z	sha-256:cc20b3f01a3164c462da5faac9d480d174ddd5ea1176b1a63a1e0fda485cbfca
+append-entry	user	S20	2017-08-04T15:14:55Z	sha-256:136fb418452a851be0945537655607971f6f0fe710b051b9673c21ea82036f23
+append-entry	user	S21	2017-08-04T15:14:55Z	sha-256:8a15af6c6ed81d3c6ad5687e413d22d0cb42d20bc1dc02a0478747b99f4cdf04
+append-entry	user	S22	2017-08-04T15:14:55Z	sha-256:19b98a16b4fdf38555ffa8f2fb83439ec098aca84fcf28a7efb4b1376da69247
+append-entry	user	S23	2017-08-04T15:14:55Z	sha-256:41ece1098fb4774f3a62dcf301f0a984486c3af67f2de42064523f36abb0a256
+append-entry	user	S24	2017-08-04T15:14:55Z	sha-256:b5d10efbeea51b65abf281e2462073ffc2b6a286ee35abf40f10bd43c5b48cbb
+append-entry	user	S25	2017-08-04T15:14:55Z	sha-256:31fb07b20ec185f61836bf30e0311699dd24e6400594fbdadd828e190e958f74
+append-entry	user	S26	2017-08-04T15:14:55Z	sha-256:1a02f4b2c803eee6f764321084622178592132721fdf0b7945035122394febea
+append-entry	user	S27	2017-08-04T15:14:55Z	sha-256:5c70faf228db524996341d73a094939a34700bd837b7b7e7b6f91a8d51f2f8b2
+append-entry	user	S28	2017-08-04T15:14:55Z	sha-256:b3ab1be176abe5affe8f6f7c003c95c431b83d8f90ba6dd46dc43b930d1be24f
+append-entry	user	S29	2017-08-04T15:14:55Z	sha-256:6fb5422fdad44150f691d85be15a1705fca508321c3dfe596020d09c45a1f37e
+append-entry	user	S30	2017-08-04T15:14:55Z	sha-256:93b2024511833fc266a80e135003d2859eee804f1793b37476e04921f7d24fe1
+append-entry	user	S31	2017-08-04T15:14:55Z	sha-256:9e47ece9c39c96d44c179daf98b663ff9b47025bc2101c8f85b8c99356b8ca9b
+append-entry	user	S32	2017-08-04T15:14:55Z	sha-256:26413ce063dc9876807f7e62c2fc82b3e3ae4a8989fa1f0918cc891d97a2eb29
+append-entry	user	S33	2017-08-04T15:14:55Z	sha-256:8bb2c5db8ad79c24ed53c4cdb7e1019df8555deb6f04e32e7d318654adec0913
+append-entry	user	S34	2017-08-04T15:14:55Z	sha-256:450a373d3f3250b127ba0f8815ebcb5ac8fd855b347c599571bca04f480f52b3
+append-entry	user	S35	2017-08-04T15:14:55Z	sha-256:d5328035b0ede487817044794d0e92adf59f8d59a69e950fa40c71e785ab5980
+append-entry	user	S36	2017-08-04T15:14:55Z	sha-256:bbd1012b78344747e263271cf0241f444a51eb20aa58b3de346e4d224f8697f8
+append-entry	user	S37	2017-08-04T15:14:55Z	sha-256:fae9b72a960aa8434ff8309601bd5570105fa7e0fe8e2d9c2ef877029ae3b790
+append-entry	user	S38	2017-08-04T15:14:55Z	sha-256:d793f17df78e9a436f64bd8be701daf957f237011d6dd37f25066db045724311
+append-entry	user	S39	2017-08-04T15:14:55Z	sha-256:527ad97e9980fcf465c3d88d182e6d3fa5102f386540d1b81102121702c3d28f
+append-entry	user	S40	2017-08-04T15:14:55Z	sha-256:206e417a686def8a84d550cb94b362b296aba459c6a80beb599b1ac52841391f
+append-entry	user	N92	2017-08-04T15:14:55Z	sha-256:ecdfb118a6b80da1f502db16acc84db011f546a69c348d8f4d798fff9e9bdc44
+append-entry	user	N00	2017-08-04T15:14:55Z	sha-256:c5cb4e440e481d244032e31656c669b39e9e8899661e29d3161c81624cedc4f8
+append-entry	user	N06	2017-08-04T15:14:55Z	sha-256:5574593f2cf03a3155ca1af730feaae4c03edec66d68a223040e9388a34f977d
+append-entry	user	N07	2017-08-04T15:14:55Z	sha-256:b593ebac784bfd6c5a6cced70ab33a73bc0cfebeb80fd2e4a2d0cd4a3673a784
+append-entry	user	N08	2017-08-04T15:14:55Z	sha-256:65feba428dbf7d3c623112e5b3efaa93a7ba99261f915b8c8ed0c66f7240adda
+append-entry	user	N09	2017-08-04T15:14:55Z	sha-256:becf25cd61cb74ad67a8c56f02b2bee25e6fa30c4db0cfe58c1a55dc7945fc4b
+append-entry	user	N10	2017-08-04T15:14:55Z	sha-256:109a191a12d2c7eb4f8584150b3e7f965b06c1c81d38d12e28c01f039c565f61
+append-entry	user	N11	2017-08-04T15:14:55Z	sha-256:59c53d6bdfda606113145e685f36574f8ebb82e0bbc6ad28051cb0de48ae4eb5
+append-entry	user	N12	2017-08-04T15:14:55Z	sha-256:3728affe06d52f19453d26c14c4859b16ba25a9ee90aad75a71347a3b41ccfe4
+append-entry	user	N19	2017-08-04T15:14:55Z	sha-256:071f0fdb32293693213ad1d0076a6d30357dfc9b904ae1fd2938c0aae5331da3
+append-entry	user	N23	2017-08-04T15:14:55Z	sha-256:aaf094f7a1f211957d8d32ee51514ac05c333d12cf1ac35d83e7866bd75c7728
+append-entry	user	N24	2017-08-04T15:14:55Z	sha-256:c6df2f0a440c323fa79d0b55e087827c8ef695da2fb5bc76ccd2da25d8655130
+append-entry	user	N31	2017-08-04T15:14:55Z	sha-256:add05bfdab75db372176aaf7cc5b6c85a958b84be9dd4117c2601850b026d6d1
+append-entry	user	N32	2017-08-04T15:14:55Z	sha-256:7ce0be49e041b5a8bdd8deede5ff78083713394e73ab4f0da0e8d2274c0f2a9d
+append-entry	user	N33	2017-08-04T15:14:55Z	sha-256:427d0f4ed9007dc63c763eed7020f48527bf8c705513d46b4dd54009cb995963
+append-entry	user	K01	2017-08-04T15:14:55Z	sha-256:8e2c74e0f33642493e3355f0ed7ebc1f9c518e894cf48ce80eb721509d9b19d7
+append-entry	user	K02	2017-08-04T15:14:55Z	sha-256:9f095a4abc8da17f62fc11a550bd4f09446feb454578beffd08cfcd2e018eeac
+append-entry	user	K03	2017-08-04T15:14:55Z	sha-256:fc3ccf9a0ccf7feb35793f36f44b21e5c59f2c64ce1dfa1d87cbac2bdcda2ecd
+append-entry	user	K04	2017-08-04T15:14:55Z	sha-256:fbd6e9c9b9b83e93f997565c6a4b0a4f8dd6ad7056f5bb1cf1ba4629888914e6
+append-entry	user	K05	2017-08-04T15:14:55Z	sha-256:d37cd0bfca8e8fc28cf6c1b6b7373736e302177c7236edbd4c9141ea48c6ef26
+append-entry	user	K06	2017-08-04T15:14:55Z	sha-256:5a908cb9ccee92198be29fb586908235a62a0d778c7aa89804473ef93ecb18c8
+append-entry	user	L93	2017-08-04T15:14:55Z	sha-256:25b325653cf81e66662a8d667718db44eb714f5ee5c25ae262c141249e7a25a9
+append-entry	user	L00	2017-08-04T15:14:55Z	sha-256:a164bf4a84d2361601a27214d9652ecd32e76f6c51554b5f25c4485f84095de2
+append-entry	user	M83	2017-08-04T15:14:55Z	sha-256:f8ad0773c8688a46385cfda3fdd23c2a7056737f8214adda4b941027c3e723d7
+append-entry	user	M00	2017-08-04T15:14:55Z	sha-256:166abbeb9e8d54268c3c99e5013bab4577946db245a6bf7ba79402abc649db5d
+append-entry	user	M01	2017-08-04T15:14:55Z	sha-256:df4f23706937f862804e0acc35254c3e27ae1d1cd46b08dfc5e2551200205a5a
+append-entry	user	J01	2017-08-04T15:14:55Z	sha-256:50a18c6bbbd80b8737aca2312f4118109d8f02da843371309add38d730e4b02d
+append-entry	user	E10	2017-12-22T10:08:24Z	sha-256:f8984a33c82c2f859fb0707b3e0aef9b1cf24dabbf0dfa9fb920e58864efe609
+append-entry	user	E10	2017-12-22T10:08:24Z	sha-256:89f5154fb74b34db6fe0f8da7fd4a814e1a33851cf6c93afd0df30e6e0a34f12
+append-entry	user	E06	2018-01-03T10:37:01Z	sha-256:93242b12b13bd43f27efa30ac902d60d2a65e9f73e4f07d02c9f43f3ef570c03
+append-entry	user	E07	2018-01-03T10:37:40Z	sha-256:0f9a7c08aa53d9f1807bdd16ac1ed17370c1d404138be21ff70811ca11e838ac
+append-entry	user	W20	2018-01-03T10:38:09Z	sha-256:1fa3b41aa273fd7bfe770e149ac487a22c8c48bbd7f8cbfee8eaf0bdeac719f8
+append-entry	user	E28	2018-01-03T10:38:39Z	sha-256:c8e40afc5f37925b27f244f00b785ff9cff82a71708eb77bc290bcc78496cc20
+append-entry	user	E08	2018-01-03T10:39:03Z	sha-256:76ee851336f8dee998260524241ee395cf714a229dcd14a5b949590b53c63ce5
+append-entry	user	E09	2018-01-03T10:39:30Z	sha-256:f552d2dc6dcea51f3fc7316d7020f0ba2580c43ccf0b9b678ddc79d3810c1214
+assert-root-hash	sha-256:e052221c306afc0f032de7539e90a705c33d6b4f05ce68d08e34cf868fd0b0ee

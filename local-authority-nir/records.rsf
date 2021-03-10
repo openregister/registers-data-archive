@@ -1,0 +1,103 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"name":"local-authority-nir"}
+add-item	{"fields":["local-authority-nir","local-authority-type","name","website","start-date","end-date"],"phase":"beta","register":"local-authority-nir","registry":"department-for-communities-northern-ireland","text":"Local authorities in Northern Ireland"}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-type","phase":"beta","register":"local-authority-type","text":"The type of local government organisation in the United Kingdom."}
+add-item	{"custodian":"Robert Cousins"}
+add-item	{"register-name":"Local authorities in Northern Ireland register"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-nir","phase":"beta","register":"local-authority-nir","text":"A local authority in Northern Ireland."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"url","field":"website","phase":"beta","text":"The website for a register entry."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-nir","phase":"beta","register":"local-authority-nir","text":"The unique code for a local authority in Northern Ireland."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-type","phase":"beta","register":"local-authority-type","text":"The unique code for the type of local government organisation. For example, county council."}
+add-item	{"cardinality":"1","datatype":"url","field":"website","phase":"beta","text":"The website for a record."}
+add-item	{"register-name":"Local authorities in Northern Ireland"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"CSR","name":"Castlereagh Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"LSB","name":"Lisburn City Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"ARD","name":"Ards Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"FER","name":"Fermanagh District Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"CKF","name":"Carrickfergus Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"ANT","name":"Antrim Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"CKT","name":"Cookstown District Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"LRN","name":"Larne Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"DRY","name":"Derry City Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"MYL","name":"Moyle District Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"STB","name":"Strabane District Council"}
+add-item	{"local-authority-nir":"FMO","local-authority-type":"DIS","name":"Fermanagh and Omagh District Council","start-date":"2015-04-01","website":"http://www.fermanaghomagh.com/"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"BLY","name":"Ballymoney Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"ARM","name":"Armagh City and District Council"}
+add-item	{"local-authority-nir":"LBC","local-authority-type":"CIT","name":"Lisburn & Castlereagh City Council","start-date":"2015-04-01","website":"https://www.lisburncastlereagh.gov.uk/"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"OMH","name":"Omagh District Council"}
+add-item	{"local-authority-nir":"MEA","local-authority-type":"BGH","name":"Mid & East Antrim Borough Council","start-date":"2015-04-01","website":"http://www.midandeastantrim.gov.uk/"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"BLA","name":"Ballymena Borough Council"}
+add-item	{"local-authority-nir":"ABC","local-authority-type":"BGH","name":"Armagh City, Banbridge and Craigavon Borough Council","start-date":"2015-04-01","website":"https://www.armaghbanbridgecraigavon.gov.uk/"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"CGV","name":"Craigavon Borough Council"}
+add-item	{"local-authority-nir":"MUL","local-authority-type":"DIS","name":"Mid Ulster District Council","start-date":"2015-04-01","website":"http://www.midulstercouncil.org/"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"DOW","name":"Down District Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"NTA","name":"Newtownabbey Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"LMV","name":"Limavady Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"BNB","name":"Banbridge District Council"}
+add-item	{"local-authority-nir":"DRS","local-authority-type":"DIS","name":"Derry City and Strabane District Council","start-date":"2015-04-01","website":"http://www.derrystrabane.com/"}
+add-item	{"local-authority-nir":"AND","local-authority-type":"BGH","name":"Ards and North Down Borough Council","start-date":"2015-04-01","website":"http://www.ardsandnorthdown.gov.uk/"}
+add-item	{"local-authority-nir":"ANN","local-authority-type":"BGH","name":"Antrim & Newtownabbey Borough Council","start-date":"2015-04-01","website":"http://www.antrimandnewtownabbey.gov.uk/"}
+add-item	{"local-authority-nir":"CCG","local-authority-type":"BGH","name":"Causeway Coast and Glens Borough Council","start-date":"2015-04-01","website":"https://www.causewaycoastandglens.gov.uk/"}
+add-item	{"local-authority-nir":"BFS","local-authority-type":"CIT","name":"Belfast City Council","website":"http://www.belfastcity.gov.uk/"}
+add-item	{"local-authority-nir":"NMD","local-authority-type":"DIS","name":"Newry, Mourne and Down District Council","start-date":"2015-04-01","website":"http://www.newrymournedown.org/"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"MFT","name":"Magherafelt District Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"NYM","name":"Newry and Mourne District Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"DGN","name":"Dungannon and South Tyrone Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"CLR","name":"Coleraine Borough Council"}
+add-item	{"end-date":"2015-03-31","local-authority-nir":"NDN","name":"North Down Borough Council"}
+append-entry	system	name	2017-11-17T16:28:21Z	sha-256:76022a197593bfa69de4b7e529c202ef03b8ae1ef74dc2b3acf7c22bcd17249c
+append-entry	system	custodian	2017-11-17T16:28:21Z	sha-256:f05c21298d46ad3231c41b79e4fe958e2b91e5af2d9b75806d002ac88e9cb603
+append-entry	system	field:local-authority-nir	2017-11-17T16:28:21Z	sha-256:feb34c3ece0eb39a21bdfe0c42293758a9add62de82d086741c6da5f5aa13126
+append-entry	system	field:local-authority-type	2017-11-17T16:28:21Z	sha-256:7171a64b229f10bf409a7454b3e94804c5350b57c2138c2ead244e9632e7e61d
+append-entry	system	field:name	2017-11-17T16:28:21Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:website	2017-11-17T16:28:21Z	sha-256:dd90c470ddbc6bd744f40b4c9fd4483cdc08bc30173812c4a2b89189d50afdd5
+append-entry	system	field:start-date	2017-11-17T16:28:21Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-11-17T16:28:21Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:local-authority-nir	2017-11-17T16:28:21Z	sha-256:d4be6566cbd4ac30f43cbb6bfb3c9567bebe18d2c05a3a880b704ff100934c23
+append-entry	system	field:local-authority-nir	2018-06-07T09:55:46Z	sha-256:10f24b01fc3269009e59d8ff1ad934698a08e7be39dbb0a228151492cdc49ce5
+append-entry	system	field:local-authority-type	2018-06-07T11:04:34Z	sha-256:26134c24d1cd32150ec486ba4670882dcb0ae9885b34cae8f6dd1b6a40bb6434
+append-entry	system	field:website	2018-06-07T12:06:23Z	sha-256:225c00de2d5a2f7ce3c02a40db2cba104c98ed72a981d195f7706ceff9be960e
+append-entry	system	register:local-authority-nir	2018-09-05T10:54:48Z	sha-256:d4be6566cbd4ac30f43cbb6bfb3c9567bebe18d2c05a3a880b704ff100934c23
+append-entry	system	register-name	2018-09-06T12:53:04Z	sha-256:14249b3783828ec9397ebc4bb8018860997cbe9f2ac292ff3896cfbecb0188a0
+append-entry	system	register-name	2018-09-10T10:24:22Z	sha-256:db91fa6722c5dee56ed1c8647600917aa91f599353b476b295d0c5f5dc667950
+append-entry	user	CSR	2017-11-17T16:28:21Z	sha-256:7fcb263c8d5ce3b7e47448c78d6997cc382d584a3d8f3465a10dd749510f3844
+append-entry	user	ARD	2017-11-17T16:28:21Z	sha-256:66fa4d14256e5df602d7ad2f247fee2f007e0c000321cc8aaf00984704dafe2a
+append-entry	user	NDN	2017-11-17T16:28:21Z	sha-256:85290ae7de60f9d1362d4832f05e7452b6250e348fb92a7a2b180148d16ebf48
+append-entry	user	CKF	2017-11-17T16:28:21Z	sha-256:d2b38e97f247817b0337c388acbacc45bb24dcf2bfc70eb1a00e390cfccc0101
+append-entry	user	NTA	2017-11-17T16:28:21Z	sha-256:024c50f5409e46f5724bcc3236e0ea5568ab2eddc41b2c565e652d199a75a5a5
+append-entry	user	ANT	2017-11-17T16:28:21Z	sha-256:9a8e7460c648e102688ef1cd4a72fad8de8b0a332d10e617e7420c3b4fe3f325
+append-entry	user	LSB	2017-11-17T16:28:21Z	sha-256:5e24279c317abd26c63c0bdb5966a69aaebd3c50dd5d7c4c402c34966d513685
+append-entry	user	DOW	2017-11-17T16:28:21Z	sha-256:b1b4985ef0572f00f17f5ac512e04863bcb4200b3749550720224c087e52c413
+append-entry	user	BNB	2017-11-17T16:28:21Z	sha-256:8a9a2587bc416b2d6750c5fa61d8b89efd99aa4dbb47757aec770d0a2067749e
+append-entry	user	NYM	2017-11-17T16:28:21Z	sha-256:e7aabdd1360fb6d08cc480a18d840a85a3f565d8c23e8814d62356c06e36d887
+append-entry	user	ARM	2017-11-17T16:28:21Z	sha-256:adcbc91066a5ce8d597208eec9f069bfa298aa47a6ba8df507adc719170f6374
+append-entry	user	CGV	2017-11-17T16:28:21Z	sha-256:7b21e1cdf2c564117eed3d1760338393d1aba5265da1e9f35f35b5788921a7ae
+append-entry	user	DGN	2017-11-17T16:28:21Z	sha-256:95391ae7b27d53e1156cc7401102cd3d20960c8fca73455a18d5d338ca6609c9
+append-entry	user	FER	2017-11-17T16:28:21Z	sha-256:51b50c8c02e3546717f0c0013692c9dce33c643b339741f90a6dcc93cdf6a2f4
+append-entry	user	OMH	2017-11-17T16:28:21Z	sha-256:aaab3420e3e791f6d2499366db37f68358b012ebe8e9fba7f9e1d630fbe756f9
+append-entry	user	STB	2017-11-17T16:28:21Z	sha-256:b55b36175df4979f1c87444c6872269444a112adfeddebe7c2dde58fbc2c9fd9
+append-entry	user	CKT	2017-11-17T16:28:21Z	sha-256:0dacfc906c919e67dd58369b9e1dcdc978ed57ea6c9a60b2ccf9997b38177b1e
+append-entry	user	MFT	2017-11-17T16:28:21Z	sha-256:655aa81022243e9e17efc95707849aa1f3779719d4baff5c967ad5d2ea4a3e59
+append-entry	user	BLA	2017-11-17T16:28:21Z	sha-256:0670bddc1134a55396ec893814250bafa21697f096575f87d0d5e13a942a23e6
+append-entry	user	LRN	2017-11-17T16:28:21Z	sha-256:c5846c9c00549326e92c7ecfe20cf5daf280e50412b66035d371f6b0d7be2fdd
+append-entry	user	MYL	2017-11-17T16:28:21Z	sha-256:f41d875f84835f3e5bce40eb46ed8cdc0ecad13e50ec401507a38b111ed560d9
+append-entry	user	BLY	2017-11-17T16:28:21Z	sha-256:0346de5a6f13611e63625f40a44cd3e3d83c368471efb7c1762fb630bd018ca7
+append-entry	user	CLR	2017-11-17T16:28:21Z	sha-256:31b7dcad3ac309bf323fa325a3a2895af4b31dd83b6201b1e008eced91cde8cc
+append-entry	user	LMV	2017-11-17T16:28:21Z	sha-256:cac34ccde2f29d439588e68f8f56814efd4f1de61e58940303be8cd1a44ea72c
+append-entry	user	DRY	2017-11-17T16:28:21Z	sha-256:716423cdf735d5f6d01c66b4d62457c28efc662174720ce84578d079fe8fce4c
+append-entry	user	NMD	2017-11-17T16:28:21Z	sha-256:24709a78f22c0c1f10a197d383a2a88aa5ebb520333493e058314aea07eb0f05
+append-entry	user	MUL	2017-11-17T16:28:21Z	sha-256:b6df17e34202be5754999072d84ba4d0eab4a480d320f181144661e209bc4842
+append-entry	user	MEA	2017-11-17T16:28:21Z	sha-256:1947b9a2456ec3e6c190c50fac5372142c2d1bc54f68729ca1195fb13f17417d
+append-entry	user	LBC	2017-11-17T16:28:21Z	sha-256:cc89f1ba0c5837ed569c4c66a2a209a7cf6eb197e21674209b9ae420bf8af2b6
+append-entry	user	FMO	2017-11-17T16:28:21Z	sha-256:2355d9af6c88ca62f51d0133fafbaae4021d00668886a3f0a325a672fbcc77bc
+append-entry	user	DRS	2017-11-17T16:28:21Z	sha-256:a8e214fd5411ca5b6bb8cbaca973e4f1733a3b9a96e26ee56307996fe7e5d083
+append-entry	user	CCG	2017-11-17T16:28:21Z	sha-256:bfbf5fb74634ed5fdcccecc129343056b9dfae5f03a135c7c7c4de696fe922f5
+append-entry	user	BFS	2017-11-17T16:28:21Z	sha-256:710d09b892e7b4d559b53e839c623df7fd4e7942ee7542aa4f805987f7bd6ede
+append-entry	user	ANN	2017-11-17T16:28:21Z	sha-256:912ff4758a6a319bf2ba983e23b143eaef83af8676a946a51c60c973e9701bcd
+append-entry	user	AND	2017-11-17T16:28:21Z	sha-256:2cf3860de576cc9d98b9ec26b986db3da96e7c1f472e488ced73993d96511183
+append-entry	user	ABC	2017-11-17T16:28:21Z	sha-256:6be5cb4d45de8334925425134d90486c636b2ce87a52b5c9cfc6df8ec7b64bd5
+assert-root-hash	sha-256:7cb6f68f2e7d19cee37ba4092533f5f574668e53b1543386ab19ba75fda3fa4f

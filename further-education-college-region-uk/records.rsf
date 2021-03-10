@@ -1,0 +1,28 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"string","field":"further-education-college-region-uk","phase":"beta","register":"further-education-college-region-uk","text":"The unique code of a region where a further education college in the UK is located."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"name":"further-education-college-region-uk"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"fields":["further-education-college-region-uk","name","start-date","end-date"],"phase":"beta","register":"further-education-college-region-uk","registry":"department-for-international-trade","text":"A register of the regions in the United Kingdom, where a further education college is situated"}
+add-item	{"register-name":"Further education colleges UK region"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Sarah Chidgey"}
+add-item	{"fields":["further-education-college-region-uk","name","start-date","end-date"],"phase":"beta","register":"further-education-college-region-uk","registry":"department-for-international-trade","text":"Regions in the United Kingdom where a further education college is located"}
+add-item	{"further-education-college-region-uk":"3","name":"Wales"}
+add-item	{"further-education-college-region-uk":"1","name":"England"}
+add-item	{"further-education-college-region-uk":"2","name":"Northern Ireland"}
+add-item	{"further-education-college-region-uk":"4","name":"Scotland"}
+append-entry	system	name	2018-12-14T11:30:55Z	sha-256:7ec31b36bbcbde5f08fe77a6aa5a71391bb4f4540680c4fba1e50a018089aeaa
+append-entry	system	field:further-education-college-region-uk	2018-12-14T11:30:55Z	sha-256:6bc06ecc32b1517ecac009473192bc605f2ad76700fe59506594431709accee9
+append-entry	system	field:name	2018-12-14T11:30:55Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-12-14T11:30:55Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-12-14T11:30:55Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:further-education-college-region-uk	2018-12-14T11:30:55Z	sha-256:52c6ca4f855a12f35dc92244050740bf9b408a7a2e01e69c82edf5f983154c8b
+append-entry	system	register-name	2018-12-14T11:30:55Z	sha-256:886fd7168edeaba11b94ed3cf74a9a74ecd61bd0852c82881ff208d9a2f52e7b
+append-entry	system	custodian	2018-12-14T11:30:55Z	sha-256:a511bf3fbe93704281f92a040f3279fdc593c614a90651f5ffb0f4b4997fd83c
+append-entry	system	register:further-education-college-region-uk	2018-12-19T11:02:04Z	sha-256:2b3de74596b8111103b7cdbb6fd30c91f69cfe32246c2ecdf422a9698ece1153
+append-entry	user	1	2018-12-14T11:30:55Z	sha-256:a84b65079c3dcf5f9c3ed22887a7886a953bedae6b137fe7bdfe471cc39e26b0
+append-entry	user	2	2018-12-14T11:30:55Z	sha-256:2ad3e3a6b9b6afd007e762d558bcb39cd218f834924ad336298c8ace0f1d5556
+append-entry	user	3	2018-12-14T11:30:55Z	sha-256:67362309b22bc28d71290da30423c9e340e7a879b33408bf089e2b850e95f618
+append-entry	user	4	2018-12-14T11:30:55Z	sha-256:7612ce10f166a4cfd869d418300648ab4e299a08384d1b55dd15ead87a16af7c
+assert-root-hash	sha-256:b78285298cc47793b219d9263dd6a72174baa886f699679eb05dc87a49b48d72

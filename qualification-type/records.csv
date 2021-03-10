@@ -1,0 +1,30 @@
+index-entry-number,entry-number,entry-timestamp,key,qualification-type,name,start-date,end-date
+33,33,2018-10-03T10:54:52Z,"OtherVocationalQualification","OtherVocationalQualification","Other Vocational Qualification",2018-10-01,
+32,32,2018-10-03T10:54:33Z,"PerformingArtsGradedExamination","PerformingArtsGradedExamination","Performing Arts Graded Examination",2018-10-01,
+31,31,2018-10-03T10:54:09Z,"OtherLifeSkillsQualification","OtherLifeSkillsQualification","Other Life Skills Qualification",2018-10-01,
+30,30,2018-10-03T10:53:45Z,EssentialSkillsNI,EssentialSkillsNI,"Essential Skills (Northern Ireland)",2018-10-01,
+29,29,2018-10-03T10:52:08Z,Nvq,Nvq,"National Vocational Qualification",,2018-09-30
+28,28,2018-10-03T10:51:47Z,HigherLevel,HigherLevel,"Higher Level",,2018-09-30
+27,27,2018-10-03T10:51:17Z,"FreeStandingMathematicsQualification","FreeStandingMathematicsQualification","Free Standing Mathematics Qualification",,2018-09-30
+26,26,2018-10-03T10:49:16Z,EntryLevel,EntryLevel,"Entry Level",,2018-09-30
+25,25,2018-01-16T15:08:08Z,EndPointAssessment,EndPointAssessment,"End-Point Assessment",2017-07-21,
+24,24,2018-01-16T15:08:08Z,VocationalQualification,VocationalQualification,"Vocationally-Related Qualification",,
+23,23,2018-01-16T15:08:08Z,"VocationalCertificateAdvanced","VocationalCertificateAdvanced","VCE Advanced Subsidiary Level",,2017-08-04
+22,22,2018-01-16T15:08:08Z,VocationalCertificate,VocationalCertificate,"Vocational Certificate Of Education",,2017-08-04
+21,21,2018-01-16T15:08:08Z,QcfQualification,QcfQualification,QCF,,2016-06-29
+20,20,2018-01-16T15:08:08Z,"OccupationalQualification","OccupationalQualification","Occupational Qualification",,
+19,19,2018-01-16T15:08:08Z,"OtherGeneralQualification","OtherGeneralQualification","Other General Qualification",,
+16,16,2018-01-16T15:08:08Z,GeneralNvq,GeneralNvq,"General National Vocational Qualification",,2017-08-04
+14,14,2018-01-16T15:08:08Z,FunctionalSkillsQcf,FunctionalSkillsQcf,"Functional Skills (QCF)",,2016-06-29
+13,13,2018-01-16T15:08:08Z,BasicSkills,BasicSkills,"Basic Skills",,2017-08-04
+12,12,2018-01-16T15:08:08Z,NotApplicable,NotApplicable,"Not Applicable",,
+11,11,2018-01-16T15:08:08Z,Project,Project,Project,,
+10,10,2018-01-16T15:08:08Z,PrincipalLearning,PrincipalLearning,"Principal Learning",,2017-08-04
+9,9,2018-01-16T15:08:08Z,KeySkills,KeySkills,"Key Skills",,2017-08-04
+8,8,2018-01-16T15:08:08Z,"GeneralCertificateSecondaryEducation","GeneralCertificateSecondaryEducation","GCSE (A* to G)",,
+7,7,2018-01-16T15:08:08Z,Gcse9To1,Gcse9To1,"GCSE (9 to 1)",,
+6,6,2018-01-16T15:08:08Z,GceAsLevel,GceAsLevel,"GCE AS Level",,
+5,5,2018-01-16T15:08:08Z,GceALevel,GceALevel,"GCE A Level",,
+4,4,2018-01-16T15:08:08Z,FunctionalSkillsNqf,FunctionalSkillsNqf,"Functional Skills",,
+2,2,2018-01-16T15:08:08Z,EnglishOtherLanguages,EnglishOtherLanguages,"English For Speakers of Other Languages",,
+1,1,2018-01-16T15:08:08Z,AdvancedExtensionAward,AdvancedExtensionAward,"Advanced Extension Award",,

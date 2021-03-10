@@ -1,0 +1,41 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"qualification-assessment-method","phase":"beta","register":"qualification-assessment-method","text":"A method of assessment used by a qualification regulated by Ofqual"}
+add-item	{"register-name":"Qualification assessment method"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"name":"qualification-assessment-method"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"custodian":"Paul Shanahan"}
+add-item	{"fields":["qualification-assessment-method","name","start-date","end-date"],"phase":"beta","register":"qualification-assessment-method","registry":"ofqual","text":"Assessment methods of qualifications regulated by Ofqual"}
+add-item	{"register-name":"Qualification assessment method register"}
+add-item	{"name":"Task-based Controlled Assessment","qualification-assessment-method":"18"}
+add-item	{"name":"Coursework","qualification-assessment-method":"12"}
+add-item	{"name":"Practical Demonstration/Assignment","qualification-assessment-method":"16"}
+add-item	{"name":"Aural Examination","qualification-assessment-method":"13"}
+add-item	{"name":"Portfolio of Evidence","qualification-assessment-method":"11"}
+add-item	{"name":"Practical Examination","qualification-assessment-method":"17"}
+add-item	{"name":"Oral Examination","qualification-assessment-method":"15"}
+add-item	{"name":"Written Examination","qualification-assessment-method":"19"}
+add-item	{"name":"E-assessment","qualification-assessment-method":"14"}
+add-item	{"name":"Multiple Choice Examination","qualification-assessment-method":"20"}
+append-entry	system	name	2018-01-16T15:21:10Z	sha-256:753e9b83d9fd952f0741a8a8b12495bfd1cdd831c0dfcaf8e0e4729dbe3fd22d
+append-entry	system	custodian	2018-01-16T15:21:10Z	sha-256:f96380a0e51f2cae12237103bfa5561b765cbae0142dacdce1aafa122df9f79e
+append-entry	system	field:qualification-assessment-method	2018-01-16T15:21:10Z	sha-256:21ed34a78a85da6ec0d722f79f272683002b797851f413d60fd6bd98e6f7d92c
+append-entry	system	field:name	2018-01-16T15:21:10Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-01-16T15:21:10Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-01-16T15:21:10Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:qualification-assessment-method	2018-01-16T15:21:10Z	sha-256:ac1e219ea0d292a343c58ef5e686fdd4ede07ad1e0805c5e2e4470270c412c00
+append-entry	system	register:qualification-assessment-method	2018-09-05T11:01:39Z	sha-256:ac1e219ea0d292a343c58ef5e686fdd4ede07ad1e0805c5e2e4470270c412c00
+append-entry	system	register-name	2018-09-05T17:18:43Z	sha-256:80fd11016387fee70aa01ad3f66c20f094ac4635cfee63f238c36b6833a509b5
+append-entry	system	register-name	2018-09-10T10:26:52Z	sha-256:3cf1c3f422176f97ef416d7eecbb11fcdc547123a71455d61d70f996c6f5b7db
+append-entry	user	11	2018-01-16T15:21:10Z	sha-256:6a3d3a19b49313922557f51c079ae1a5993d7eb439a46fe4864e4948b07905ca
+append-entry	user	12	2018-01-16T15:21:10Z	sha-256:a9ed7fa75045043d73ac951d0d1e80abff4352974a6213779f5c5c70e797aa92
+append-entry	user	13	2018-01-16T15:21:10Z	sha-256:95d9c1edbaeb704d9fb161b922b444d031fb6643745ce1004f86721cf6de31bb
+append-entry	user	14	2018-01-16T15:21:10Z	sha-256:32bae25edd4dc8dfb5e8c20cbdc8654b77fde9252e5c51f308ea006ce832bdb9
+append-entry	user	15	2018-01-16T15:21:10Z	sha-256:9622071cb16c6b195d07b97dc71f6b74cb6ff79b1f05eacac26d042472b86aa7
+append-entry	user	16	2018-01-16T15:21:10Z	sha-256:afb6e2b4325f81c159ca70f294dc42e7e1f5e72b96fba8a5cd7fca497d94d608
+append-entry	user	17	2018-01-16T15:21:10Z	sha-256:f1e726f62e6fb2ca691e43d4a3dc93417e17c450026f3d1a8b838f2470bdf782
+append-entry	user	18	2018-01-16T15:21:10Z	sha-256:5be41420b39949df4938df042bc0874019d0006bbac91c36971df4e83f1032ac
+append-entry	user	19	2018-01-16T15:21:10Z	sha-256:829a100726b7a720b2d73055525199214b61c99892febf911f247b72c4e89462
+append-entry	user	20	2018-01-16T15:21:10Z	sha-256:4732bb8116fe717180eaaaaba16b0383c2fe6e7350f6c3813915f007d6dbe3c1
+assert-root-hash	sha-256:eaaf47d076dd7cf85a62841e7e8da5639b8d1141a1e7a294cc594b15e1fa7cd7

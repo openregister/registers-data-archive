@@ -1,0 +1,32 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"register-name":"Digital, Data and Technology Profession Capability Framework job family"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"register-name":"Digital Data and Technology Profession Capability Framework job family"}
+add-item	{"custodian":"Pat McGuire"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"cardinality":"1","datatype":"string","field":"ddat-profession-capability-framework-job-family","phase":"beta","register":"ddat-profession-capability-framework-job-family","text":"The unique code for a job family defined for use in the Digital, Data and Technology Profession Capability Framework."}
+add-item	{"fields":["ddat-profession-capability-framework-job-family","name","start-date","end-date"],"phase":"beta","register":"ddat-profession-capability-framework-job-family","registry":"government-digital-service","text":"Job families for use in the Digital, Data and Technology Profession Capability Framework"}
+add-item	{"name":"ddat-profession-capability-framework-job-family"}
+add-item	{"ddat-profession-capability-framework-job-family":"105","name":"Data"}
+add-item	{"ddat-profession-capability-framework-job-family":"102","name":"Technical"}
+add-item	{"ddat-profession-capability-framework-job-family":"106","name":"User centred design"}
+add-item	{"ddat-profession-capability-framework-job-family":"101","name":"Product and Delivery"}
+add-item	{"ddat-profession-capability-framework-job-family":"104","name":"QAT"}
+add-item	{"ddat-profession-capability-framework-job-family":"103","name":"IT Operations"}
+append-entry	system	name	2018-07-02T17:06:54Z	sha-256:b217d212e447638e08542e1d230716f6f692fc67605ebf7d9643af741db795cf
+append-entry	system	custodian	2018-07-02T17:06:54Z	sha-256:29b6db52f6bdd8c3af7286584fc4c5e03f483ed17e46a4876bad75b013e8c8a3
+append-entry	system	field:ddat-profession-capability-framework-job-family	2018-07-02T17:06:54Z	sha-256:e48f5df53591e3be67a09d6f11edbd6065719612f6b0f123b2496ff387044c95
+append-entry	system	field:name	2018-07-02T17:06:54Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-07-02T17:06:54Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-07-02T17:06:54Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:ddat-profession-capability-framework-job-family	2018-07-02T17:06:54Z	sha-256:96638798ff87f25fe2dd0452da6d16e941561633c3d373d09080171fafec0d2e
+append-entry	system	register-name	2018-07-02T18:07:31Z	sha-256:34c77fb181399ad8a80f7de4f85c9b027b40056d5a0478e296722e096b746151
+append-entry	system	register-name	2018-07-03T13:24:40Z	sha-256:1e79c17c45cc4ae1e23a1f770712f7204ebbd8a36ef232abb00040ab7c53b345
+append-entry	user	101	2018-07-02T17:06:54Z	sha-256:405ce3394ed50f9978607cb626b9d3f0bb70e6289c709c4330c1d02f698381ee
+append-entry	user	102	2018-07-02T17:06:54Z	sha-256:7ba9abd7dd2fcebde268e16b2d06aafaf6380af3e3ec8a0a4bad4035b51b65ef
+append-entry	user	103	2018-07-02T17:06:54Z	sha-256:609b70d02ca808c434a4c99374479848f05d59379d760ab696eaaa01d7d4a00d
+append-entry	user	104	2018-07-02T17:06:54Z	sha-256:3c08eeb14a6f45502d6a250a4e37458607f52e7de9a1b686e9c22b5dc8a2e789
+append-entry	user	105	2018-07-02T17:06:54Z	sha-256:21ae67e02289d2e5636ac59286c601d66190be27d7b799362d338a77f54c8206
+append-entry	user	106	2018-07-02T17:06:54Z	sha-256:9955f6e26e984210ae37f20ef107f7ab40efa45ff9cad72fc0b688a4dd40c17d
+assert-root-hash	sha-256:76792484543d8761f7668a6838d16a0ca5a53a36c7bcf14accfa511af3016883

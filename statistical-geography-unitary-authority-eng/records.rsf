@@ -1,0 +1,136 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"fields":["statistical-geography-unitary-authority-eng","local-authority-eng","start-date","end-date"],"phase":"beta","register":"statistical-geography-unitary-authority-eng","registry":"office-for-national-statistics","text":"Statistical geography data for a unitary authority in England"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-eng","phase":"beta","register":"local-authority-eng","text":"The local authority's ISO 3166-2:GB code. Unique codes have been created for local authorities that don't have an existing ISO code."}
+add-item	{"register-name":"Statistical geography for unitary authorities in England"}
+add-item	{"name":"statistical-geography-unitary-authority-eng"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"register-name":"Statistical geography for unitary authorities in England register"}
+add-item	{"fields":["statistical-geography-unitary-authority-eng","local-authority-eng","start-date","end-date"],"phase":"beta","register":"statistical-geography-unitary-authority-eng","registry":"office-for-national-statistics","text":"Statistical geography data for unitary authorities in England"}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography-unitary-authority-eng","phase":"beta","register":"statistical-geography-unitary-authority-eng","text":"The statistical geography code for a unitary authority in England."}
+add-item	{"local-authority-eng":"TFW","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000020"}
+add-item	{"local-authority-eng":"DUR","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000047"}
+add-item	{"local-authority-eng":"PLY","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000026"}
+add-item	{"local-authority-eng":"BNH","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000043"}
+add-item	{"local-authority-eng":"SHR","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000051"}
+add-item	{"local-authority-eng":"BST","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000023"}
+add-item	{"local-authority-eng":"LUT","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000032"}
+add-item	{"local-authority-eng":"NLN","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000013"}
+add-item	{"local-authority-eng":"IOS","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000053"}
+add-item	{"local-authority-eng":"KHL","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000010"}
+add-item	{"local-authority-eng":"NBL","start-date":"2013-04-01","statistical-geography-unitary-authority-eng":"E06000057"}
+add-item	{"local-authority-eng":"YOR","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000014"}
+add-item	{"local-authority-eng":"PTE","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000031"}
+add-item	{"end-date":"2013-03-31","local-authority-eng":"NBL","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000048"}
+add-item	{"local-authority-eng":"STH","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000045"}
+add-item	{"local-authority-eng":"BAS","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000022"}
+add-item	{"local-authority-eng":"SOS","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000033"}
+add-item	{"local-authority-eng":"DAL","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000005"}
+add-item	{"local-authority-eng":"BDF","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000055"}
+add-item	{"local-authority-eng":"TOB","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000027"}
+add-item	{"local-authority-eng":"SWD","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000030"}
+add-item	{"local-authority-eng":"MDW","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000035"}
+add-item	{"local-authority-eng":"WOK","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000041"}
+add-item	{"local-authority-eng":"POR","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000044"}
+add-item	{"local-authority-eng":"SGC","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000025"}
+add-item	{"local-authority-eng":"DER","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000015"}
+add-item	{"local-authority-eng":"MIK","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000042"}
+add-item	{"local-authority-eng":"RUT","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000017"}
+add-item	{"local-authority-eng":"BMH","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000028"}
+add-item	{"local-authority-eng":"MDB","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000002"}
+add-item	{"local-authority-eng":"BRC","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000036"}
+add-item	{"local-authority-eng":"LCE","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000016"}
+add-item	{"local-authority-eng":"POL","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000029"}
+add-item	{"local-authority-eng":"HAL","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000006"}
+add-item	{"local-authority-eng":"CHW","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000050"}
+add-item	{"local-authority-eng":"NSM","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000024"}
+add-item	{"local-authority-eng":"CBF","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000056"}
+add-item	{"local-authority-eng":"CHE","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000049"}
+add-item	{"local-authority-eng":"RCC","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000003"}
+add-item	{"local-authority-eng":"RDG","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000038"}
+add-item	{"local-authority-eng":"IOW","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000046"}
+add-item	{"local-authority-eng":"WBK","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000037"}
+add-item	{"local-authority-eng":"HEF","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000019"}
+add-item	{"local-authority-eng":"WNM","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000040"}
+add-item	{"local-authority-eng":"BBD","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000008"}
+add-item	{"local-authority-eng":"THR","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000034"}
+add-item	{"local-authority-eng":"STT","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000004"}
+add-item	{"local-authority-eng":"WRT","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000007"}
+add-item	{"local-authority-eng":"HPL","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000001"}
+add-item	{"local-authority-eng":"NGM","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000018"}
+add-item	{"local-authority-eng":"SLG","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000039"}
+add-item	{"local-authority-eng":"WIL","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000054"}
+add-item	{"local-authority-eng":"ERY","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000011"}
+add-item	{"local-authority-eng":"BPL","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000009"}
+add-item	{"local-authority-eng":"CON","start-date":"2009-04-01","statistical-geography-unitary-authority-eng":"E06000052"}
+add-item	{"local-authority-eng":"STE","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000021"}
+add-item	{"local-authority-eng":"NEL","start-date":"2009-01-01","statistical-geography-unitary-authority-eng":"E06000012"}
+append-entry	system	name	2017-12-01T14:29:56Z	sha-256:55d52dbd150704ac50bf3a43045dbeab004957632353027739cef56ec6c7f775
+append-entry	system	custodian	2017-12-01T14:29:56Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography-unitary-authority-eng	2017-12-01T14:29:56Z	sha-256:9430a9241d22930b8a8f43baaef2c66bbededd90e5bb64a7cb59a7a284dc7aea
+append-entry	system	field:local-authority-eng	2017-12-01T14:29:56Z	sha-256:9d30632d44a6007f2430f5dca9a5fa49b9878125d37c5bc9b7ecad435bdfd46b
+append-entry	system	field:start-date	2017-12-01T14:29:56Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-12-01T14:29:56Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography-unitary-authority-eng	2017-12-01T14:29:56Z	sha-256:84d451f6f84c64db8e3495209c22714e2778725c6dfcdc87c2b81e1877e229c0
+append-entry	system	register:statistical-geography-unitary-authority-eng	2018-09-05T12:52:16Z	sha-256:4ca098b11deb3afb21027896be187d1e28cf7180820eb7f5598f860d4c43868e
+append-entry	system	register-name	2018-09-05T12:52:16Z	sha-256:de5b825bb757f95384000fe1ecdafd407b985b92c2c800ebbe53124806dbdbf4
+append-entry	system	register-name	2018-09-10T10:52:57Z	sha-256:7a05ca7ff9efa64ebc88ccd6e7191d9238d910b29479179242d0d226742e4e2b
+append-entry	user	E06000015	2017-12-01T14:29:56Z	sha-256:e78106afbb5e92702329a7448f64717ab2acd94fb8b261d4b72b03ef4b1f2aa8
+append-entry	user	E06000014	2017-12-01T14:29:56Z	sha-256:83c90a1eff67cad1b7d441a4ead2e7dcbe16f72c6a3d0a9640a50a4d931fb469
+append-entry	user	E06000007	2017-12-01T14:29:56Z	sha-256:adc92f8c424a953ad10b3c3e15f16b7c48076a198080d20f2b421d9d07c04eda
+append-entry	user	E06000041	2017-12-01T14:29:56Z	sha-256:e176b422097ff6291d4da2c37f1b2ee26e31f983645d72c4150d9f13592dc0e4
+append-entry	user	E06000040	2017-12-01T14:29:56Z	sha-256:6f11a09197230f99d3cb24bea49892f89f2e9fcb66dd7418f0e03302bb79e0fd
+append-entry	user	E06000054	2017-12-01T14:29:56Z	sha-256:974a2e16f36a688d2a0cc150f2040069b620fa350d6abf8ef3ef082674432029
+append-entry	user	E06000037	2017-12-01T14:29:56Z	sha-256:b946700b3c19d2e9e0f9699e974020acdf5cf4244c71af0e83f9f0d7f0ff257e
+append-entry	user	E06000027	2017-12-01T14:29:56Z	sha-256:c1fd2644373aa3fa54a9190d005d28d1e27b1273a150232275c761c99d084de0
+append-entry	user	E06000034	2017-12-01T14:29:56Z	sha-256:8f35421d6f6de3c47b0cc30d1682e2e4e5df5f430b6f3b7443cac67d409de35f
+append-entry	user	E06000020	2017-12-01T14:29:56Z	sha-256:10ae415928a4b0f6e4c185bbac52460a927c2bb6ef42343f1efefd783ba6a319
+append-entry	user	E06000030	2017-12-01T14:29:56Z	sha-256:e21205e275f1cb70020655a4febecbcc9d52dfa2015f4426d7b9bb521dfcb0d1
+append-entry	user	E06000004	2017-12-01T14:29:56Z	sha-256:66bf842f2e7b3ecd043a3cb6896119bfc5f78922720ee7317eb4748f6562161c
+append-entry	user	E06000045	2017-12-01T14:29:56Z	sha-256:cba10669bf6450627db21c802310e7e6b2ee18fcc4d52f0ac1cbf54f88025c74
+append-entry	user	E06000021	2017-12-01T14:29:56Z	sha-256:d385c2a308746099cb046de82c4684f53fa1c2fc19177ff84de25817c21d1ca5
+append-entry	user	E06000033	2017-12-01T14:29:56Z	sha-256:4b07fb06a063f35f631ab266c16c2af96252ce03f25a95139262ad09cef44c6b
+append-entry	user	E06000039	2017-12-01T14:29:56Z	sha-256:31d1fe8058bf84c5a77841735b4f418bb427db32d546ae0830bdfa517e8aa221
+append-entry	user	E06000051	2017-12-01T14:29:56Z	sha-256:0616ba302481438dd03c374d0ae59ea0dd2da8ec5d0d80841626dd7ab62e0c8a
+append-entry	user	E06000025	2017-12-01T14:29:56Z	sha-256:783190541b566072b504734234b5d4ad0b1c115967cb6b65d6fec74f54036fc5
+append-entry	user	E06000017	2017-12-01T14:29:56Z	sha-256:ec5ca6953124da174654247f130bc06f0e6df6183ef7f8b0fca992c0934a564f
+append-entry	user	E06000038	2017-12-01T14:29:56Z	sha-256:75bf3d3f2b6d9fe468b331a42d318e305e91f43c8f8a5d8eeaaffb3a7a6746bb
+append-entry	user	E06000003	2017-12-01T14:29:56Z	sha-256:feed77b0ece43217952de3250c49a9a3568205d233b4071052ce28c02fb47639
+append-entry	user	E06000031	2017-12-01T14:29:56Z	sha-256:7c01cac73d602c6dbc9041abddcca7d2b19e0103d1ffd23de255ee38593787ae
+append-entry	user	E06000044	2017-12-01T14:29:56Z	sha-256:007103a29857f1d39ffd4fb24bb6b83c14c8a8f82ead7e8b0a055544b77e8f36
+append-entry	user	E06000029	2017-12-01T14:29:56Z	sha-256:309665837d8169f6cc5d16680c2382be06f5f480f5024f7d3e312c9fcd8ba5ff
+append-entry	user	E06000026	2017-12-01T14:29:56Z	sha-256:ec779549e7e18ba2e7eda2047b59c84ecef1cff4146f8ef14c24e27a885a12bf
+append-entry	user	E06000024	2017-12-01T14:29:56Z	sha-256:0dc1c4bba609c6af67a45e8ee56c8779f054987d3a55bb4f78f75407610b6b4d
+append-entry	user	E06000013	2017-12-01T14:29:56Z	sha-256:eac75ed006632c5b5d1a0ffd7fcf67c3ff0ee70124c06a10b4d761774faebb5f
+append-entry	user	E06000018	2017-12-01T14:29:56Z	sha-256:bbc577ff970500bfab04c642ff0dcd220a9d6c15eb8de72dd21c7afa352b2625
+append-entry	user	E06000012	2017-12-01T14:29:56Z	sha-256:d720d1124e4dfcc329dd7f52e95191ceb71267b37311e8503304663e0ec08056
+append-entry	user	E06000048	2017-12-01T14:29:56Z	sha-256:16c0bb061ebee302d6da37817a3c665d98c39d1040376614ddf5e5f920f18006
+append-entry	user	E06000057	2017-12-01T14:29:56Z	sha-256:1ce236b188cfe31e32231f2c0e4b6871053aef03ac680882ce6666008666a70e
+append-entry	user	E06000042	2017-12-01T14:29:56Z	sha-256:13236eb04edac979207e91f8f165aaf25cbe12f0c7c27a9505433c8d565d90ff
+append-entry	user	E06000035	2017-12-01T14:29:56Z	sha-256:860f9e8e5e00a7588ed11787b70ccf466a8d4a7a35a2f0590d85c2bb1ffca06f
+append-entry	user	E06000002	2017-12-01T14:29:56Z	sha-256:edacfb3efc49598e1103ea72b8b1782cc7367c93698ce28da6e6edd48f755646
+append-entry	user	E06000032	2017-12-01T14:29:56Z	sha-256:77a1b6e91dcef48422caf7f017e67fd460b5c8ceb909c190f79ee5644fe49ebc
+append-entry	user	E06000016	2017-12-01T14:29:56Z	sha-256:749f934ee4a4b47e0d5aac85c470992eb6a39a05bc8c045fdc8fedd7a72a8a4d
+append-entry	user	E06000046	2017-12-01T14:29:56Z	sha-256:cbd3503574ba65624830008d7cf322c9108efaa7e019029ea3a09dd1542bca76
+append-entry	user	E06000053	2017-12-01T14:29:56Z	sha-256:e9ce97f6b4bff3e84ccb361000f907881382860af6dd7a33a05b8581197f1b8e
+append-entry	user	E06000001	2017-12-01T14:29:56Z	sha-256:a9de56608d2c2f6e3a3ad80823bfa0d7218ed914863da28173951206dbf0f60e
+append-entry	user	E06000006	2017-12-01T14:29:56Z	sha-256:1d6c2fcc97e8a74e21517c99f191e4777885be7361011aafdc254b83628f89dd
+append-entry	user	E06000011	2017-12-01T14:29:56Z	sha-256:4db987a03f737c1b5097690f203f8c567b61ccb7099546afcf01258df3b186ed
+append-entry	user	E06000047	2017-12-01T14:29:56Z	sha-256:be525b31fb1ad4943fec7a6e8b88268647f837224fdcf27c9e45cf8a1a3130db
+append-entry	user	E06000005	2017-12-01T14:29:56Z	sha-256:51d6d72346cd93ef7e8b5daf255e167ed50d2a30d6531eba02b2eadb84e11f30
+append-entry	user	E06000052	2017-12-01T14:29:56Z	sha-256:ea5be03a967d175be2579cabbee0dd6327aaba5e1a86c056ed5b8ad3b5100ef7
+append-entry	user	E06000050	2017-12-01T14:29:56Z	sha-256:c7c5c596919d0169037cea28740e93555f8b544f7e877146679b08fde8682aa7
+append-entry	user	E06000049	2017-12-01T14:29:56Z	sha-256:435f346414c7331a4a7ed030377255db47c2606071dc509f4995c9809f2322df
+append-entry	user	E06000056	2017-12-01T14:29:56Z	sha-256:34e00cb0116c88f301d0496ddd8f4ca4ddc8afb2967beb1f343fc6979b2e707a
+append-entry	user	E06000036	2017-12-01T14:29:56Z	sha-256:69a0e874985fd9d6c101707fe89d53038c3819015632966a7ebe7caca531e0b0
+append-entry	user	E06000009	2017-12-01T14:29:56Z	sha-256:6aa86932f021e60086fa129442918d121cc8a582e14fe892792648b9f4667552
+append-entry	user	E06000043	2017-12-01T14:29:56Z	sha-256:7d5df78db274d810365cae1c7e4e4a2737d7416b0044acd6437a0984db2b2aa3
+append-entry	user	E06000008	2017-12-01T14:29:56Z	sha-256:600b9772777e75d880110cbd6c31f79e949c9fe92a58af303b0a719920de52d7
+append-entry	user	E06000010	2017-12-01T14:29:56Z	sha-256:9b17854cfb3f4c343351cf38d197148af11ee19daed5e80c809438871b0d4c21
+append-entry	user	E06000019	2017-12-01T14:29:56Z	sha-256:4c22db205ecd3d6cd6abb024ab338802d767caeaa824e2f6019b9dbc2849371b
+append-entry	user	E06000022	2017-12-01T14:29:56Z	sha-256:50a5d7b0c7f0469398042f735359405c24b725ee30b1253f12e51a63a37eb3bd
+append-entry	user	E06000023	2017-12-01T14:29:56Z	sha-256:7a13dc1c585cbed6280c76e52311a89750a9baa38305cb737e7b1ff16ae75533
+append-entry	user	E06000028	2017-12-01T14:29:56Z	sha-256:496f28110ebc77b542553bb50bdf007de5f3c57cef38c3874bfdb8ac1b0c1286
+append-entry	user	E06000055	2017-12-01T14:29:56Z	sha-256:a784da203e5bf3cfd9887551faa7a87cc0f8830bf5efd8ba4dc50ccd0a4cf9d4
+assert-root-hash	sha-256:e804dcf2296c24c090886ff2ef44ea06cfc0d13b54d687c61535e101a048a159

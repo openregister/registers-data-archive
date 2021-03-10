@@ -1,0 +1,40 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"string","field":"information-sharing-agreement-powers-and-objectives-0001","phase":"beta","register":"information-sharing-agreement-powers-and-objectives-0001","text":"The unique code for the information sharing agreement powers and objectives."}
+add-item	{"register-name":"Digital Economy Act information sharing powers and objectives"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"Name or title of the information sharing agreement powers and objectives."}
+add-item	{"custodian":"Firoze Salim"}
+add-item	{"custodian":"Lee Pope"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"When the objective can no longer be used in a information sharing agreement."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"fields":["information-sharing-agreement-powers-and-objectives-0001","name","start-date","end-date"],"phase":"beta","register":"information-sharing-agreement-powers-and-objectives-0001","registry":"department-for-digital-culture-media-sport","text":"List of information sharing powers and objectives available under chapters 1, 2, 3 and 4 of Part 5 of the Digital Economy Act 2017"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"When the objective can start being used in a information sharing agreement."}
+add-item	{"name":"information-sharing-agreement-powers-and-objectives-0001"}
+add-item	{"information-sharing-agreement-powers-and-objectives-0001":"7","name":"Combating fraud against the public sector"}
+add-item	{"information-sharing-agreement-powers-and-objectives-0001":"5","name":"Civil registration: Allowing information on births, marriages, civil partnerships and deaths to be shared more widely to allow public authorities to deliver their functions more effectively "}
+add-item	{"information-sharing-agreement-powers-and-objectives-0001":"2","name":"Public service delivery - Assisting people living in fuel poverty"}
+add-item	{"information-sharing-agreement-powers-and-objectives-0001":"6","name":"Recovering debt owed to the public sector"}
+add-item	{"information-sharing-agreement-powers-and-objectives-0001":"1","name":"Public service delivery - Assisting individuals or households who face multiple disadvantages"}
+add-item	{"information-sharing-agreement-powers-and-objectives-0001":"3","name":"Public service delivery - Assiting people living in water poverty"}
+add-item	{"information-sharing-agreement-powers-and-objectives-0001":"4","name":"Public service delivery - Providing targeted assistance in re-tuning televisions following spectrum changes"}
+append-entry	system	name	2018-11-01T16:42:44Z	sha-256:62ddbefb87f6f6fb5cbb86303acbecc8734c32a905da36c6a71f5f777ebd08be
+append-entry	system	field:information-sharing-agreement-powers-and-objectives-0001	2018-11-01T16:42:44Z	sha-256:9e12dfbdaae0a77df0b13d22fc7341dacc4c12c3ad6e86d36e8f5bc4ec2dd29b
+append-entry	system	field:name	2018-11-01T16:42:44Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-11-01T16:42:44Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-11-01T16:42:44Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:information-sharing-agreement-powers-and-objectives-0001	2018-11-01T16:42:44Z	sha-256:6351b5ff1670d15d95afdd231058843013bb9174e490126aa02369fcd002eee3
+append-entry	system	register-name	2018-11-01T17:08:34Z	sha-256:c3fc53b70367ab10cb17d5d1b047576cde66724b0cfec9565f3ef059613185da
+append-entry	system	custodian	2018-11-01T17:19:52Z	sha-256:617a2b5f0239461ee8481a8e89eba5549aa909cdf39acc30b8c63507cd486f21
+append-entry	system	custodian	2018-11-02T10:14:17Z	sha-256:3fc886c496787a3c230793892f7a27a06a9d43a61df816efc6719f812956f1c2
+append-entry	system	field:start-date	2018-11-02T12:11:17Z	sha-256:24f5389d13192b4d07930e25644ae6845078da5b3760e9ac9253f22d37fb754a
+append-entry	system	field:end-date	2018-11-02T12:11:17Z	sha-256:b2824e686e4e3b50b0507263435b3fe8969ada2dcc4365a8fc055539a807db70
+append-entry	system	field:name	2018-11-02T12:11:17Z	sha-256:4e262fbba842e5ff75ca4cd477451f45ace0e3f07fe14f5aeffa004c229e5421
+append-entry	user	1	2018-11-01T16:42:44Z	sha-256:c7c7c9ecdb163644214054f073c371bc61a89c4091432c587b456be69f1191b0
+append-entry	user	2	2018-11-01T16:42:44Z	sha-256:f48d802b074ffb1dac5f2d90166aeced325a9a8e30a14352831273accd000704
+append-entry	user	3	2018-11-01T16:42:44Z	sha-256:7fa0bade62118216249f95374cab377d2daf3887eb7dfa5ff00835ff85a58338
+append-entry	user	4	2018-11-01T16:42:44Z	sha-256:b618f0feb419dc94582675c85d3fb280090bdf022b254fc1618bb23afb27ff03
+append-entry	user	5	2018-11-01T16:42:44Z	sha-256:8bd62abd0113843893fd7f41cccacff3766e095a8c5d36f947909542191b2cb2
+append-entry	user	6	2018-11-01T16:42:44Z	sha-256:a29d4956642322cd60306d5df491e41410a1e898103432cae3882461baf61149
+append-entry	user	7	2018-11-01T16:42:44Z	sha-256:90e7909414f57f1646dc7a6ae976cd54dda53c96c8893789e95c0847f7e7a9f6
+assert-root-hash	sha-256:791d7e80f6a41343536ac8973ce2b8fc2c7fadc8c7130541824e863039d5419f

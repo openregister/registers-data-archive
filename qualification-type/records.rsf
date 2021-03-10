@@ -1,0 +1,91 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"register-name":"Qualification type register"}
+add-item	{"cardinality":"1","datatype":"string","field":"qualification-type","phase":"beta","register":"qualification-type","text":"A type of qualification regulated by Ofqual"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"fields":["qualification-type","name","start-date","end-date"],"phase":"beta","register":"qualification-type","registry":"ofqual","text":"Types of qualification regulated by Ofqual"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"qualification-type","phase":"beta","register":"qualification-type","text":"The unique code for a type of qualification regulated by Ofqual."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"custodian":"Paul Shanahan"}
+add-item	{"fields":["qualification-type","name","start-date","end-date"],"phase":"beta","register":"qualification-type","registry":"ofqual","text":"Types of qualifications regulated by Ofqual"}
+add-item	{"name":"qualification-type"}
+add-item	{"register-name":"Qualification type"}
+add-item	{"name":"End-Point Assessment","qualification-type":"EndPointAssessment","start-date":"2017-07-21"}
+add-item	{"name":"GCSE (9 to 1)","qualification-type":"Gcse9To1"}
+add-item	{"name":"GCE A Level","qualification-type":"GceALevel"}
+add-item	{"name":"Vocationally-Related Qualification","qualification-type":"VocationalQualification"}
+add-item	{"name":"Occupational Qualification","qualification-type":"OccupationalQualification"}
+add-item	{"end-date":"2017-08-04","name":"General National Vocational Qualification","qualification-type":"GeneralNvq"}
+add-item	{"name":"English For Speakers of Other Languages","qualification-type":"EnglishOtherLanguages"}
+add-item	{"name":"Free Standing Mathematics Qualification","qualification-type":"FreeStandingMathematicsQualification"}
+add-item	{"end-date":"2017-08-04","name":"Basic Skills","qualification-type":"BasicSkills"}
+add-item	{"end-date":"2017-08-04","name":"Principal Learning","qualification-type":"PrincipalLearning"}
+add-item	{"name":"Not Applicable","qualification-type":"NotApplicable"}
+add-item	{"end-date":"2017-08-04","name":"VCE Advanced Subsidiary Level","qualification-type":"VocationalCertificateAdvanced"}
+add-item	{"end-date":"2017-08-04","name":"Key Skills","qualification-type":"KeySkills"}
+add-item	{"end-date":"2016-06-29","name":"Functional Skills (QCF)","qualification-type":"FunctionalSkillsQcf"}
+add-item	{"name":"Other General Qualification","qualification-type":"OtherGeneralQualification"}
+add-item	{"name":"Entry Level","qualification-type":"EntryLevel"}
+add-item	{"end-date":"2017-08-04","name":"Vocational Certificate Of Education","qualification-type":"VocationalCertificate"}
+add-item	{"name":"Functional Skills","qualification-type":"FunctionalSkillsNqf"}
+add-item	{"name":"National Vocational Qualification","qualification-type":"Nvq"}
+add-item	{"name":"Higher Level","qualification-type":"HigherLevel"}
+add-item	{"name":"GCE AS Level","qualification-type":"GceAsLevel"}
+add-item	{"name":"GCSE (A* to G)","qualification-type":"GeneralCertificateSecondaryEducation"}
+add-item	{"name":"Project","qualification-type":"Project"}
+add-item	{"name":"Advanced Extension Award","qualification-type":"AdvancedExtensionAward"}
+add-item	{"end-date":"2016-06-29","name":"QCF","qualification-type":"QcfQualification"}
+add-item	{"end-date":"2018-09-30","name":"Entry Level","qualification-type":"EntryLevel"}
+add-item	{"end-date":"2018-09-30","name":"Free Standing Mathematics Qualification","qualification-type":"FreeStandingMathematicsQualification"}
+add-item	{"end-date":"2018-09-30","name":"Higher Level","qualification-type":"HigherLevel"}
+add-item	{"end-date":"2018-09-30","name":"National Vocational Qualification","qualification-type":"Nvq"}
+add-item	{"name":"Essential Skills (Northern Ireland)","qualification-type":"EssentialSkillsNI","start-date":"2018-10-01"}
+add-item	{"name":"Other Life Skills Qualification","qualification-type":"OtherLifeSkillsQualification","start-date":"2018-10-01"}
+add-item	{"name":"Performing Arts Graded Examination","qualification-type":"PerformingArtsGradedExamination","start-date":"2018-10-01"}
+add-item	{"name":"Other Vocational Qualification","qualification-type":"OtherVocationalQualification","start-date":"2018-10-01"}
+append-entry	system	name	2018-01-16T15:08:08Z	sha-256:b623fb2205758ab10ff4100de397979726f1727ecf1546e0ac59a5515e68d991
+append-entry	system	custodian	2018-01-16T15:08:08Z	sha-256:f96380a0e51f2cae12237103bfa5561b765cbae0142dacdce1aafa122df9f79e
+append-entry	system	field:qualification-type	2018-01-16T15:08:08Z	sha-256:f8e675f876b01c6792cd77550ed363c1e14feaa3d6f82cc6096aa6e05c8554f4
+append-entry	system	field:name	2018-01-16T15:08:08Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-01-16T15:08:08Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-01-16T15:08:08Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:qualification-type	2018-01-16T15:08:08Z	sha-256:e4c191974ec1de41d2a50ca32101b09b618fb5bce4b7671ee8b6b3b16c83f437
+append-entry	system	field:qualification-type	2018-06-07T13:27:11Z	sha-256:83c1c7480c6f9db223624bcf99ceec8a02358956b8ddbeee91fb43394730b778
+append-entry	system	field:qualification-type	2018-06-07T14:01:51Z	sha-256:83c1c7480c6f9db223624bcf99ceec8a02358956b8ddbeee91fb43394730b778
+append-entry	system	register:qualification-type	2018-07-13T09:50:11Z	sha-256:40d862040511659a062d32aedff311430f89635b70afd3760605f0321adb4a43
+append-entry	system	register-name	2018-09-05T17:20:05Z	sha-256:697303bcedb9a03706cf048b9d973e897cb183bda98816783250f025436f1ea7
+append-entry	system	register-name	2018-09-10T10:28:10Z	sha-256:1c330cad3a0d6f28f8e61e302b3d9d2ad50e958a6faf6944bb091f2b2c82e844
+append-entry	user	AdvancedExtensionAward	2018-01-16T15:08:08Z	sha-256:34aebaaffcd4af03ddabe75260107ff4effe17eae8a5b0dc816b839ac3254b7c
+append-entry	user	EnglishOtherLanguages	2018-01-16T15:08:08Z	sha-256:1405d2c0a3303b5c4809d8ddfad7338db75372f8cd458360509417cdcff6d242
+append-entry	user	EntryLevel	2018-01-16T15:08:08Z	sha-256:70442336a0172c3abfe9bae93346975583bb9d616b8a1ccd425a94e0041fcbbb
+append-entry	user	FunctionalSkillsNqf	2018-01-16T15:08:08Z	sha-256:f5f2067d0cf6741a587dbfdaeacbc0255b2799e1b8e5b55d1e40368ab3edf75e
+append-entry	user	GceALevel	2018-01-16T15:08:08Z	sha-256:af5b9c283fae6ec261c6c8497b057434665e1ac30419ee85448f2aecc617ec0b
+append-entry	user	GceAsLevel	2018-01-16T15:08:08Z	sha-256:7dcdf251942b30f8291fa7eff1ece936295d2a6015a121c9709f0d05890fd388
+append-entry	user	Gcse9To1	2018-01-16T15:08:08Z	sha-256:199ab27a2c4104172953e8140e8a4bb7b5c568e484ffe84bdabd67a850cfab5d
+append-entry	user	GeneralCertificateSecondaryEducation	2018-01-16T15:08:08Z	sha-256:2bc568c5f3cf196d4f67ea7a5da5f4f1b432cbd81290a28c86b38635ab8383ab
+append-entry	user	KeySkills	2018-01-16T15:08:08Z	sha-256:7515b58028e69990943bf322912c21d19552dc134aa61d65c18a6c10947c1873
+append-entry	user	PrincipalLearning	2018-01-16T15:08:08Z	sha-256:f6b66d06e4fe6e18ae2c8e93b32f6b0280999d53dc200c9d9d29d32af10f8160
+append-entry	user	Project	2018-01-16T15:08:08Z	sha-256:67836cc594d1b8c939ebaca7dea49e23f880d2ee52167ae67fd6cff685ee236c
+append-entry	user	NotApplicable	2018-01-16T15:08:08Z	sha-256:7ee63f44cf0d41b2ccde2f943850ecded4ada132278821ebbeff28ddbc3eca79
+append-entry	user	BasicSkills	2018-01-16T15:08:08Z	sha-256:47531d94b364e8d24110ebde7e9c44f2d4a42214eafbc206af35fccbfba25d29
+append-entry	user	FunctionalSkillsQcf	2018-01-16T15:08:08Z	sha-256:d7db3acb4bae21685c1e6dc38fcd611a5485dbfdb93abd3faed516b40a4e860b
+append-entry	user	FreeStandingMathematicsQualification	2018-01-16T15:08:08Z	sha-256:dd67f27bb66e85585bb174c625d494d65ed40c6ea9a95ef4f9915ffe9fd468d2
+append-entry	user	GeneralNvq	2018-01-16T15:08:08Z	sha-256:1247173df7c69fcb08331e814f1f804732bec7dc6de8541448585cc3cfdd151e
+append-entry	user	HigherLevel	2018-01-16T15:08:08Z	sha-256:1a658bf64dcf261dc29d5971392885cf5f05d655f3d63add83220eeca85d2ebc
+append-entry	user	Nvq	2018-01-16T15:08:08Z	sha-256:d9b4361387ee886f240b4d8833a726b870c0b02e328187a2ee74473f53fbcba3
+append-entry	user	OtherGeneralQualification	2018-01-16T15:08:08Z	sha-256:5675d6bffee1029a3a0a074461e891b629636ba21b60a3c46653d1fc3bbc8fc5
+append-entry	user	OccupationalQualification	2018-01-16T15:08:08Z	sha-256:29d9b8dda0ce7d26716c36605db77d526f3e8731e576625ef17f10a26ef0b183
+append-entry	user	QcfQualification	2018-01-16T15:08:08Z	sha-256:16098d152bae3329d58daaa1c41c054e0413196b968ed071a07373fbd8521d40
+append-entry	user	VocationalCertificate	2018-01-16T15:08:08Z	sha-256:6c943b04a20b815ecc64903b6b85655ff2fd2de2bf813691168ebec429478cbd
+append-entry	user	VocationalCertificateAdvanced	2018-01-16T15:08:08Z	sha-256:5b04a1c24f81564953404fbe64f6a06cb0e5c8e8ef0df6dfd3a6f407e938d7e0
+append-entry	user	VocationalQualification	2018-01-16T15:08:08Z	sha-256:1c272c85f15addddcb996f50ab13c4b6cea6dac708bd984179991e7d55a8ebd3
+append-entry	user	EndPointAssessment	2018-01-16T15:08:08Z	sha-256:d56102ebcb82479124ce1224bc649c9b24179c02833b81832a08c2b20e1bc20f
+append-entry	user	EntryLevel	2018-10-03T10:49:16Z	sha-256:401274e570962c83514ffe53282a441d706d306b516123455eab99008a0778eb
+append-entry	user	FreeStandingMathematicsQualification	2018-10-03T10:51:17Z	sha-256:c1acd2986304eaedf1519993161d352c3eb3b617171adf3bbe42f38cc0e5035c
+append-entry	user	HigherLevel	2018-10-03T10:51:47Z	sha-256:82d6fe206e05bcd73104c961a069d2a5019e082d6f85e367352fe3defbd9b14b
+append-entry	user	Nvq	2018-10-03T10:52:08Z	sha-256:303a225d069e1659e093039368a53047f239a0d556cbed46b4d79a0967819424
+append-entry	user	EssentialSkillsNI	2018-10-03T10:53:45Z	sha-256:8d7c37582f62256370f469d32bf27d5ae0bbbf7d18b41a9736b07c96918d4b94
+append-entry	user	OtherLifeSkillsQualification	2018-10-03T10:54:09Z	sha-256:777979012c291d79d5a4e62247f1e70b8eb1e4f27afc80770d2a66f1b283fdc6
+append-entry	user	PerformingArtsGradedExamination	2018-10-03T10:54:33Z	sha-256:c66f7e9b04ce8e5ca36c5b995de6f37cbb382a9d116bc28348abd5d241c18067
+append-entry	user	OtherVocationalQualification	2018-10-03T10:54:52Z	sha-256:d89f55f559f974fa3ac90ad33a498bad2ad7f60821c8340b65d949b65844bea6
+assert-root-hash	sha-256:889eb5aac2c3e724ef0075283d7733f655ad0efc5cfb427a8da409eed8fbbd11

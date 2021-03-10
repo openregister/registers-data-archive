@@ -1,0 +1,79 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"custodian":"Lisa James"}
+add-item	{"cardinality":"1","datatype":"string","field":"official-name","phase":"beta","text":"The official or technical name of a record."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"register-name":"Principal local authorities in Wales register"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"fields":["principal-local-authority","name","name-cy","official-name","official-name-cy","start-date","end-date"],"phase":"beta","register":"principal-local-authority","registry":"welsh-government","text":"Principal local authorities in Wales"}
+add-item	{"name":"principal-local-authority"}
+add-item	{"cardinality":"1","datatype":"string","field":"principal-local-authority","phase":"beta","register":"principal-local-authority","text":"A principal local authority in Wales."}
+add-item	{"cardinality":"1","datatype":"string","field":"name-cy","phase":"beta","text":"Welsh name for an entry."}
+add-item	{"cardinality":"1","datatype":"string","field":"official-name-cy","phase":"beta","text":"The official or technical Welsh name of a record."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable. For example, the date a school closed down."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register. For example, the date a country was first recognised by the UK."}
+add-item	{"cardinality":"1","datatype":"string","field":"name-cy","phase":"beta","text":"The commonly-used Welsh name of a record."}
+add-item	{"register-name":"Principal local authorities in Wales"}
+add-item	{"name":"Caerphilly","name-cy":"Caerffili","official-name":"Caerphilly County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Caerffili","principal-local-authority":"CAY","start-date":"1996-04-01"}
+add-item	{"name":"Powys","name-cy":"Powys","official-name":"Powys County Council","official-name-cy":"Cyngor Sir Powys","principal-local-authority":"POW","start-date":"1996-04-01"}
+add-item	{"name":"Swansea","name-cy":"Abertawe","official-name":"City and County of Swansea Council","official-name-cy":"Dinas a Sir Abertawe","principal-local-authority":"SWA","start-date":"1996-04-01"}
+add-item	{"name":"Neath Port Talbot","name-cy":"Castell-nedd Port Talbot","official-name":"Neath Port Talbot County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Castell-nedd Port Talbot","principal-local-authority":"NTL","start-date":"1996-04-01"}
+add-item	{"name":"Flintshire","name-cy":"Sir y Fflint","official-name":"Flintshire County Council","official-name-cy":"Cyngor Sir y Fflint","principal-local-authority":"FLN","start-date":"1996-04-01"}
+add-item	{"name":"Gwynedd","name-cy":"Gwynedd","official-name":"Gwynedd Council","official-name-cy":"Cyngor Gwynedd","principal-local-authority":"GWN","start-date":"1996-04-01"}
+add-item	{"name":"Carmarthenshire","name-cy":"Sir Gaerfyrddin","official-name":"Carmarthenshire County Council","official-name-cy":"Cyngor Sir Gâr","principal-local-authority":"CMN","start-date":"1996-04-01"}
+add-item	{"name":"Rhondda Cynon Taff","name-cy":"Rhondda Cynon Taf","official-name":"Rhondda Cynon Taf County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Rhondda Cynon Taf","principal-local-authority":"RCT","start-date":"1996-04-01"}
+add-item	{"name":"Torfaen","name-cy":"Tor-faen","official-name":"Torfaen County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Torfaen","principal-local-authority":"TOF","start-date":"1996-04-01"}
+add-item	{"name":"Bridgend","name-cy":"Pen-y-bont ar Ogwr","official-name":"Bridgend County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Pen-y-bont ar Ogwr","principal-local-authority":"BGE","start-date":"1996-04-01"}
+add-item	{"name":"Denbighshire","name-cy":"Sir Ddinbych","official-name":"Denbighshire County Council","official-name-cy":"Cyngor Sir Ddinbych","principal-local-authority":"DEN","start-date":"1996-04-01"}
+add-item	{"name":"Merthyr Tydfil","name-cy":"Merthyr Tudful","official-name":"Merthyr Tydfil County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Merthyr Tudful","principal-local-authority":"MTY","start-date":"1996-04-01"}
+add-item	{"name":"Blaenau Gwent","name-cy":"Blaenau Gwent","official-name":"Blaenau Gwent County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Blaenau Gwent","principal-local-authority":"BGW","start-date":"1996-04-01"}
+add-item	{"name":"Conwy","name-cy":"Conwy","official-name":"Conwy County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Conwy","principal-local-authority":"CWY","start-date":"1996-04-01"}
+add-item	{"name":"Newport","name-cy":"Casnewydd","official-name":"Newport City Council","official-name-cy":"Cyngor Dinas Casnewydd","principal-local-authority":"NWP","start-date":"1996-04-01"}
+add-item	{"name":"Isle of Anglesey","name-cy":"Sir Ynys Môn","official-name":"Isle of Anglesey County Council","official-name-cy":"Cyngor Sir Ynys Môn","principal-local-authority":"AGY","start-date":"1996-04-01"}
+add-item	{"name":"Ceredigion","name-cy":"Ceredigion","official-name":"Ceredigion County Council","official-name-cy":"Cyngor Sir Ceredigion","principal-local-authority":"CGN","start-date":"1996-04-01"}
+add-item	{"name":"The Vale of Glamorgan","name-cy":"Bro Morgannwg","official-name":"Vale of Glamorgan Council","official-name-cy":"Cyngor Bro Morgannwg","principal-local-authority":"VGL","start-date":"1996-04-01"}
+add-item	{"name":"Rhondda Cynon Taff","name-cy":"Rhondda Cynon Taff","official-name":"Rhondda Cynon Taf County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Rhondda Cynon Taf","principal-local-authority":"RCT","start-date":"1996-04-01"}
+add-item	{"name":"Cardiff","name-cy":"Caerdydd","official-name":"City of Cardiff Council","official-name-cy":"Cyngor Dinas Caerdydd","principal-local-authority":"CRF","start-date":"1996-04-01"}
+add-item	{"name":"Monmouthshire","name-cy":"Sir Fynwy","official-name":"Monmouthshire County Council","official-name-cy":"Cyngor Sir Fynwy","principal-local-authority":"MON","start-date":"1996-04-01"}
+add-item	{"name":"Wrexham","name-cy":"Wrecsam","official-name":"Wrexham County Borough Council","official-name-cy":"Cyngor Bwrdeistref Sirol Wrecsam","principal-local-authority":"WRX","start-date":"1996-04-01"}
+add-item	{"name":"Pembrokeshire","name-cy":"Sir Benfro","official-name":"Pembrokeshire County Council","official-name-cy":"Cyngor Sir Penfro","principal-local-authority":"PEM","start-date":"1996-04-01"}
+append-entry	system	name	2017-07-17T10:59:47Z	sha-256:f00fa359ff8e06e86801918fb689d849b536886248bb1067ed5f310f1d84022f
+append-entry	system	custodian	2017-07-17T10:59:47Z	sha-256:a4162de894c2147e0498721986db6de6885eb78eafca5bbe6d35790a3721518e
+append-entry	system	field:principal-local-authority	2017-07-07T10:50:29Z	sha-256:87c2a4b9f58aed0b51287ecf3435d5f10820385f3584ed983b3c6c4a0fe5ce25
+append-entry	system	field:name	2017-01-10T17:16:07Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:name-cy	2017-05-16T09:50:36Z	sha-256:f2fce0a8144ebc1a61ee0cd3d56288541679695ed8d89aa2b42de1f0a4b9563b
+append-entry	system	field:official-name	2017-01-10T17:16:07Z	sha-256:5c4728f439f6cbc6c7eea42992b858afc78c182962ba35d169f49db2c88e1e41
+append-entry	system	field:official-name-cy	2017-07-07T10:49:51Z	sha-256:b1034a0a71ca612cc64d45618a96a171554cb7460567690d2e0a2cb77dcbad14
+append-entry	system	field:start-date	2017-01-10T17:16:07Z	sha-256:1cff4c622577fabd35917760b04bc304af3b950e19735b60152c19f18b55e75e
+append-entry	system	field:end-date	2017-01-10T17:16:07Z	sha-256:a557fa9bf4a6ce1991717b9429406f4fa724fb8818dfe018d306694de22efbf7
+append-entry	system	register:principal-local-authority	2017-07-07T10:51:15Z	sha-256:f1ee779ef04563be8a5436f804bbbf862fcc3c619385d6e90910f46f8df651f6
+append-entry	system	field:start-date	2017-08-29T11:30:00Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-08-29T11:31:00Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	field:name-cy	2018-06-07T11:08:44Z	sha-256:5a7c189a63f29248299a3b341569181ae3d7c134ffe5d1aa2269aa1badd20403
+append-entry	system	register:principal-local-authority	2018-09-05T10:58:21Z	sha-256:f1ee779ef04563be8a5436f804bbbf862fcc3c619385d6e90910f46f8df651f6
+append-entry	system	register-name	2018-09-05T17:17:45Z	sha-256:90b4685df7cddb72d7e110079cf5c37f4d7ff2c00e6190a7ecf0f331b79a6ece
+append-entry	system	register-name	2018-09-10T10:26:05Z	sha-256:e6d59f5237c7f13be22862a12a8ca5fe8a0f5a4161853b67b27860276166b0c6
+append-entry	user	AGY	2017-07-06T15:55:39Z	sha-256:d46984987f1da293fda6a873c376b16f869495548aa745236db8f0637a7ae332
+append-entry	user	BGE	2017-07-06T15:55:39Z	sha-256:d4ca8d77c95a72095b45315c3689f8c3b91c0360431110a9f5343765ced41461
+append-entry	user	BGW	2017-07-06T15:55:39Z	sha-256:03c25e11c9c2df77f7f061c97e1c0a81c5b89ccc9dada03600d6329a915826d0
+append-entry	user	CAY	2017-07-06T15:55:39Z	sha-256:be89d770faa64a94d5cdd2888299cb6a0db1f8455d1b8b8a442517a25011c6d8
+append-entry	user	CGN	2017-07-06T15:55:39Z	sha-256:0c12ebc9d9021b570936fc243a50f60c2485e656587d8ccf41b1a8418a0fedd0
+append-entry	user	CMN	2017-07-06T15:55:39Z	sha-256:1578a3f28af8999dbb1c0fd1f2a16cc463ddd487c66e465c43cc4f9a03462274
+append-entry	user	CRF	2017-07-06T15:55:39Z	sha-256:ef7277f39b602e5bcd5529199393e2e778b284e07e383489cd2ffcb320bbf1e2
+append-entry	user	CWY	2017-07-06T15:55:39Z	sha-256:6df13cef8a3879cb393ceb6cd956b3169d55445bdf3b199df732825b396c50af
+append-entry	user	DEN	2017-07-06T15:55:39Z	sha-256:8b92ee0a59f33e2f210b34d63e6d036b48c8536a180aeac30015901c19467240
+append-entry	user	FLN	2017-07-06T15:55:39Z	sha-256:9a930c321a1f92f0ad939c0418b9bc0aa4cf4fb9db6df5954b5a256ae4ad6ad6
+append-entry	user	GWN	2017-07-06T15:55:39Z	sha-256:e01611ff53696abac3ac3163f3198b419bc24cfc9ead45281d8bff97f2703862
+append-entry	user	MON	2017-07-06T15:55:39Z	sha-256:22aceb478ccebe7b752cc0d43496cc88e2696d2beb847bd25223f25813dfe379
+append-entry	user	MTY	2017-07-06T15:55:39Z	sha-256:87ce6309bc20e0e5ef04a81e38802ddf3d4136dfd869765500da628d2395ccba
+append-entry	user	NTL	2017-07-06T15:55:39Z	sha-256:fb3953f76b85ae68e7573d330bd981832ebd78d62c3c218b3addfc21dd56f576
+append-entry	user	NWP	2017-07-06T15:55:39Z	sha-256:04e5dd9e0970dc6d7fadb92ce1376bd289287d396d05b3ac9a5c25db6f57db39
+append-entry	user	PEM	2017-07-06T15:55:39Z	sha-256:8b293397e94c8a46e55dcc705179f913a9f0707af8515b9b946acd6a67b7d500
+append-entry	user	POW	2017-07-06T15:55:39Z	sha-256:2cc10a343a4a3e657c5a0fa1bd581791130b90ed31449cd1a5b2504507406bec
+append-entry	user	RCT	2017-07-06T15:55:39Z	sha-256:e7515f2596ab0051a2382907fd9ad6a31cdc661ccc14c1cf95438da3a127c1b0
+append-entry	user	SWA	2017-07-06T15:55:39Z	sha-256:d999a2d7695f6f38546f1d981adcd165e00d6bd4830a4c6c2023213f67383a4c
+append-entry	user	TOF	2017-07-06T15:55:39Z	sha-256:18b59aeab1768f57dab16454e3b463bde86a3e09215a43ad42398da005a51718
+append-entry	user	VGL	2017-07-06T15:55:39Z	sha-256:c610ed6e611101818ac1e05f9d2cd249f781182d69fcd3f8afa7ff58ba3433c6
+append-entry	user	WRX	2017-07-06T15:55:39Z	sha-256:bfd912cbd488001c451063011fcbe9bf79e0aed7310bfc321e02e470d2419d57
+append-entry	user	RCT	2017-08-01T09:15:16Z	sha-256:83cff17f3c869dcd954a2a239311d64468099e3ee4d1d92429782dfd8dff0cb9
+assert-root-hash	sha-256:65df7274742461895b830506121705a4de31bb11ebe7e5925686c4281e1d1b4e

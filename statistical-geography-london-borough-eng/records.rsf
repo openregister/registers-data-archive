@@ -1,0 +1,88 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"register-name":"Statistical geography for London boroughs register"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-eng","phase":"beta","register":"local-authority-eng","text":"The local authority's ISO 3166-2:GB code. Unique codes have been created for local authorities that don't have an existing ISO code."}
+add-item	{"register-name":"Statistical geography for London boroughs"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"name":"statistical-geography-london-borough-eng"}
+add-item	{"fields":["statistical-geography-london-borough-eng","local-authority-eng","start-date","end-date"],"phase":"beta","register":"statistical-geography-london-borough-eng","registry":"office-for-national-statistics","text":"Statistical geography data for London boroughs"}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography-london-borough-eng","phase":"beta","register":"statistical-geography-london-borough-eng","text":"The statistical geography code for a London borough in England."}
+add-item	{"fields":["statistical-geography-london-borough-eng","local-authority-eng","start-date","end-date"],"phase":"beta","register":"statistical-geography-london-borough-eng","registry":"office-for-national-statistics","text":"Statistical geography data for London boroughs in England"}
+add-item	{"local-authority-eng":"STN","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000029"}
+add-item	{"local-authority-eng":"WSM","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000033"}
+add-item	{"local-authority-eng":"CMD","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000007"}
+add-item	{"local-authority-eng":"KTT","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000021"}
+add-item	{"local-authority-eng":"BEN","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000005"}
+add-item	{"local-authority-eng":"ENF","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000010"}
+add-item	{"local-authority-eng":"BEX","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000004"}
+add-item	{"local-authority-eng":"BDG","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000002"}
+add-item	{"local-authority-eng":"BNE","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000003"}
+add-item	{"local-authority-eng":"TWH","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000030"}
+add-item	{"local-authority-eng":"NWM","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000025"}
+add-item	{"local-authority-eng":"RIC","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000027"}
+add-item	{"local-authority-eng":"HMF","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000013"}
+add-item	{"local-authority-eng":"LBH","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000022"}
+add-item	{"local-authority-eng":"BRY","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000006"}
+add-item	{"local-authority-eng":"KEC","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000020"}
+add-item	{"local-authority-eng":"HIL","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000017"}
+add-item	{"local-authority-eng":"WFT","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000031"}
+add-item	{"local-authority-eng":"SWK","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000028"}
+add-item	{"local-authority-eng":"LND","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000001"}
+add-item	{"local-authority-eng":"HRW","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000015"}
+add-item	{"local-authority-eng":"ISL","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000019"}
+add-item	{"local-authority-eng":"CRY","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000008"}
+add-item	{"local-authority-eng":"HAV","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000016"}
+add-item	{"local-authority-eng":"MRT","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000024"}
+add-item	{"local-authority-eng":"LEW","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000023"}
+add-item	{"local-authority-eng":"GRE","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000011"}
+add-item	{"local-authority-eng":"WND","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000032"}
+add-item	{"local-authority-eng":"EAL","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000009"}
+add-item	{"local-authority-eng":"HNS","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000018"}
+add-item	{"local-authority-eng":"RDB","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000026"}
+add-item	{"local-authority-eng":"HCK","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000012"}
+add-item	{"local-authority-eng":"HRY","start-date":"2009-01-01","statistical-geography-london-borough-eng":"E09000014"}
+append-entry	system	name	2017-11-28T14:41:29Z	sha-256:bf3449b21ffb59e4950d873e374a568f930ad055881aad2fd3f28ee6577318c1
+append-entry	system	custodian	2017-11-28T14:41:29Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography-london-borough-eng	2017-11-28T14:41:29Z	sha-256:634e62a4ab1b58298e6c398d08197f8631a177dc1fb14089b01b83d68b7a391a
+append-entry	system	field:local-authority-eng	2017-11-28T14:41:29Z	sha-256:9d30632d44a6007f2430f5dca9a5fa49b9878125d37c5bc9b7ecad435bdfd46b
+append-entry	system	field:start-date	2017-11-28T14:41:29Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-11-28T14:41:29Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography-london-borough-eng	2017-11-28T14:41:29Z	sha-256:0b401d39570803ce3e778bffc1b6e8c7c6ba4d8c8d95b3b93a2d70904338df77
+append-entry	system	register:statistical-geography-london-borough-eng	2018-09-05T12:12:08Z	sha-256:8542186e3b85b9de01ebef714aef0ce6564c6fb226633a981134e0c69f0b38b7
+append-entry	system	register-name	2018-09-05T17:23:27Z	sha-256:cdb77f1637a1c63b945be3618af0a991285e7fadcdc5d5189b003ddac32e0410
+append-entry	system	register-name	2018-09-10T10:48:11Z	sha-256:1a06f322ee8dd4e651e09160be9024e7bf102b84cf92a8583fc839b2dc2dedb6
+append-entry	user	E09000001	2017-11-28T14:41:29Z	sha-256:3c7803e9766418fc6faa9916ab8584fc678356081d23b98e9cb479d711ac688c
+append-entry	user	E09000033	2017-11-28T14:41:29Z	sha-256:762cc33d4ef81c4c1a07ea618a424082d258eeaaa56329c5f447aed52a8645ad
+append-entry	user	E09000032	2017-11-28T14:41:29Z	sha-256:ae6547de535940f87611fb4dab88770aecd7747b04815d632f5ba2ada813ea72
+append-entry	user	E09000031	2017-11-28T14:41:29Z	sha-256:1fe2b610c9905b96f1ba2aa68790515040b5835d4063604ee6d636ead12ee4e5
+append-entry	user	E09000030	2017-11-28T14:41:29Z	sha-256:0c927fd071dc29b7cd74f1cefefe95c8b9c5c9762f08b2a2e3a115e640de4c81
+append-entry	user	E09000028	2017-11-28T14:41:29Z	sha-256:754e17ab266f36236a2af20124127066acfa4296a626489398fd0e54921fca88
+append-entry	user	E09000029	2017-11-28T14:41:29Z	sha-256:4d03cc359d29cbec8c42c570f892ed201cda119e36b32a503fe464bf67ff91b6
+append-entry	user	E09000027	2017-11-28T14:41:29Z	sha-256:22f58e5e1553594a1b335740e6ed5e72e00d2f47a8595ea69eb014a64a0510ec
+append-entry	user	E09000026	2017-11-28T14:41:29Z	sha-256:9e629e4b61ee6c8c95a9c224618e32ef0f6a5d3a1bd75c0c056e1be215c9bbd0
+append-entry	user	E09000025	2017-11-28T14:41:29Z	sha-256:af73de60de81514d10f3b0f20b5755b1bedf5574407b14f566e278e7f073440c
+append-entry	user	E09000024	2017-11-28T14:41:29Z	sha-256:3ce86c846ad70a07316edc9bba8b624793a4a7ebfb87cfc5525bed95f075a9f3
+append-entry	user	E09000023	2017-11-28T14:41:29Z	sha-256:8d6207928b7b034c9e6ad38120620962816b1fc024791a53521354142d4c8b7c
+append-entry	user	E09000022	2017-11-28T14:41:29Z	sha-256:535c81fd203200d229006c8bdb93354b7313503897f1d396b8cb20eed7041568
+append-entry	user	E09000021	2017-11-28T14:41:29Z	sha-256:0cdde0f0cea00377c242947d300f9830017a71518d0df8a84c254a82e0a94cf8
+append-entry	user	E09000020	2017-11-28T14:41:29Z	sha-256:112e9a16ad36f97e69a29884d00a1a5141bd6d2d3c97e921f77957ec5682a968
+append-entry	user	E09000019	2017-11-28T14:41:29Z	sha-256:6ce37038ebf5a4abbd861095a4dbe2e8783609a9d23b4691c754678c96f84276
+append-entry	user	E09000014	2017-11-28T14:41:29Z	sha-256:20c8bff832034261b28570d601cd9ac7be7d7687c736501a21b825cd7c24bf89
+append-entry	user	E09000015	2017-11-28T14:41:29Z	sha-256:c90fea26d9b7859bdf26f8490a0ff0352518cfc544a4a3634515622ba76433a3
+append-entry	user	E09000018	2017-11-28T14:41:29Z	sha-256:5e16f61a824d550010214f6c56aa1dfbe5bcf5b957a1e9db6675df2a534a8e7d
+append-entry	user	E09000013	2017-11-28T14:41:29Z	sha-256:94ce0df069b78fc56e518645b76050fb55454ccd7044440f9409171a1f9c4329
+append-entry	user	E09000017	2017-11-28T14:41:29Z	sha-256:d1ada97fdec10a58cbc64b66576ce781b4166cbf5e327f83a1cc10d15250d2bd
+append-entry	user	E09000012	2017-11-28T14:41:29Z	sha-256:d7a404bc6f5aae1cfc8728e44a1b27db5484ed11c42c544c14f9a40a1799f1a3
+append-entry	user	E09000016	2017-11-28T14:41:29Z	sha-256:6265935691b689afbc3fd87d15f23ad5f81c82e7a63b84993b74e1334c189b19
+append-entry	user	E09000011	2017-11-28T14:41:29Z	sha-256:fe1e8374af0881f3cdeafb6a3064ee5cc2223c431a7f34cca02fd9caf535cc78
+append-entry	user	E09000010	2017-11-28T14:41:29Z	sha-256:a0f0fa2854cd1b834ea451860011d7d60475b019905d6d5d65420db60d5d835d
+append-entry	user	E09000009	2017-11-28T14:41:29Z	sha-256:de73b311680fefffbf3e476f42b2b15211981730d04fcfbf1b33ab7537417f0a
+append-entry	user	E09000008	2017-11-28T14:41:29Z	sha-256:57f0e536129d02a19cbb91963587a470afe56574306dfa97195a848c6b58ac6a
+append-entry	user	E09000007	2017-11-28T14:41:29Z	sha-256:6ea66dcd70e13e0daa215db8fddd4bebcb747319127d86f73da68a3670d9eeca
+append-entry	user	E09000006	2017-11-28T14:41:29Z	sha-256:4c23e8c51302b6575adc3f6f2196f0956762859499facfe3fef27a3929ed8a30
+append-entry	user	E09000003	2017-11-28T14:41:29Z	sha-256:fd608f84739c0775f515ee74b10fff2ef055958bf17c5f3f936ad8dea3873e2f
+append-entry	user	E09000004	2017-11-28T14:41:29Z	sha-256:e25382a3f5fa8264cbee3873493df0da3beae69a8ec9ac3683a9835b2415ec42
+append-entry	user	E09000005	2017-11-28T14:41:29Z	sha-256:b6fbfd7ccfd53604b2362d147a6c15ae7b4d98f79f327991c35d1e834c1161a3
+append-entry	user	E09000002	2017-11-28T14:41:29Z	sha-256:6cea09972b497acd9b9d6111a06669f5386021fd84fc5301bef40e8cda596fea
+assert-root-hash	sha-256:ff3e432d10e5da4fd4eb41040915142af2a51ca42c57dc62440f899cafc31eca

@@ -1,0 +1,101 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"string","field":"official-name","phase":"beta","text":"The official or technical name of a record."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"custodian":"Hugh Buchanan"}
+add-item	{"name":"local-authority-sct"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-type","phase":"beta","register":"local-authority-type","text":"The type of local government organisation."}
+add-item	{"fields":["local-authority-sct","local-authority-type","name","official-name","start-date","end-date"],"phase":"beta","register":"local-authority-sct","registry":"the-scottish-government","text":"Local authorities in Scotland"}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-sct","phase":"beta","register":"local-authority-sct","text":"A local authority in Scotland."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable. For example, the date a school closed down."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register. For example, the date a country was first recognised by the UK."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-sct","phase":"beta","register":"local-authority-sct","text":"The unique code for a local authority in Scotland."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-type","phase":"beta","register":"local-authority-type","text":"The unique code for the type of local government organisation. For example, county council."}
+add-item	{"register-name":"Local authorites in Scotland register"}
+add-item	{"register-name":"Local authorites in Scotland"}
+add-item	{"register-name":"Local authorities in Scotland"}
+add-item	{"local-authority-sct":"ANS","local-authority-type":"CA","name":"Angus","official-name":"The Angus Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"NAY","local-authority-type":"CA","name":"North Ayrshire","official-name":"The North Ayrshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"WDU","local-authority-type":"CA","name":"West Dunbartonshire","official-name":"The West Dunbartonshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"SAY","local-authority-type":"CA","name":"South Ayrshire","official-name":"The South Ayrshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"EDH","local-authority-type":"CA","name":"Edinburgh","official-name":"The City of Edinburgh Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"FIF","local-authority-type":"CA","name":"Fife","official-name":"The Fife Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ELS","local-authority-type":"CA","name":"Comhairle nan Eilean Siar","official-name":"Comhairle nan Eilean Siar","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"HLD","local-authority-type":"CA","name":"Highland","official-name":"The Highland Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"RFW","local-authority-type":"CA","name":"Renfrewshire","official-name":"The Renfrewshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"EAY","local-authority-type":"CA","name":"East Ayrshire","official-name":"The East Ayrshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ELN","local-authority-type":"CA","name":"East Lothian","official-name":"The East Lothian Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"DND","local-authority-type":"CA","name":"Dundee City","official-name":"The Dundee City Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"AGB","local-authority-type":"CA","name":"Argyll and Bute","official-name":"The Argyll and Bute Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"PKN","local-authority-type":"CA","name":"Perth and Kinross","official-name":"The Perth and Kinross Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ERW","local-authority-type":"CA","name":"East Renfrewshire","official-name":"The East Renfrewshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"GLG","local-authority-type":"CA","name":"Glasgow City","official-name":"The Glasgow City Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"STG","local-authority-type":"CA","name":"Stirling","official-name":"The Stirling Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"SCB","local-authority-type":"CA","name":"Scottish Borders","official-name":"The Scottish Borders Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"SLK","local-authority-type":"CA","name":"South Lanarkshire","official-name":"The South Lanarkshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"FAL","local-authority-type":"CA","name":"Falkirk","official-name":"The Falkirk Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ABD","local-authority-type":"CA","name":"Aberdeenshire","official-name":"The Aberdeenshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ZET","local-authority-type":"CA","name":"Shetland Islands","official-name":"Shetland Islands Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ABE","local-authority-type":"CA","name":"Aberdeen City","official-name":"The Aberdeen City Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"DGY","local-authority-type":"CA","name":"Dumfries and Galloway","official-name":"The Dumfries and Galloway Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"EDU","local-authority-type":"CA","name":"East Dunbartonshire","official-name":"The East Dunbartonshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"CLK","local-authority-type":"CA","name":"Clackmannanshire","official-name":"The Clackmannanshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"MLN","local-authority-type":"CA","name":"Midlothian","official-name":"The Midlothian Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"IVC","local-authority-type":"CA","name":"Inverclyde","official-name":"The Inverclyde Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"MRY","local-authority-type":"CA","name":"Moray","official-name":"The Moray Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"NLK","local-authority-type":"CA","name":"North Lanarkshire","official-name":"The North Lanarkshire Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"WLN","local-authority-type":"CA","name":"West Lothian","official-name":"The West Lothian Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ORK","local-authority-type":"CA","name":"Orkney Islands","official-name":"Orkney Islands Council","start-date":"1996-04-01"}
+add-item	{"local-authority-sct":"ELS","local-authority-type":"CA","name":"Na h-Eileanan an Iar","official-name":"Comhairle nan Eilean Siar","start-date":"1996-04-01"}
+append-entry	system	name	2017-07-17T10:59:47Z	sha-256:a45ad3781ce01cbafebfb8789784d59cd67d64433fb4586fe10d286c4256399f
+append-entry	system	custodian	2017-07-17T10:59:47Z	sha-256:871e3c3820d76eb2ee8301eee132a8874e3716a62801ab826aacd4a24b9f427d
+append-entry	system	field:local-authority-sct	2017-05-25T07:52:06Z	sha-256:7ead5804469d44c08e3d57469cea2e0dd67ab52742b477d29150875c5f2a8dba
+append-entry	system	field:local-authority-type	2017-01-10T17:16:07Z	sha-256:c244c74c48c14b08aa98346ee8064743e65d6331b09d524c03a333468f3b58da
+append-entry	system	field:name	2017-01-10T17:16:07Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:official-name	2017-01-10T17:16:07Z	sha-256:5c4728f439f6cbc6c7eea42992b858afc78c182962ba35d169f49db2c88e1e41
+append-entry	system	field:start-date	2017-01-10T17:16:07Z	sha-256:1cff4c622577fabd35917760b04bc304af3b950e19735b60152c19f18b55e75e
+append-entry	system	field:end-date	2017-01-10T17:16:07Z	sha-256:a557fa9bf4a6ce1991717b9429406f4fa724fb8818dfe018d306694de22efbf7
+append-entry	system	register:local-authority-sct	2017-05-25T07:52:39Z	sha-256:8b94087072c5ad2a477fcccb159095267a1f9a0e8eceb5eeb45cbc14d3f86bea
+append-entry	system	field:start-date	2017-08-29T11:30:00Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-08-29T11:31:00Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	field:local-authority-sct	2018-06-07T11:02:10Z	sha-256:950e01366de6d92b88ab71e41ce169c02d447cf7bf61179e7075c188f2cea267
+append-entry	system	field:local-authority-type	2018-06-07T11:04:57Z	sha-256:26134c24d1cd32150ec486ba4670882dcb0ae9885b34cae8f6dd1b6a40bb6434
+append-entry	system	register:local-authority-sct	2018-09-05T10:55:53Z	sha-256:8b94087072c5ad2a477fcccb159095267a1f9a0e8eceb5eeb45cbc14d3f86bea
+append-entry	system	register-name	2018-09-05T17:16:41Z	sha-256:59bc69c59dc8d218612aa6bdae8ef127f7718db3e5d0a7ada6bb1029196830a8
+append-entry	system	register-name	2018-09-10T10:24:45Z	sha-256:7c8d44f21f0e3d367bcb39832849ab79e33de2e5932d97ded840de76528fdc68
+append-entry	system	register-name	2019-02-22T14:55:05Z	sha-256:1481cd543227cb3c0e91269917feda4463c3f49b18fb846d4cfff4179214b190
+append-entry	user	ABD	2017-03-07T22:44:56Z	sha-256:0c4fc18b0dca1915d0f1769c08dde6010d19e9c9298f392daa330726d60602c6
+append-entry	user	ABE	2017-03-07T22:44:56Z	sha-256:30ba994753ea8ad648e0c81ed1b7f6480351d8288b9e071ac3bacc727efbe285
+append-entry	user	AGB	2017-03-07T22:44:56Z	sha-256:43279ccfda3482323e24d9374e9ff11345589f8e514ff9c08320c09bcd5aa107
+append-entry	user	ANS	2017-03-07T22:44:56Z	sha-256:d3aee473c5acb93937ba781282842584784328d12535e8355146d8fd7a51547d
+append-entry	user	CLK	2017-03-07T22:44:56Z	sha-256:440d04fd521d5e6d7174c6302738d1505d2ce414074820698d023d2cb2a9156e
+append-entry	user	DGY	2017-03-07T22:44:56Z	sha-256:efca551d9f31cfd31f8bf8be3ef689b865eb013083fbc4c79a4fec889c1fd90f
+append-entry	user	DND	2017-03-07T22:44:56Z	sha-256:415471bbc858a9dd05685bad5d844f9ee27b72732d68f05f3aa4b0b352b96fe7
+append-entry	user	EAY	2017-03-07T22:44:56Z	sha-256:3ac1b9a5f9d48d084900bc30dba44bb4d6c4c73dc51ccbb6c26bb25e8aaef307
+append-entry	user	EDH	2017-03-07T22:44:56Z	sha-256:ca6bfe088622a0bf9929846806cce2b93f7ebfb16e46218dddcff4fc1c4c222a
+append-entry	user	EDU	2017-03-07T22:44:56Z	sha-256:3b22b23beb0dfbd84c0fd8109000e0a6a86d8081dd64a36ad3fd77cd922a75fb
+append-entry	user	ELN	2017-03-07T22:44:56Z	sha-256:e06641582bb8d58c0f74987cfcbc55da3266d27858b3facba2eff029fbd1deaa
+append-entry	user	ELS	2017-03-07T22:44:56Z	sha-256:fbbb313bb230afdd29617ebaff3ad43b2917f8b3eae268bc7dbeda8cc3113ba2
+append-entry	user	ERW	2017-03-07T22:44:56Z	sha-256:8c455f9671bbfc13098fdf2d71dc5e9dff57a5e42f48ab5c9a239429833cb059
+append-entry	user	FAL	2017-03-07T22:44:56Z	sha-256:9b189a2cb084db0bb37113fd3babe915fbe72d442ceba708b8c5b1688a11a625
+append-entry	user	FIF	2017-03-07T22:44:56Z	sha-256:583c7bf37d13cfbe8507082fa4c6fc178788aa0254035a4cdd2ac394924ae54b
+append-entry	user	GLG	2017-03-07T22:44:56Z	sha-256:26376c5c343d69815626fab66919c6499759a2fc7492e393118de745c7a615fe
+append-entry	user	HLD	2017-03-07T22:44:56Z	sha-256:1733d19d0b4a5fa306c5e9c519adce035bb061f8c19dd1fd86828d206e51e1ab
+append-entry	user	IVC	2017-03-07T22:44:56Z	sha-256:306443690a33883d31c2cb3ea7c37a4c4b0d3709ffba3533e6a2c05cb7565229
+append-entry	user	MLN	2017-03-07T22:44:56Z	sha-256:01c90c74b2237bb7da07e8f757f1d7320fef6ce9673828fba15ce6545a513b43
+append-entry	user	MRY	2017-03-07T22:44:56Z	sha-256:3631789cc8749ad2da84d286d4f8aad000003fcd74a99d71d98c36d16ae25150
+append-entry	user	NAY	2017-03-07T22:44:56Z	sha-256:b418252ca4a9e4370e2f795bf15bf9bb9e350c9f7992dfb61bc2256c4a966cc5
+append-entry	user	NLK	2017-03-07T22:44:56Z	sha-256:9d4db3caa199c3570a94037305b41e650a2bd8894e75c20c036c2e976ae16aaf
+append-entry	user	ORK	2017-03-07T22:44:56Z	sha-256:13980a6c51dd92faef4079bbbeb4c156b28fbe4c942f5fcdec879b83991d307f
+append-entry	user	PKN	2017-03-07T22:44:56Z	sha-256:33710960cf198578c2d67311997818f442ed347a0ff354c45796bfd828f3c946
+append-entry	user	RFW	2017-03-07T22:44:56Z	sha-256:100a47d5f2956ef198208ea2c3cb5732d437d77ab613892f595e1e2b60870be4
+append-entry	user	SAY	2017-03-07T22:44:56Z	sha-256:3e001d16b29a334d73758f2aeccc52ab99685cc06406c91d5a6493fc209a5dab
+append-entry	user	SCB	2017-03-07T22:44:56Z	sha-256:099f61a0ec61f4a07b142151ba5423e05b7e16e0bd7279cde560fd264fefc717
+append-entry	user	SLK	2017-03-07T22:44:56Z	sha-256:3a4e7585805c76646b67a3000df9419e3af3961a3910166d4d22159e3f9f59f8
+append-entry	user	STG	2017-03-07T22:44:56Z	sha-256:70c0af2abf58d1eaee53c3d36780bb6c511662a03c8b9567f9f9df812bbdc4d1
+append-entry	user	WDU	2017-03-07T22:44:56Z	sha-256:5968250a5a1eedbd6edbbfefb9f5e5e3ebe3e6ca3d22460e06ad0fda7001e8e9
+append-entry	user	WLN	2017-03-07T22:44:56Z	sha-256:7fa8bbc7728ad337d44f3807e14e807f8474a7697c5dad812d925379927e9fa4
+append-entry	user	ZET	2017-03-07T22:44:56Z	sha-256:1ab695c1df4c48059ff80289f9bd7d5c6fa89d97a3f4b359145cd9d80b35b3d1
+append-entry	user	ELS	2017-10-12T14:38:48Z	sha-256:2da9db7d013c09b6403686a6c244693f0bef39372e7ab4dda271d5e3f6a2491d
+assert-root-hash	sha-256:03746a6da574d5bc53688589aada36a8f264934ef729deab492aca319c9d0a70

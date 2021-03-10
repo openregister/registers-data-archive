@@ -1,0 +1,71 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"string","field":"approved-open-standard","phase":"beta","register":"approved-open-standard","text":"An open standard that has been approved by government technology."}
+add-item	{"name":"approved-open-standard"}
+add-item	{"cardinality":"1","datatype":"url","field":"website","phase":"beta","text":"The website for a record."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"register-name":"Approved open standard register"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"register-name":"Approved open standard"}
+add-item	{"fields":["approved-open-standard","name","short-name","website","start-date","end-date"],"phase":"beta","register":"approved-open-standard","registry":"government-digital-service","text":"Open standards approved for use in government technology"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"cardinality":"1","datatype":"string","field":"short-name","phase":"beta","text":"The short name of a record."}
+add-item	{"custodian":"Terence Eden"}
+add-item	{"approved-open-standard":"1005","name":"multi agency incident transfer protocol (MAIT)","short-name":"Multi Agency Incident Transfer Version 0.2.2","start-date":"2018-01-31","website":"http://mait.org.uk/"}
+add-item	{"approved-open-standard":"1011","name":"Unicode Transformation Format 8","short-name":"UTF-8","start-date":"2018-01-31","website":"http://www.rfc-base.org/rfc-3629.html"}
+add-item	{"approved-open-standard":"1007","name":"World Geodetic System 1984","short-name":"WGS 84","start-date":"2018-01-31","website":"https://www.nga.mil/ProductsServices/GeodesyandGeophysics/Pages/WorldGeodeticSystem.aspx"}
+add-item	{"approved-open-standard":"1008","name":"ISO 3166-1:2013","start-date":"2018-01-31","website":"http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=63545"}
+add-item	{"approved-open-standard":"1001","name":"ISO 8601:2004","start-date":"2018-01-31","website":"https://www.iso.org/standard/40874.html"}
+add-item	{"approved-open-standard":"1017","name":"ISO/IEC 19005-2:2011","short-name":"PDF/A-2","start-date":"2018-01-31","website":"http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=50655"}
+add-item	{"approved-open-standard":"1002","name":"Open Contracting Data Standard (OCDS)","short-name":"OCDS V 1.1","start-date":"2018-01-31","website":"http://standard.open-contracting.org/latest/en/"}
+add-item	{"approved-open-standard":"1019","name":"RFC5545 iCalendar September 2009.","short-name":"iCal","start-date":"2018-01-31","website":"http://standards.data.gov.uk/standard/rfc5545-icalendar-september-2009"}
+add-item	{"approved-open-standard":"1009","name":"ISO 639-1:2002","start-date":"2018-01-31","website":"http://www.iso.org/iso/catalogue_detail?csnumber=22109"}
+add-item	{"approved-open-standard":"1010","name":"Unicode 6.2","short-name":"Unicode","start-date":"2018-01-31","website":"http://www.unicode.org/versions/Unicode6.2.0/"}
+add-item	{"approved-open-standard":"1018","name":"RFC6350 vCard August 2011.","short-name":"vCard","start-date":"2018-01-31","website":"http://standards.data.gov.uk/standard/rfc6350-vcard-august-2011"}
+add-item	{"approved-open-standard":"1014","name":"Open Document Format","short-name":"ODF 1.2","start-date":"2018-01-31","website":"http://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2.html"}
+add-item	{"approved-open-standard":"1012","name":"HTTP 1.1","start-date":"2018-01-31","website":"http://tools.ietf.org/html/rfc2616"}
+add-item	{"approved-open-standard":"1013","name":"Uniform Resource Locator","short-name":"URL","start-date":"2018-01-31","website":"http://tools.ietf.org/html/rfc3986"}
+add-item	{"approved-open-standard":"1016","name":"ISO/IEC 19005-1:2005","short-name":"PDF/A-1","start-date":"2018-01-31","website":"http://www.iso.org/iso/catalogue_detail?csnumber=38920"}
+add-item	{"approved-open-standard":"1003","name":"International Aid Transparency Initiative (IATI)","short-name":"IATI v2.02","start-date":"2018-01-31","website":"http://iatistandard.org/202/reference/"}
+add-item	{"approved-open-standard":"1015","name":"HTML5","short-name":"HTML5","start-date":"2018-01-31","website":"http://www.w3.org/html/wg/drafts/html/master/"}
+add-item	{"approved-open-standard":"1006","name":"European Terrestrial Reference System 1989","short-name":"ETRS89","start-date":"2018-01-31","website":"http://etrs89.ensg.ign.fr/"}
+add-item	{"approved-open-standard":"1004","name":"schema.org JobPosting","short-name":"JobPosting","start-date":"2018-01-31","website":"https://schema.org/JobPosting"}
+add-item	{"approved-open-standard":"1018","name":"RFC6350 vCard August 2011.","short-name":"vCard","start-date":"2018-01-31","website":"https://tools.ietf.org/html/rfc6350"}
+add-item	{"approved-open-standard":"1019","name":"RFC5545 iCalendar September 2009.","short-name":"iCal","start-date":"2018-01-31","website":"https://tools.ietf.org/html/rfc5545"}
+add-item	{"approved-open-standard":"1010","end-date":"2018-08-07","name":"Unicode 6.2","short-name":"Unicode","start-date":"2018-01-31","website":"http://www.unicode.org/versions/Unicode6.2.0/"}
+add-item	{"approved-open-standard":"1020","name":"Unicode 11.0","short-name":"Unicode","start-date":"2018-08-07","website":"https://www.unicode.org/versions/Unicode11.0.0/"}
+append-entry	system	name	2018-05-09T13:56:21Z	sha-256:ff38c43a900b5056dc306467243bd635f18fb72ae5f61fb4806e562f6d11b5fb
+append-entry	system	custodian	2018-05-09T13:56:21Z	sha-256:3714b2535f57d3e3381944e80340a2a316b4226c4a3cb99c2c912b261ab78132
+append-entry	system	field:approved-open-standard	2018-05-09T13:56:21Z	sha-256:1cba9b2ac55e24bb68b144de340e5e3b2cfba6b9d0aeb0b1b9038884dbb74a1f
+append-entry	system	field:name	2018-05-09T13:56:21Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:short-name	2018-05-09T13:56:21Z	sha-256:d34e6a404c642545dfabe746aa56347d6235c687134cdda43a3594ceb604b741
+append-entry	system	field:website	2018-05-09T13:56:21Z	sha-256:225c00de2d5a2f7ce3c02a40db2cba104c98ed72a981d195f7706ceff9be960e
+append-entry	system	field:start-date	2018-05-09T13:56:21Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-05-09T13:56:21Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:approved-open-standard	2018-05-09T13:56:21Z	sha-256:18d888020cbf924d7f3bf9a950bdd4691038cf86fc1222b354b9bc672bfb4d63
+append-entry	system	register:approved-open-standard	2018-09-05T09:30:25Z	sha-256:18d888020cbf924d7f3bf9a950bdd4691038cf86fc1222b354b9bc672bfb4d63
+append-entry	system	register-name	2018-09-05T17:07:05Z	sha-256:ec769f9b917a17afb7a12a4c8d19530261819693e8ba4fc0d10de92b57d69228
+append-entry	system	register-name	2018-09-10T10:08:48Z	sha-256:804b5a08de7e31ecca81374c87abe98a956969e608469268274940bcaafc8cfd
+append-entry	user	1001	2018-05-09T13:56:21Z	sha-256:d7a0e05cb98f5e80c49be44fa372af3dce6cf0e8c8fcfc29962fc7fc5b49b93d
+append-entry	user	1002	2018-05-09T13:56:21Z	sha-256:9fb7b439992070f6003e8d151aa9e5c0cdd7503ba3dd172ebd294a8ba17094ff
+append-entry	user	1003	2018-05-09T13:56:21Z	sha-256:56fc29c29b08d21324bb567c9de78b7cb5f76b3e65dc6f28916bad3c879cd4fc
+append-entry	user	1004	2018-05-09T13:56:21Z	sha-256:3ab03a05f7f3f4354db15ad212d3a520d96160c19503ec3b5b950ca9b6b13517
+append-entry	user	1005	2018-05-09T13:56:21Z	sha-256:2ed14aae9c3e4539748a8488c97ce358154f73fc16e3c3ef9fdf63bbb1498a1c
+append-entry	user	1006	2018-05-09T13:56:21Z	sha-256:6971cd311792d088e2ca6d5d2c50ce8d1be2435cd88abcdbfed86b55bb6dfc7a
+append-entry	user	1007	2018-05-09T13:56:21Z	sha-256:0653806c042bed7794583c29a09f8a11859a4bb92344dba5c329c7e0fb26779e
+append-entry	user	1008	2018-05-09T13:56:21Z	sha-256:9020f1436f9b9c2b3718dd53e48ace2d2a5c06eb4066d90f01c79820c1a3774f
+append-entry	user	1009	2018-05-09T13:56:21Z	sha-256:ab78a3270d9e59cbf5bf03617cf3df246dd4ea102762267febf67d8d5a9aeafa
+append-entry	user	1010	2018-05-09T13:56:21Z	sha-256:da13bcecd7cbe9c44e18cb3f30f2c82689b9f5ae45e99676160848f55651861c
+append-entry	user	1011	2018-05-09T13:56:21Z	sha-256:aa72933a40500b70bd0f2ae2d1b9f0e076024f16c17a720fbd6bb65570946676
+append-entry	user	1012	2018-05-09T13:56:21Z	sha-256:3a2efbcf8d6caa522ff709e7753cdeb6d7567f3c70bd5bd0dac58b627dc3bdad
+append-entry	user	1013	2018-05-09T13:56:21Z	sha-256:6c866c737793ae5dfbba821c163b86fdb7e916f7876b9a5fe9dec0de20ae2458
+append-entry	user	1014	2018-05-09T13:56:21Z	sha-256:8640f7f1940b759307eb25b0b6f95e6082b391df529aacddd5c7781b10abd490
+append-entry	user	1015	2018-05-09T13:56:21Z	sha-256:8309f70393693412dcc76c0150a6d1ab2eb8bad7fc188ba9addc847f8f202406
+append-entry	user	1016	2018-05-09T13:56:21Z	sha-256:433f75d5a0626b9c8c7c3850304ea555e36ffb644e1b4575e9e271fb451a254f
+append-entry	user	1017	2018-05-09T13:56:21Z	sha-256:1c2933f713fa4ec1a3164ed8a6468053ab84c1c630fd3617669751d860ea7ea1
+append-entry	user	1018	2018-05-09T13:56:21Z	sha-256:899f0924ded6a2769b3d0fab6ec606fc239a8e4e1d17dd9ae7d4e93bbec6f2c7
+append-entry	user	1019	2018-05-09T13:56:21Z	sha-256:909adc5144b7347ddbd49be8ed6dd3265a7344a552a1caea8385ab24238aa2ea
+append-entry	user	1018	2018-06-26T14:49:39Z	sha-256:22eff9ff6270c89c0e640c38fa2d13e89dc8c05566c897fface52a06c8a3994e
+append-entry	user	1019	2018-06-26T14:50:13Z	sha-256:0680bfa84ce54fd781c8f77ef69194e458b410ed2cbbcf839ef5f74588013f76
+append-entry	user	1010	2018-08-15T15:54:11Z	sha-256:5c4b649af53e1a33fd3f9d2b0a8f3f4e5326d0f96163dffbd29411ba33e91a44
+append-entry	user	1020	2018-08-15T15:58:13Z	sha-256:cac5652a75bd32d576d7334d59194bb3a0d38e7630b797931e764308343c4698
+assert-root-hash	sha-256:ddd8b1fbd85b76e043935f7e600992b2b354ae2850b1285cc245989e30696a45

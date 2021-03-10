@@ -1,0 +1,86 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"fields":["allergen","name","allergen-group","start-date","end-date"],"phase":"beta","register":"allergen","registry":"food-standards-agency","text":"Allergens referenced in Food Standards Agency food safety alerts"}
+add-item	{"cardinality":"1","datatype":"string","field":"allergen-group","phase":"beta","register":"allergen","text":"A parent allergen referenced in Food Standards Agency food safety alerts, for example almond is a type of nut."}
+add-item	{"cardinality":"1","datatype":"string","field":"allergen","phase":"beta","register":"allergen","text":"An allergen referenced in Food Standards Agency food safety alerts."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Paul Tossell"}
+add-item	{"name":"allergen"}
+add-item	{"cardinality":"1","datatype":"string","field":"allergen-group","phase":"beta","register":"allergen","text":"The unique code for a group of allegens as recognised by the Food Standards Agency. For example, almond and cashew are part of the nuts allergen group."}
+add-item	{"cardinality":"1","datatype":"string","field":"allergen","phase":"beta","register":"allergen","text":"The unique code for a food allergen as recognised by the Food Standards Agency."}
+add-item	{"fields":["allergen","name","allergen-group","start-date","end-date"],"phase":"beta","register":"allergen","registry":"food-standards-agency","text":"Food allergens as recognised by the Food Standards Agency"}
+add-item	{"fields":["allergen","name","allergen-group","start-date","end-date"],"phase":"beta","register":"allergen","registry":"food-standards-agency","text":"Food allergens recognised by the Food Standards Agency"}
+add-item	{"register-name":"Allergen register"}
+add-item	{"register-name":"Allergen"}
+add-item	{"cardinality":"1","datatype":"string","field":"allergen-group","phase":"beta","register":"allergen","text":"The unique code for a group of allergens as recognised by the Food Standards Agency. For example, almond and cashew are part of the nuts allergen group."}
+add-item	{"allergen":"12","name":"Crustaceans"}
+add-item	{"allergen":"31","allergen-group":"24","name":"Pistachio nut"}
+add-item	{"allergen":"33","name":"Peanuts"}
+add-item	{"allergen":"22","name":"Molluscs"}
+add-item	{"allergen":"14","name":"Fish"}
+add-item	{"allergen":"21","name":"Milk"}
+add-item	{"allergen":"26","allergen-group":"24","name":"Brazil nut"}
+add-item	{"allergen":"27","allergen-group":"24","name":"Cashew"}
+add-item	{"allergen":"32","allergen-group":"24","name":"Walnut"}
+add-item	{"allergen":"13","name":"Egg"}
+add-item	{"allergen":"23","name":"Mustard"}
+add-item	{"allergen":"20","name":"Lupin"}
+add-item	{"allergen":"29","allergen-group":"24","name":"Macadamia nut"}
+add-item	{"allergen":"18","allergen-group":"15","name":"Rye"}
+add-item	{"allergen":"28","allergen-group":"24","name":"Hazelnut"}
+add-item	{"allergen":"25","allergen-group":"24","name":"Almond"}
+add-item	{"allergen":"11","name":"Celery"}
+add-item	{"allergen":"16","allergen-group":"15","name":"Barley"}
+add-item	{"allergen":"35","name":"Soya"}
+add-item	{"allergen":"17","allergen-group":"15","name":"Oats"}
+add-item	{"allergen":"19","allergen-group":"15","name":"Wheat"}
+add-item	{"allergen":"34","name":"Sesame"}
+add-item	{"allergen":"36","name":"Sulphur dioxide and/or sulphites"}
+add-item	{"allergen":"15","name":"Gluten"}
+add-item	{"allergen":"30","allergen-group":"24","name":"Pecan nut"}
+add-item	{"allergen":"24","name":"Nuts"}
+append-entry	system	name	2017-11-29T15:07:48Z	sha-256:62bfc72aea738922f6329a2afd7072535fae00028d2a79f0fe09aa6613986795
+append-entry	system	custodian	2017-11-29T15:07:48Z	sha-256:cf6c7552aa3359f9b076a0a75025549f57ce70a65d2eeecc0b14731a7bc70f53
+append-entry	system	field:allergen	2017-11-29T15:07:48Z	sha-256:b6c5152dc07656228957e12d8672b6c91ddac14649199dbf939eae0df0fa401f
+append-entry	system	field:name	2017-11-29T15:07:48Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:allergen-group	2017-11-29T15:07:48Z	sha-256:c60888f9294951cf0b4bd2da65e97575cef15685bb6ac4cbde5915bf9bfc9438
+append-entry	system	field:start-date	2017-11-29T15:07:48Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-11-29T15:07:48Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:allergen	2017-11-29T15:07:48Z	sha-256:4d317da666aef4cc6da382a3014cd59cc6ea666da941f772f05e7e73dd72f540
+append-entry	system	field:allergen-group	2018-06-06T16:12:38Z	sha-256:64e79399155a0d3bf9ce7542b879116f874c656514c5f09c732eac6ba14315f6
+append-entry	system	field:allergen	2018-06-06T16:14:13Z	sha-256:f060eb6f3956ca4db160a53385f03f885f83cbf981b29b8c4d00990cd2def5b8
+append-entry	system	field:allergen	2018-06-07T13:16:30Z	sha-256:f060eb6f3956ca4db160a53385f03f885f83cbf981b29b8c4d00990cd2def5b8
+append-entry	system	field:allergen	2018-06-07T13:57:18Z	sha-256:f060eb6f3956ca4db160a53385f03f885f83cbf981b29b8c4d00990cd2def5b8
+append-entry	system	register:allergen	2018-07-12T15:07:48Z	sha-256:49de7a70a46ea3bff3d4197ff8d7776ef92a8e803e90050494e6d2421ea81137
+append-entry	system	register:allergen	2018-09-05T09:21:52Z	sha-256:5afae5797ebbbd70d883062ff9500a5dc2edac7557c39d4ee9de4611d335daa1
+append-entry	system	register-name	2018-09-05T17:06:07Z	sha-256:3254b1cea3bc5ebad1f405adfb8aa2a7b71fca39b6aa64073dc380edbac5c999
+append-entry	system	register-name	2018-09-10T10:08:18Z	sha-256:1a552ee97bd09732fd747da5dec2fe01f9ed398db476922aec2475b660d2d88d
+append-entry	system	field:allergen-group	2018-12-04T10:45:56Z	sha-256:2914ff917729a6570503d3e74348cfea0da83e94a1df68b53fedd566102e7787
+append-entry	user	11	2017-11-29T15:07:48Z	sha-256:8598163bdb3b4da9a7db3ca4c6e1ed46577691167d14fb7a6621b9502d82d145
+append-entry	user	12	2017-11-29T15:07:48Z	sha-256:419ce2869b629902a04e84afe76d602961573be59b030973dd3843ff737632dc
+append-entry	user	13	2017-11-29T15:07:48Z	sha-256:6a227cd90047de1fb3834789535e995460b56e0bc5d8ea12dbf900eb03bc8f15
+append-entry	user	14	2017-11-29T15:07:48Z	sha-256:eeaf09502ec6ec2505ede694be9ccf61529edab2773713aa83e75f06c1920481
+append-entry	user	15	2017-11-29T15:07:48Z	sha-256:d1dfbfdd3532f28ba2ea4d824c1a98e20d453b8374d0a92260dfa877d9088125
+append-entry	user	16	2017-11-29T15:07:48Z	sha-256:6b6bed63d980163ec313c888181a2443392710bc1a5d56b0e2ad127e7a9082c1
+append-entry	user	17	2017-11-29T15:07:48Z	sha-256:0e3a494b1d6f31ecffe96158293cd078926d22847e90a3db869643c5152ed3fe
+append-entry	user	18	2017-11-29T15:07:48Z	sha-256:68515674b0b1d94ca71da64b285857ae5d86fbea00a4fbc76d75ac0e48af30b4
+append-entry	user	19	2017-11-29T15:07:48Z	sha-256:1b37d7670e2e16c88696ab68e037087999ca75584441532959a0e963bfc5742c
+append-entry	user	20	2017-11-29T15:07:48Z	sha-256:fc176fa09663f571ef054d02fd8cb95d2b9c7a8d27e98c73bed406aa550a24f2
+append-entry	user	21	2017-11-29T15:07:48Z	sha-256:6fae27d57e7110ac9e19939009a863b01136580482d60fface11a3ec0610eebc
+append-entry	user	22	2017-11-29T15:07:48Z	sha-256:1dbc1dae190d329a7d2a2dc327774888f9f44fb56d0b743b1c599ae44f110545
+append-entry	user	23	2017-11-29T15:07:48Z	sha-256:0a890774b07f8c827a38b35b80b094e5df0e4e235af0b5239ce5a2bda6a7dcc1
+append-entry	user	24	2017-11-29T15:07:48Z	sha-256:85bd759474add6410a43b4014f5452648a656b80f30d400d49e031877b6e673b
+append-entry	user	25	2017-11-29T15:07:48Z	sha-256:dc67ee114ef88444946febd118f02ac8b900fa97116245c6e492d2d03924b8e6
+append-entry	user	26	2017-11-29T15:07:48Z	sha-256:64737facde10b6112ac90eed579124dacebaba77a2c352c67ddfdcb1e7a2bb24
+append-entry	user	27	2017-11-29T15:07:48Z	sha-256:0678ff0c69501df0075c38fcd8637aa50e5a445703d16ed2aaa18b7379f6fe38
+append-entry	user	28	2017-11-29T15:07:48Z	sha-256:137643e804988051f25782eb4adbf709483ded6dc41572007cca222fe3bed0fb
+append-entry	user	29	2017-11-29T15:07:48Z	sha-256:904df5e0001010444b175e0394954373d9c916a83522c624293a3b6a9f8cdad5
+append-entry	user	30	2017-11-29T15:07:48Z	sha-256:e59cff00b262d0e550d03e72415cd760b2817db9a3245948b04b170ac05e983a
+append-entry	user	31	2017-11-29T15:07:48Z	sha-256:ca16284292ed67821fbd8695d78f811bf76536fdc2c08e63e6d39e455f175068
+append-entry	user	32	2017-11-29T15:07:48Z	sha-256:e73b40418093c56428c1f4e47f470f925c1f6bb74be860f61b1f34379e49594a
+append-entry	user	33	2017-11-29T15:07:48Z	sha-256:57cbb82214fbec96668b7aebe3c68db9cc370520a74f5a4c4e1ceb5e7f7b0fb2
+append-entry	user	34	2017-11-29T15:07:48Z	sha-256:cf7413cb5d1c8309fa718770610a27fec14447aeaced64e9b89d6dbee26fcb29
+append-entry	user	35	2017-11-29T15:07:48Z	sha-256:712396ebcf28eb47cf282e484a457170e7b7c28ff7d9f3ce5c9bbfa94defbb31
+append-entry	user	36	2017-11-29T15:07:48Z	sha-256:5766e6bed8ee11cb8f7e2da3805c12e52fd1ed43a8164e953fa532b51a2b40cf
+assert-root-hash	sha-256:127bd53d2477fb80fe726882cb2c3caf45b55c2083eba33a2c5a65686ad4e080

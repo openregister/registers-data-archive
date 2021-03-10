@@ -1,0 +1,49 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"name":"statistical-geography-local-government-district-nir"}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography-local-government-district-nir","phase":"beta","register":"statistical-geography-local-government-district-nir","text":"The statistical geography code for a local government district in Northern Ireland."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"register-name":"Statistical geography for local government districts in Northern Ireland register"}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-nir","phase":"beta","register":"local-authority-nir","text":"A local authority in Northern Ireland."}
+add-item	{"fields":["statistical-geography-local-government-district-nir","local-authority-nir","start-date","end-date"],"phase":"beta","register":"statistical-geography-local-government-district-nir","registry":"office-for-national-statistics","text":"Statistical geography data for local government districts in Northern Ireland"}
+add-item	{"register-name":"Statistical geography for local government districts in Northern Ireland"}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-nir","phase":"beta","register":"local-authority-nir","text":"The unique code for a local authority in Northern Ireland."}
+add-item	{"local-authority-nir":"MUL","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000009"}
+add-item	{"local-authority-nir":"AND","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000011"}
+add-item	{"local-authority-nir":"FMO","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000006"}
+add-item	{"local-authority-nir":"CCG","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000004"}
+add-item	{"local-authority-nir":"BFS","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000003"}
+add-item	{"local-authority-nir":"DIS","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000005"}
+add-item	{"local-authority-nir":"LBC","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000007"}
+add-item	{"local-authority-nir":"NMD","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000010"}
+add-item	{"local-authority-nir":"BGH","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000008"}
+add-item	{"local-authority-nir":"ANN","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000001"}
+add-item	{"local-authority-nir":"ABC","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000002"}
+add-item	{"local-authority-nir":"DRS","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000005"}
+add-item	{"local-authority-nir":"MEA","start-date":"2015-04-01","statistical-geography-local-government-district-nir":"N09000008"}
+append-entry	system	name	2018-01-19T12:47:57Z	sha-256:223b6ca9fbcc186ddbc3d679e1ab9e5d619ec1081bd579660052cf49818dd728
+append-entry	system	custodian	2018-01-19T12:47:57Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography-local-government-district-nir	2018-01-19T12:47:57Z	sha-256:6e0de58ce8cece15a02b888e4c96c3862533ae2c0928d4ece5c9c979d7a24b74
+append-entry	system	field:local-authority-nir	2018-01-19T12:47:57Z	sha-256:feb34c3ece0eb39a21bdfe0c42293758a9add62de82d086741c6da5f5aa13126
+append-entry	system	field:start-date	2018-01-19T12:47:57Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-01-19T12:47:57Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography-local-government-district-nir	2018-01-19T12:47:57Z	sha-256:caf836f0c8fbb507fb6c90517bb4662287fd90d1c9ab323492a38b1e1025c99f
+append-entry	system	field:local-authority-nir	2018-06-07T09:56:23Z	sha-256:10f24b01fc3269009e59d8ff1ad934698a08e7be39dbb0a228151492cdc49ce5
+append-entry	system	register:statistical-geography-local-government-district-nir	2018-09-05T12:10:07Z	sha-256:caf836f0c8fbb507fb6c90517bb4662287fd90d1c9ab323492a38b1e1025c99f
+append-entry	system	register-name	2018-09-05T17:22:57Z	sha-256:064191f1c495824d5397399030ec6e48113e9fcb31be1dc9392d9425191ff761
+append-entry	system	register-name	2018-09-10T10:33:17Z	sha-256:85e174077a6da950198ac4ec44975fc4fb4619e286fde3aa252d536f9b7d6a68
+append-entry	user	N09000011	2018-01-19T12:47:57Z	sha-256:912798c3ffdc542a631e53bb3d20e7ef55bae38a147e58d589ed96349c9f4a89
+append-entry	user	N09000010	2018-01-19T12:47:57Z	sha-256:f5b54ad42551cc202018819c730267bc38a00d5e0e8c0b4be390c156edbc49a9
+append-entry	user	N09000009	2018-01-19T12:47:57Z	sha-256:2d2848187178d693894890c74ea3392f0196e507be007ab5ce702c4a28538e84
+append-entry	user	N09000008	2018-01-19T12:47:57Z	sha-256:63581454b49f6d47bfd8443bf10cc23a10f58e47d385369a20e8d3883de8fe0d
+append-entry	user	N09000007	2018-01-19T12:47:57Z	sha-256:001a6b1035ac6f69567021e7c9a635ccc403589d62422be6a9bd1c20db875b47
+append-entry	user	N09000006	2018-01-19T12:47:57Z	sha-256:1c00838ea761b7c94dfedb5eaf71acf9ffb1ff3da028b87e2d33f27cd51cffa9
+append-entry	user	N09000005	2018-01-19T12:47:57Z	sha-256:56914b653f977787949b648fa1cbae1d47d3cdaf26eac96cfaf48655e9cef94a
+append-entry	user	N09000004	2018-01-19T12:47:57Z	sha-256:95e8d1e2931b32e22d620f4aaa4dc1f3d3b058ba1a66cc61853b375b43e7703b
+append-entry	user	N09000003	2018-01-19T12:47:57Z	sha-256:a8984dad07362aca38ad223ca095058b8e7ac55a1bc57f2d5d0a36bbfa4f2de3
+append-entry	user	N09000002	2018-01-19T12:47:57Z	sha-256:e7954eb77044fede77236b34c1b5c6637383f660207f805b136ec2c4474835aa
+append-entry	user	N09000001	2018-01-19T12:47:57Z	sha-256:c24f499dd45821262fdcf5ecc99bf609b613fcdbbf85d4131ab0ac415ba89d4d
+append-entry	user	N09000005	2018-04-09T13:15:46Z	sha-256:08cb157b5845d5e0f413094d996f88768c85cc7ba986f8230b45e3388e6f4ba4
+append-entry	user	N09000008	2018-04-09T13:16:37Z	sha-256:a3e185d5372abe0d55489f53b1575511ee27f9a9a07511e66e6e11765edc5508
+assert-root-hash	sha-256:372ba396700f8c0bdaf32cd40c2ad78f272370d4becc990d15207f99d8fde615

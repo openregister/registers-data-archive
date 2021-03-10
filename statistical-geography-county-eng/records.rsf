@@ -1,0 +1,91 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"name":"statistical-geography-county-eng"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-eng","phase":"beta","register":"local-authority-eng","text":"The local authority's ISO 3166-2:GB code. Unique codes have been created for local authorities that don't have an existing ISO code."}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography-county-eng","phase":"beta","register":"statistical-geography-county-eng","text":"The statistical geography code for a county in England."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"register-name":"Statistical geography for counties in England register"}
+add-item	{"register-name":"Statistical geography for counties in England"}
+add-item	{"fields":["statistical-geography-county-eng","local-authority-eng","name","start-date","end-date"],"phase":"beta","register":"statistical-geography-county-eng","registry":"office-for-national-statistics","text":"Statistical geography data for counties in England"}
+add-item	{"local-authority-eng":"KEN","start-date":"2009-01-01","statistical-geography-county-eng":"E10000016"}
+add-item	{"local-authority-eng":"NTH","start-date":"2009-01-01","statistical-geography-county-eng":"E10000021"}
+add-item	{"local-authority-eng":"SRY","start-date":"2009-01-01","statistical-geography-county-eng":"E10000030"}
+add-item	{"local-authority-eng":"NTT","start-date":"2009-01-01","statistical-geography-county-eng":"E10000024"}
+add-item	{"local-authority-eng":"WOR","start-date":"2009-01-01","statistical-geography-county-eng":"E10000034"}
+add-item	{"local-authority-eng":"DEV","start-date":"2009-01-01","statistical-geography-county-eng":"E10000008"}
+add-item	{"local-authority-eng":"NYK","start-date":"2009-01-01","statistical-geography-county-eng":"E10000023"}
+add-item	{"local-authority-eng":"CMA","start-date":"2009-01-01","statistical-geography-county-eng":"E10000006"}
+add-item	{"local-authority-eng":"SFK","start-date":"2009-01-01","statistical-geography-county-eng":"E10000029"}
+add-item	{"local-authority-eng":"HRT","start-date":"2009-01-01","statistical-geography-county-eng":"E10000015"}
+add-item	{"end-date":"2009-03-31","local-authority-eng":"SHR","start-date":"2009-01-01","statistical-geography-county-eng":"E10000026"}
+add-item	{"local-authority-eng":"LAN","start-date":"2009-01-01","statistical-geography-county-eng":"E10000017"}
+add-item	{"local-authority-eng":"HAM","start-date":"2009-01-01","statistical-geography-county-eng":"E10000014"}
+add-item	{"local-authority-eng":"NFK","start-date":"2009-01-01","statistical-geography-county-eng":"E10000020"}
+add-item	{"local-authority-eng":"DBY","start-date":"2009-01-01","statistical-geography-county-eng":"E10000007"}
+add-item	{"local-authority-eng":"DOR","start-date":"2009-01-01","statistical-geography-county-eng":"E10000009"}
+add-item	{"end-date":"2009-03-31","local-authority-eng":"NBL","start-date":"2009-01-01","statistical-geography-county-eng":"E10000022"}
+add-item	{"local-authority-eng":"LEC","start-date":"2009-01-01","statistical-geography-county-eng":"E10000018"}
+add-item	{"local-authority-eng":"ESX","start-date":"2009-01-01","statistical-geography-county-eng":"E10000011"}
+add-item	{"end-date":"2009-03-31","name":"Durham","start-date":"2009-01-01","statistical-geography-county-eng":"E10000010"}
+add-item	{"local-authority-eng":"LIN","start-date":"2009-01-01","statistical-geography-county-eng":"E10000019"}
+add-item	{"end-date":"2009-03-31","name":"Cheshire","start-date":"2009-01-01","statistical-geography-county-eng":"E10000004"}
+add-item	{"end-date":"2009-03-31","name":"Cornwall and Isles of Scilly","start-date":"2009-01-01","statistical-geography-county-eng":"E10000005"}
+add-item	{"local-authority-eng":"CAM","start-date":"2009-01-01","statistical-geography-county-eng":"E10000003"}
+add-item	{"local-authority-eng":"ESS","start-date":"2009-01-01","statistical-geography-county-eng":"E10000012"}
+add-item	{"local-authority-eng":"GLS","start-date":"2009-01-01","statistical-geography-county-eng":"E10000013"}
+add-item	{"local-authority-eng":"WSX","start-date":"2009-01-01","statistical-geography-county-eng":"E10000032"}
+add-item	{"end-date":"2009-03-31","name":"Bedfordshire","start-date":"2009-01-01","statistical-geography-county-eng":"E10000001"}
+add-item	{"local-authority-eng":"SOM","start-date":"2009-01-01","statistical-geography-county-eng":"E10000027"}
+add-item	{"local-authority-eng":"WAR","start-date":"2009-01-01","statistical-geography-county-eng":"E10000031"}
+add-item	{"end-date":"2009-03-31","local-authority-eng":"WIL","start-date":"2009-01-01","statistical-geography-county-eng":"E10000033"}
+add-item	{"local-authority-eng":"OXF","start-date":"2009-01-01","statistical-geography-county-eng":"E10000025"}
+add-item	{"local-authority-eng":"STS","start-date":"2009-01-01","statistical-geography-county-eng":"E10000028"}
+add-item	{"local-authority-eng":"BKM","start-date":"2009-01-01","statistical-geography-county-eng":"E10000002"}
+append-entry	system	name	2017-11-28T14:44:17Z	sha-256:2fb954401836c09d1b497f67bccb8615c1aab758b88df5b223b7b24b1b8c726a
+append-entry	system	custodian	2017-11-28T14:44:17Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography-county-eng	2017-11-28T14:44:17Z	sha-256:51ba8c8ec81257aae3b58ef3a0eec4d640f63519693e6a4f22f98a31c9cd84a6
+append-entry	system	field:local-authority-eng	2017-11-28T14:44:17Z	sha-256:9d30632d44a6007f2430f5dca9a5fa49b9878125d37c5bc9b7ecad435bdfd46b
+append-entry	system	field:name	2017-11-28T14:44:17Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2017-11-28T14:44:17Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-11-28T14:44:17Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography-county-eng	2017-11-28T14:44:17Z	sha-256:2c76791fe3eabd87b1757565cf8d1a27c19736e31fded9c00730e035bf5aea61
+append-entry	system	register:statistical-geography-county-eng	2018-09-05T12:09:09Z	sha-256:2c76791fe3eabd87b1757565cf8d1a27c19736e31fded9c00730e035bf5aea61
+append-entry	system	register-name	2018-09-05T17:21:45Z	sha-256:da25e6205a55cf1c21914eb3f04c570e09aced5b8aa113fe2d190bcc663866dd
+append-entry	system	register-name	2018-09-10T10:31:28Z	sha-256:1272f167c5918d6bdd5544fff323a6df28b3445afd5391c071ac468f7c41d780
+append-entry	user	E10000001	2017-11-28T14:44:17Z	sha-256:6245a22468efadcd5a72bca49abf43c35b592224bfd17b2c15157cc3b26ac59c
+append-entry	user	E10000002	2017-11-28T14:44:17Z	sha-256:6f622d4b878329d7c394c1b6a744d06b9e9d127a52925bf6dad49709c1b225f5
+append-entry	user	E10000003	2017-11-28T14:44:17Z	sha-256:3ef34fd1fd8b64054c13ec22bbbd8120c6ebb74721a0c210e49b43d45267acaa
+append-entry	user	E10000004	2017-11-28T14:44:17Z	sha-256:cb1f01fc14d5c4255a1e3c5b5fb873c9b1578fa759ae01415056360cf7f50f79
+append-entry	user	E10000005	2017-11-28T14:44:17Z	sha-256:34c4753d205184cc5bc5927b07e11437556dfb7a3d3efd4a22ccb97757a6f33f
+append-entry	user	E10000006	2017-11-28T14:44:17Z	sha-256:cf8f15e0741c921dd6848d83d0f4c3dec7823b09541c0fa15120cf262acc7c74
+append-entry	user	E10000007	2017-11-28T14:44:17Z	sha-256:7a5e2b0408290b54b98b752fb3c9811893cac66278d30ef8fed68828af19ccfa
+append-entry	user	E10000008	2017-11-28T14:44:17Z	sha-256:dad88ccd66905ec028881a8ba6b3d7e24c36711f42775716e2d86f000d48f83d
+append-entry	user	E10000009	2017-11-28T14:44:17Z	sha-256:3ea4c74d423c47709f48c4ad902aae091d9e1d83e9dfce85fc62291e0eedc9d4
+append-entry	user	E10000010	2017-11-28T14:44:17Z	sha-256:5d933b850ada2c4ce0f1b87e977220d051186f483ebb29ef7b6e46f3993c71b6
+append-entry	user	E10000011	2017-11-28T14:44:17Z	sha-256:c6780cf53c2d7225bdd1b26e1871b5ce47a7c4d4c875c2686507332572ef2f10
+append-entry	user	E10000012	2017-11-28T14:44:17Z	sha-256:0d00e6966d2ea4217eb67513513fd2887ba03170adb80c7e1e4d149bd48445e7
+append-entry	user	E10000013	2017-11-28T14:44:17Z	sha-256:35621f40439b145120b3ca0c39febe65ee4a19b7b15e28abd984a88ae11ecc3f
+append-entry	user	E10000014	2017-11-28T14:44:17Z	sha-256:f120781b02a34674385f18cc94ba81a3051550801ae331f26d3e27ff3b07be34
+append-entry	user	E10000015	2017-11-28T14:44:17Z	sha-256:c2c70a461166ffdf87a525178d816239e9ca3485d70dc59690a4ceab54d9ec72
+append-entry	user	E10000016	2017-11-28T14:44:17Z	sha-256:1321241d9f0d1c477942bf0bcaebcb38b75efe306b3180e4cf61149a609e5745
+append-entry	user	E10000017	2017-11-28T14:44:17Z	sha-256:f2c2ddeb3ab8ad1c064a1b5c3a87eab470cb6853fd9ba0512192f3567db1ddfa
+append-entry	user	E10000018	2017-11-28T14:44:17Z	sha-256:192b1b1972740093c4e60603d2758972a461dd6ef83282cf4194fe2d1587b5da
+append-entry	user	E10000019	2017-11-28T14:44:17Z	sha-256:a6ea7337d0aff18637f353f061dd032e5a33c9dff132c523081a21afc9cfb846
+append-entry	user	E10000020	2017-11-28T14:44:17Z	sha-256:f3884df7939cbd27969896b991c0fd06582fc55d293bd93b81bdbd828ccde299
+append-entry	user	E10000021	2017-11-28T14:44:17Z	sha-256:c6456c29334f92ae0121d815c73dc471599924651afa3c27b64a6e02694531b5
+append-entry	user	E10000022	2017-11-28T14:44:17Z	sha-256:cf4b893b84d9ab743c4e24ec64a7a212d1cf50b8454ccf17e0fd1f92107a42e6
+append-entry	user	E10000023	2017-11-28T14:44:17Z	sha-256:1529a1a08467c64be8efb454a00dec3286d58b548643bffe1e44e68e5fcde32c
+append-entry	user	E10000024	2017-11-28T14:44:17Z	sha-256:7513ae300cdd3890d95d6202d6c74a7aaba080f8b5b35747dd7919857be8d62d
+append-entry	user	E10000025	2017-11-28T14:44:17Z	sha-256:4157ef978f7c4ea2141bab78597c84bc81d3d1dd25bdf923d4113e708a37732a
+append-entry	user	E10000026	2017-11-28T14:44:17Z	sha-256:8e50d71415fd5aeb049c417a62dad7f876eda9dbb581dcec92f3e3b0a34fdacc
+append-entry	user	E10000027	2017-11-28T14:44:17Z	sha-256:6caff10d0a13277a85c7746d10f36005c842e1b8dc3a7d619de80b111449f7a5
+append-entry	user	E10000028	2017-11-28T14:44:17Z	sha-256:c86482a5a23dd73ceb42107896d561b801d64908eb2299541a3f23d066fd2a42
+append-entry	user	E10000029	2017-11-28T14:44:17Z	sha-256:58d760f3969ff736432a77e024f7a32a297472537454e662a358991400bfd621
+append-entry	user	E10000030	2017-11-28T14:44:17Z	sha-256:f2d328b05f15ded9cee67888c291d409c1b62123f15f02bdc8a80424b52d67ab
+append-entry	user	E10000031	2017-11-28T14:44:17Z	sha-256:4f64f90be8977d5eba1f86f48f7f7e722cee805f972ef3fa67fc47367e852411
+append-entry	user	E10000032	2017-11-28T14:44:17Z	sha-256:2e8133488f4e63eea6cd0e1c17e95252fd8dffe9c7000d2aed4e618fc31c529c
+append-entry	user	E10000033	2017-11-28T14:44:17Z	sha-256:9d8ffd4cd1d229bd0886e1d1fb5857b4877de65d1da7e4bf0c15bf8a216a01a6
+append-entry	user	E10000034	2017-11-28T14:44:17Z	sha-256:5d83c985be52df28acc4f796e8fc482ef4362476eb6227fb9003935ec3a2fbc0
+assert-root-hash	sha-256:0a9165a9d01968065f25216dedf29ce28a962a76dacbcb7edec7e29c66a24281

@@ -1,0 +1,96 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"name":"statistical-geography-metropolitan-district-eng"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-eng","phase":"beta","register":"local-authority-eng","text":"The local authority's ISO 3166-2:GB code. Unique codes have been created for local authorities that don't have an existing ISO code."}
+add-item	{"fields":["statistical-geography-metropolitan-district-eng","local-authority-eng","start-date","end-date"],"phase":"beta","register":"statistical-geography-metropolitan-district-eng","registry":"office-for-national-statistics","text":"Statistical geography data for metropolitan councils in England"}
+add-item	{"fields":["statistical-geography-metropolitan-district-eng","local-authority-eng","start-date","end-date"],"phase":"beta","register":"statistical-geography-metropolitan-district-eng","registry":"office-for-national-statistics","text":"Statistical geography data for metropolitan districts in England"}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography-metropolitan-district-eng","phase":"alpha","register":"statistical-geography-metropolitan-district-eng","text":"The statistical geography code for a metropolitan district in England."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"register-name":"Statistical geography for metropolitan districts in England register"}
+add-item	{"register-name":"Statistical geography for metropolitan districts in England"}
+add-item	{"local-authority-eng":"OLD","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000004"}
+add-item	{"local-authority-eng":"CLD","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000033"}
+add-item	{"local-authority-eng":"SFT","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000014"}
+add-item	{"local-authority-eng":"KWL","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000011"}
+add-item	{"local-authority-eng":"BNS","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000016"}
+add-item	{"local-authority-eng":"SLF","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000006"}
+add-item	{"local-authority-eng":"SHN","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000013"}
+add-item	{"local-authority-eng":"BRD","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000032"}
+add-item	{"local-authority-eng":"GAT","start-date":"2013-04-01","statistical-geography-metropolitan-district-eng":"E08000037"}
+add-item	{"local-authority-eng":"TRF","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000009"}
+add-item	{"local-authority-eng":"KIR","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000034"}
+add-item	{"local-authority-eng":"BUR","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000002"}
+add-item	{"local-authority-eng":"NET","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000021"}
+add-item	{"local-authority-eng":"LIV","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000012"}
+add-item	{"local-authority-eng":"MAN","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000003"}
+add-item	{"local-authority-eng":"SND","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000024"}
+add-item	{"local-authority-eng":"SKP","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000007"}
+add-item	{"local-authority-eng":"DUD","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000027"}
+add-item	{"local-authority-eng":"LDS","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000035"}
+add-item	{"local-authority-eng":"DNC","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000017"}
+add-item	{"local-authority-eng":"BIR","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000025"}
+add-item	{"end-date":"2013-03-31","local-authority-eng":"GAT","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000020"}
+add-item	{"local-authority-eng":"WGN","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000010"}
+add-item	{"local-authority-eng":"TAM","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000008"}
+add-item	{"local-authority-eng":"SAW","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000028"}
+add-item	{"local-authority-eng":"WLV","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000031"}
+add-item	{"local-authority-eng":"NTY","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000022"}
+add-item	{"local-authority-eng":"BOL","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000001"}
+add-item	{"local-authority-eng":"WLL","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000030"}
+add-item	{"local-authority-eng":"ROT","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000018"}
+add-item	{"local-authority-eng":"RCH","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000005"}
+add-item	{"local-authority-eng":"SHF","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000019"}
+add-item	{"local-authority-eng":"COV","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000026"}
+add-item	{"local-authority-eng":"WRL","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000015"}
+add-item	{"local-authority-eng":"WKF","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000036"}
+add-item	{"local-authority-eng":"STY","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000023"}
+add-item	{"local-authority-eng":"SOL","start-date":"2009-01-01","statistical-geography-metropolitan-district-eng":"E08000029"}
+append-entry	system	name	2017-11-29T13:23:25Z	sha-256:e674f74a0dd116504e2d8d8bf751ceb01a4d16edb1174b3ad16f5cf02243aaa5
+append-entry	system	custodian	2017-11-29T13:23:25Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography-metropolitan-district-eng	2017-11-29T13:23:25Z	sha-256:f87c33a2b2d86085e8d2beb61227f3b2b460a3973745455406d880ce5099820d
+append-entry	system	field:local-authority-eng	2017-11-29T13:23:25Z	sha-256:9d30632d44a6007f2430f5dca9a5fa49b9878125d37c5bc9b7ecad435bdfd46b
+append-entry	system	field:start-date	2017-11-29T13:23:25Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-11-29T13:23:25Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography-metropolitan-district-eng	2017-11-29T13:23:25Z	sha-256:81d2e2acb2a232d31ee34d70a13728beab860d22797d8dae7fadfcffc8e1293e
+append-entry	system	register:statistical-geography-metropolitan-district-eng	2018-09-05T12:13:25Z	sha-256:45cc7ffea5a226e62ccdb691d9a57d37984fc2dffc5816a696a48e7a3373a881
+append-entry	system	register-name	2018-09-05T17:23:55Z	sha-256:6f8a95b5196e414fdbfe42a6dc7ae465ef1949aa094140cc6b77ed6981f742e0
+append-entry	system	register-name	2018-09-10T10:49:07Z	sha-256:7fa142e782fd583b3636f4942b98f456ba18f1c3ff3407304a5590e33a66d232
+append-entry	user	E08000025	2017-11-29T13:23:25Z	sha-256:20678db4daef8db3bb9fa55c40049f786fb59a2a2bcb74566bbf1a06cc5171e7
+append-entry	user	E08000015	2017-11-29T13:23:25Z	sha-256:c7fad279db253944f61a4d1fc80a2b95f2fa26534cf23a409feae0c83d9bfa01
+append-entry	user	E08000031	2017-11-29T13:23:25Z	sha-256:18c1b7c1f089e6f567686679eb4febed4ecf5390def2099d590c168fe716be74
+append-entry	user	E08000030	2017-11-29T13:23:25Z	sha-256:ff55712b297d2492d3ac69313325d4b21f6e42927d76ccebbf84af98ca8fa0f4
+append-entry	user	E08000036	2017-11-29T13:23:25Z	sha-256:e7255867a14af2df62f08af4be7897bfcb094bea9753c4efd29e7a3d364218fe
+append-entry	user	E08000010	2017-11-29T13:23:25Z	sha-256:f5b8fa1b6a2204e2ec34774f38f0c389d147de0eb56ffa4f155b9d18b43c4e70
+append-entry	user	E08000009	2017-11-29T13:23:25Z	sha-256:3334b6720848d1ce43652a862864f42d648fad6346f10fa9148e27fe17f0b71f
+append-entry	user	E08000008	2017-11-29T13:23:25Z	sha-256:d340412b022b503fcc4c8445f1a972c042fbcfe738816dfc68445c16055c600c
+append-entry	user	E08000023	2017-11-29T13:23:25Z	sha-256:735982da78876ed7c02dc97953aa6080641da58c3882ab0dbfe1ed6c6cb88f34
+append-entry	user	E08000029	2017-11-29T13:23:25Z	sha-256:e13166be3a4f9a9d01cae8fddddfb803ecfe24f65eb5db8a0604cc0e45c26caa
+append-entry	user	E08000024	2017-11-29T13:23:25Z	sha-256:e7f21f661f9fe715a051255534189b14a24ff726dc8dc1649e52fe38fba0c9d2
+append-entry	user	E08000006	2017-11-29T13:23:25Z	sha-256:ee65d12b66dcafcb1baa8afe5d6a7a615da8fe59fb7abe810fa809a575c5f2bd
+append-entry	user	E08000007	2017-11-29T13:23:25Z	sha-256:a7872afc334d70f0649b8cbb35416ce455a973137d41e2e470a33b8f27e0e65b
+append-entry	user	E08000013	2017-11-29T13:23:25Z	sha-256:96eaea4daa4102c56afc8208296d17220044cfa03ca350e9a8ef9846182e7a4c
+append-entry	user	E08000019	2017-11-29T13:23:25Z	sha-256:6d5918b6640592d1b5a83ca1e367b36e8620ebbed9e307a37742c73f07099d75
+append-entry	user	E08000014	2017-11-29T13:23:25Z	sha-256:3ae949a6002921180af4ec2f11c9eeb37a8b6011b3d243f75b4bfbf3f64e702a
+append-entry	user	E08000028	2017-11-29T13:23:25Z	sha-256:13ef90ee9113fcb851e1137d724cf033405d25854bc86b079610da5269be48f4
+append-entry	user	E08000018	2017-11-29T13:23:25Z	sha-256:fb016a8ce13c4aaf589057bf6629a60a076711a4cd1f19ab1229094cce6c27e8
+append-entry	user	E08000005	2017-11-29T13:23:25Z	sha-256:b160eb5f1f00db051f67a719b2630c2cc6cc2a12e34e0e1443b442b3470d1e3c
+append-entry	user	E08000004	2017-11-29T13:23:25Z	sha-256:10a8b6e22d3c291615c02b74ed4f474def94c3a8bbbd57a543e955db8d21a033
+append-entry	user	E08000022	2017-11-29T13:23:25Z	sha-256:27de670775bc7c12295f1acab7e54bdc8722ac750443ae4e88edfab38d6e8f2a
+append-entry	user	E08000021	2017-11-29T13:23:25Z	sha-256:92df1f23ac521c3620e60f7d28cf26590b7bd0e41df509514a3316f0ab062772
+append-entry	user	E08000003	2017-11-29T13:23:25Z	sha-256:944eb7d0590b4eebcfaabab3dcfd853682e8a08210d0bd4c9e69b6185acc156d
+append-entry	user	E08000012	2017-11-29T13:23:25Z	sha-256:9ad9ba2603c32c40915d342809893625bd1dddec837986ff936cc03066f6b6b5
+append-entry	user	E08000035	2017-11-29T13:23:25Z	sha-256:fc7f16a890db18b5ce18ae34da5ec40a167896506520600a898314c1a2b78510
+append-entry	user	E08000011	2017-11-29T13:23:25Z	sha-256:2dbfe208443e713df5f41c9855572a1160e25fe92766698380346859c714bc69
+append-entry	user	E08000034	2017-11-29T13:23:25Z	sha-256:261be473521ca4e798855d2a63f6fdf7d24e9f576e8d189dcee3ca0b33e4433a
+append-entry	user	E08000020	2017-11-29T13:23:25Z	sha-256:932cd0742e6eca54ac282d157f80cce1ecd9ecff930a1218aed40f6846469b87
+append-entry	user	E08000037	2017-11-29T13:23:25Z	sha-256:07e0fbcd1fa98cd7f88c7d80c62987fe9aab2ebb36c238dd81a0623cdb321d7b
+append-entry	user	E08000027	2017-11-29T13:23:25Z	sha-256:06197c7bf3021a66b4189d098ced1fc728d5ae296ec0aa88777c03cd96c3ae53
+append-entry	user	E08000017	2017-11-29T13:23:25Z	sha-256:677ed61c39908ed57a74941edcbfe7b1c931dc6b40475be1853b455563e1748e
+append-entry	user	E08000026	2017-11-29T13:23:25Z	sha-256:e81d605e2961cbf1fd6fc7662a644e99959aecd6dce7145c6d5865a62108843b
+append-entry	user	E08000033	2017-11-29T13:23:25Z	sha-256:d83bf0aac2d3c75fdd17363470e14c0e4100051ed40c749ae3d37daff9129ef7
+append-entry	user	E08000002	2017-11-29T13:23:25Z	sha-256:60ee7e9731f7342c5061f6f3b78c79a0590681f09346fc430894cbfff0a3ef0b
+append-entry	user	E08000032	2017-11-29T13:23:25Z	sha-256:e781e576cd6567bae1493ba5edb9b93511d386b41a646556d812cc7cab7da951
+append-entry	user	E08000001	2017-11-29T13:23:25Z	sha-256:cc927c7045c3d99fa0f969908b2be26825f05c6c330ad0871a468b83f9ec5325
+append-entry	user	E08000016	2017-11-29T13:23:25Z	sha-256:544ece7eb1a290f4bc830f3f6bf81dbaa02e893172725c096f3d1a662ea12977
+assert-root-hash	sha-256:c1ab133ab70a9977b70c2850a1072c4070150b176a80cdde9b1aaf32f77f08f7

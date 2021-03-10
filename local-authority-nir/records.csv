@@ -1,0 +1,37 @@
+index-entry-number,entry-number,entry-timestamp,key,local-authority-nir,local-authority-type,name,website,start-date,end-date
+36,36,2017-11-17T16:28:21Z,ABC,ABC,BGH,"Armagh City, Banbridge and Craigavon Borough Council","https://www.armaghbanbridgecraigavon.gov.uk/",2015-04-01,
+35,35,2017-11-17T16:28:21Z,AND,AND,BGH,"Ards and North Down Borough Council","http://www.ardsandnorthdown.gov.uk/",2015-04-01,
+34,34,2017-11-17T16:28:21Z,ANN,ANN,BGH,"Antrim & Newtownabbey Borough Council","http://www.antrimandnewtownabbey.gov.uk/",2015-04-01,
+33,33,2017-11-17T16:28:21Z,BFS,BFS,CIT,"Belfast City Council","http://www.belfastcity.gov.uk/",,
+32,32,2017-11-17T16:28:21Z,CCG,CCG,BGH,"Causeway Coast and Glens Borough Council","https://www.causewaycoastandglens.gov.uk/",2015-04-01,
+31,31,2017-11-17T16:28:21Z,DRS,DRS,DIS,"Derry City and Strabane District Council","http://www.derrystrabane.com/",2015-04-01,
+30,30,2017-11-17T16:28:21Z,FMO,FMO,DIS,"Fermanagh and Omagh District Council","http://www.fermanaghomagh.com/",2015-04-01,
+29,29,2017-11-17T16:28:21Z,LBC,LBC,CIT,"Lisburn & Castlereagh City Council","https://www.lisburncastlereagh.gov.uk/",2015-04-01,
+28,28,2017-11-17T16:28:21Z,MEA,MEA,BGH,"Mid & East Antrim Borough Council","http://www.midandeastantrim.gov.uk/",2015-04-01,
+27,27,2017-11-17T16:28:21Z,MUL,MUL,DIS,"Mid Ulster District Council","http://www.midulstercouncil.org/",2015-04-01,
+26,26,2017-11-17T16:28:21Z,NMD,NMD,DIS,"Newry, Mourne and Down District Council","http://www.newrymournedown.org/",2015-04-01,
+25,25,2017-11-17T16:28:21Z,DRY,DRY,,"Derry City Council",,,2015-03-31
+24,24,2017-11-17T16:28:21Z,LMV,LMV,,"Limavady Borough Council",,,2015-03-31
+23,23,2017-11-17T16:28:21Z,CLR,CLR,,"Coleraine Borough Council",,,2015-03-31
+22,22,2017-11-17T16:28:21Z,BLY,BLY,,"Ballymoney Borough Council",,,2015-03-31
+21,21,2017-11-17T16:28:21Z,MYL,MYL,,"Moyle District Council",,,2015-03-31
+20,20,2017-11-17T16:28:21Z,LRN,LRN,,"Larne Borough Council",,,2015-03-31
+19,19,2017-11-17T16:28:21Z,BLA,BLA,,"Ballymena Borough Council",,,2015-03-31
+18,18,2017-11-17T16:28:21Z,MFT,MFT,,"Magherafelt District Council",,,2015-03-31
+17,17,2017-11-17T16:28:21Z,CKT,CKT,,"Cookstown District Council",,,2015-03-31
+16,16,2017-11-17T16:28:21Z,STB,STB,,"Strabane District Council",,,2015-03-31
+15,15,2017-11-17T16:28:21Z,OMH,OMH,,"Omagh District Council",,,2015-03-31
+14,14,2017-11-17T16:28:21Z,FER,FER,,"Fermanagh District Council",,,2015-03-31
+13,13,2017-11-17T16:28:21Z,DGN,DGN,,"Dungannon and South Tyrone Borough Council",,,2015-03-31
+12,12,2017-11-17T16:28:21Z,CGV,CGV,,"Craigavon Borough Council",,,2015-03-31
+11,11,2017-11-17T16:28:21Z,ARM,ARM,,"Armagh City and District Council",,,2015-03-31
+10,10,2017-11-17T16:28:21Z,NYM,NYM,,"Newry and Mourne District Council",,,2015-03-31
+9,9,2017-11-17T16:28:21Z,BNB,BNB,,"Banbridge District Council",,,2015-03-31
+8,8,2017-11-17T16:28:21Z,DOW,DOW,,"Down District Council",,,2015-03-31
+7,7,2017-11-17T16:28:21Z,LSB,LSB,,"Lisburn City Council",,,2015-03-31
+6,6,2017-11-17T16:28:21Z,ANT,ANT,,"Antrim Borough Council",,,2015-03-31
+5,5,2017-11-17T16:28:21Z,NTA,NTA,,"Newtownabbey Borough Council",,,2015-03-31
+4,4,2017-11-17T16:28:21Z,CKF,CKF,,"Carrickfergus Borough Council",,,2015-03-31
+3,3,2017-11-17T16:28:21Z,NDN,NDN,,"North Down Borough Council",,,2015-03-31
+2,2,2017-11-17T16:28:21Z,ARD,ARD,,"Ards Borough Council",,,2015-03-31
+1,1,2017-11-17T16:28:21Z,CSR,CSR,,"Castlereagh Borough Council",,,2015-03-31

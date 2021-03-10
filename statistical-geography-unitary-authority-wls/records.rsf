@@ -1,0 +1,74 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"register-name":"Statistical geography for unitary authorities in Wales register"}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography-unitary-authority-wls","phase":"beta","register":"statistical-geography-unitary-authority-wls","text":"The statistical geography code for a principal local authority."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"cardinality":"1","datatype":"string","field":"principal-local-authority","phase":"beta","register":"principal-local-authority","text":"A principal local authority in Wales."}
+add-item	{"register-name":"Statistical geography for unitary authorities in Wales"}
+add-item	{"name":"statistical-geography-unitary-authority-wls"}
+add-item	{"fields":["statistical-geography-unitary-authority-wls","principal-local-authority","start-date","end-date"],"phase":"beta","register":"statistical-geography-unitary-authority-wls","registry":"office-for-national-statistics","text":"Statistical geography data for principal local authorities in Wales"}
+add-item	{"fields":["statistical-geography-unitary-authority-wls","principal-local-authority","start-date","end-date"],"phase":"beta","register":"statistical-geography-unitary-authority-wls","registry":"office-for-national-statistics","text":"Statistical geography data for unitary authorities in Wales"}
+add-item	{"principal-local-authority":"MON","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000021"}
+add-item	{"principal-local-authority":"TOF","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000020"}
+add-item	{"principal-local-authority":"WRX","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000006"}
+add-item	{"principal-local-authority":"AGY","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000001"}
+add-item	{"principal-local-authority":"NTL","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000012"}
+add-item	{"principal-local-authority":"RCT","start-date":"2010-01-01","statistical-geography-unitary-authority-wls":"W06000016"}
+add-item	{"principal-local-authority":"SWA","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000011"}
+add-item	{"principal-local-authority":"BGE","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000013"}
+add-item	{"principal-local-authority":"NWP","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000022"}
+add-item	{"principal-local-authority":"CGN","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000008"}
+add-item	{"principal-local-authority":"GWN","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000002"}
+add-item	{"principal-local-authority":"VGL","start-date":"2013-01-01","statistical-geography-unitary-authority-wls":"W06000014"}
+add-item	{"principal-local-authority":"CAY","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000018"}
+add-item	{"principal-local-authority":"BGW","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000019"}
+add-item	{"end-date":"2009-05-31","principal-local-authority":"POW","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000007"}
+add-item	{"end-date":"2009-05-31","principal-local-authority":"MTY","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000017"}
+add-item	{"principal-local-authority":"DEN","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000004"}
+add-item	{"principal-local-authority":"FLN","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000005"}
+add-item	{"principal-local-authority":"CWY","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000003"}
+add-item	{"principal-local-authority":"CMN","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000010"}
+add-item	{"principal-local-authority":"MTY","start-date":"2009-06-01","statistical-geography-unitary-authority-wls":"W06000024"}
+add-item	{"principal-local-authority":"POW","start-date":"2009-06-01","statistical-geography-unitary-authority-wls":"W06000023"}
+add-item	{"end-date":"2009-12-31","principal-local-authority":"RCT","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000016"}
+add-item	{"end-date":"2012-12-31","principal-local-authority":"VGL","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000014"}
+add-item	{"principal-local-authority":"PEM","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000009"}
+add-item	{"principal-local-authority":"CRF","start-date":"2009-01-01","statistical-geography-unitary-authority-wls":"W06000015"}
+append-entry	system	name	2017-08-04T14:52:40Z	sha-256:27f7df250fe927d81c0ef33ed9d72082f6cd51dc29ebf10df2fccc8c5e37fc88
+append-entry	system	custodian	2017-08-04T14:52:40Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography-unitary-authority-wls	2017-08-04T14:52:40Z	sha-256:e29a2c5b757ae0cd2686607292fc566facbec1e91f46414ee5904d24142ca88a
+append-entry	system	field:principal-local-authority	2017-08-04T14:52:40Z	sha-256:87c2a4b9f58aed0b51287ecf3435d5f10820385f3584ed983b3c6c4a0fe5ce25
+append-entry	system	field:start-date	2017-08-04T14:52:40Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-08-04T14:52:40Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography-unitary-authority-wls	2017-08-04T14:52:40Z	sha-256:6cb56fcbe3f2feaa32de5d1ced8bada929537084e50933404bba8a590ddb2fab
+append-entry	system	register:statistical-geography-unitary-authority-wls	2018-09-05T12:53:59Z	sha-256:98900b3564a50ed23f0b6e9b9385853fc14d20b758bd190517dd12a222321a48
+append-entry	system	register-name	2018-09-05T12:53:59Z	sha-256:8715f6ac42e88e1ec325214d2b2155a2153ae08777dda9e6d6387a65743619df
+append-entry	system	register-name	2018-09-10T10:53:37Z	sha-256:196d3c7397cfb613b1066d5073f36b16d3f35a03d0ea1897502c93c75f91093c
+append-entry	user	W06000001	2017-08-04T14:52:40Z	sha-256:072fb17550021848345f4f2fa72e725aa56ccb9d21737259e866ec67003f3a60
+append-entry	user	W06000002	2017-08-04T14:52:40Z	sha-256:f887fa1b81fc4d308da988378aad3e6a0c41caf8abb03b637790eef1746cf987
+append-entry	user	W06000003	2017-08-04T14:52:40Z	sha-256:b73cc4a86ed9b15e8f9d2452599ec7a4f85c381eec07323fc93c62b935247592
+append-entry	user	W06000004	2017-08-04T14:52:40Z	sha-256:8a36708cfa0891d7e4fbcd84a8e0af920b2002a73a231f92d2c0c600b93d4694
+append-entry	user	W06000005	2017-08-04T14:52:40Z	sha-256:dab18016e4b31015fc1693b574d7f30828d90b75ec2bbbb94c2ed9ebddfb089a
+append-entry	user	W06000006	2017-08-04T14:52:40Z	sha-256:20aae61929f879c187339e98874f5bbde54f54ba5df8c06d55ebd0868ec8ffa7
+append-entry	user	W06000007	2017-08-04T14:52:40Z	sha-256:fdd83cc927e26e3eb6fddbe450dfcd78524cc3c15c531e833c3673ed16bebad8
+append-entry	user	W06000008	2017-08-04T14:52:40Z	sha-256:649d051b20b7d257e1d9978aa705494f94a959b0279d5a41936da41e507e36bb
+append-entry	user	W06000009	2017-08-04T14:52:40Z	sha-256:68b136d039bdaba73b019872177ccea66b15587c54b9f548af39ebc915407a38
+append-entry	user	W06000010	2017-08-04T14:52:40Z	sha-256:178d71a61d7fc5d0edff9f09635b3e8abedfc81416258403558692b53da1ece8
+append-entry	user	W06000011	2017-08-04T14:52:40Z	sha-256:392f0a36771e881080b8e605402ea7537762bc7f9fc7b82d6395970a4b2ad0c2
+append-entry	user	W06000012	2017-08-04T14:52:40Z	sha-256:e772b5ce91f72958fd924ca7bb35930148d91dbcc7270e132fb1dd5d44d6e5bb
+append-entry	user	W06000013	2017-08-04T14:52:40Z	sha-256:a612107e1433c9ba83fddeea41c3697176588a61ec68a5be5d0cc9237087df59
+append-entry	user	W06000014	2017-08-04T14:52:40Z	sha-256:d727507b1fa9f2829b2f64f18fb1b9359168a07a587e21b814498381619c5ae9
+append-entry	user	W06000014	2017-08-04T14:52:40Z	sha-256:22b2b00920c141543729cfa9b72e9378e125edea0255001bb2ce2b69336f7490
+append-entry	user	W06000015	2017-08-04T14:52:40Z	sha-256:74f3d1a63c71c8a715a643eb9097a0159be9b38fa1117221136453e8af205446
+append-entry	user	W06000016	2017-08-04T14:52:40Z	sha-256:62a7c605aab6b89a12c49cf21a34be1c2efe7a98c4db4e46bfa1b75fcfb54d7c
+append-entry	user	W06000016	2017-08-04T14:52:40Z	sha-256:7ef2d2d106486cf35e02d23cce5a4f76240db0391df15ae7b4a563b035fa8d87
+append-entry	user	W06000017	2017-08-04T14:52:40Z	sha-256:72dc49aafdbb738fc74bfa0298f3e839c52861a4c0848f8fb46994708a4dfedc
+append-entry	user	W06000018	2017-08-04T14:52:40Z	sha-256:f584960d04940e7563eeb0fabe56564612401dae88525cf37df4f018fbd2b323
+append-entry	user	W06000019	2017-08-04T14:52:40Z	sha-256:02a2d33338330a1f94a9457a9b9529696ebde35192fd20dfc5f5acc8dacf8480
+append-entry	user	W06000020	2017-08-04T14:52:40Z	sha-256:69d584c881dbce1464d67a7c1c6e0f69ca95626d2d1bec0e8579a7a9ea6b883c
+append-entry	user	W06000021	2017-08-04T14:52:40Z	sha-256:058d0d8c3e98fc6e894ec5915865cf1f818427ee43aa23f3cd77948d11e36b26
+append-entry	user	W06000022	2017-08-04T14:52:40Z	sha-256:f017ee80ed9de26cab4f8fb074acf7d58d1be24f924e9805f863c8fdd9663fbc
+append-entry	user	W06000023	2017-08-04T14:52:40Z	sha-256:7a44c1c731ce40781a2588e32e0bc997f083e24813070401338c5998a2900693
+append-entry	user	W06000024	2017-08-04T14:52:40Z	sha-256:be15b12dfc5627635513d25fbac5daecda8def4ea89ca915d610f41ab0125996
+assert-root-hash	sha-256:f8734817a158ba06889da870719e75426dd5d9835f53fc3f276b2fa0ed43f22a

@@ -1,0 +1,30 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"register-name":"Digital Data and Technology Profession Capability Framework level"}
+add-item	{"custodian":"Pat McGuire"}
+add-item	{"name":"ddat-profession-capability-framework-level"}
+add-item	{"register-name":"Digital, Data and Technology Profession Capability Framework level"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"ddat-profession-capability-framework-level","phase":"beta","register":"ddat-profession-capability-framework-level","text":"The unique code for a level of competency for each Digital, Data and Technology Profession Capability Framework skill."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"fields":["ddat-profession-capability-framework-level","name","start-date","end-date"],"phase":"beta","register":"ddat-profession-capability-framework-level","registry":"government-digital-service","text":"Levels of competency for each Digital, Data and Technology Profession Capability Framework skill"}
+add-item	{"ddat-profession-capability-framework-level":"102","name":"Expert"}
+add-item	{"ddat-profession-capability-framework-level":"105","name":"N/A"}
+add-item	{"ddat-profession-capability-framework-level":"101","name":"Practitioner"}
+add-item	{"ddat-profession-capability-framework-level":"103","name":"Working"}
+add-item	{"ddat-profession-capability-framework-level":"104","name":"Awareness"}
+append-entry	system	name	2018-07-02T17:07:55Z	sha-256:3258ced3059771009f5e5e74cbf62d3fc0660498360c0b8330a350e2d94d95dd
+append-entry	system	custodian	2018-07-02T17:07:55Z	sha-256:29b6db52f6bdd8c3af7286584fc4c5e03f483ed17e46a4876bad75b013e8c8a3
+append-entry	system	field:ddat-profession-capability-framework-level	2018-07-02T17:07:55Z	sha-256:2b7cfc4ed5d1a4e811a31ab55dd37e9b75564abaef7c082d7bedf2791ce90aec
+append-entry	system	field:name	2018-07-02T17:07:55Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-07-02T17:07:55Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-07-02T17:07:55Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:ddat-profession-capability-framework-level	2018-07-02T17:07:55Z	sha-256:47231273e6650ecd73f5210c21969950a59f2f84465c10aef12151f58090b363
+append-entry	system	register-name	2018-07-02T18:08:32Z	sha-256:8a3d1836dad65272c14e5660e9d7acfe12e87b27b8ff4cf3f6a7c7cc4484989a
+append-entry	system	register-name	2018-07-03T13:25:23Z	sha-256:00c4a680dc1a6df3735fcca79a92111319a3c109644eb825e53120193a9e20ff
+append-entry	user	101	2018-07-02T17:07:55Z	sha-256:f11ece90e9f8847da476f46442c5da8b548293723930bac221e61ddbe912fe62
+append-entry	user	102	2018-07-02T17:07:55Z	sha-256:bc662afd6b173e4be57231da24ea845d8f0d48f7e523c7bc62414b02644c6c3f
+append-entry	user	103	2018-07-02T17:07:55Z	sha-256:f46bcee2f9448e5127bc854124e51c82d78c6b8f17991c47222a4b125ffd1fcb
+append-entry	user	104	2018-07-02T17:07:55Z	sha-256:9911558f4e45e94d7f67ce155798d41c069bfd3a031e1c650ee8dbec59865113
+append-entry	user	105	2018-07-02T17:07:55Z	sha-256:440e480d4bf603bcef7214498a8d5ad37cfccc215f6b2666d1f6d903218a401b
+assert-root-hash	sha-256:c7562e50c177009f8e58a829d2a49d97051095382848e5c03732263dd5cfe036

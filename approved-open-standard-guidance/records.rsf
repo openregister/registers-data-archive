@@ -1,0 +1,54 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"register-name":"Approved open standard guidance"}
+add-item	{"cardinality":"1","datatype":"url","field":"website","phase":"beta","text":"The website for a record."}
+add-item	{"cardinality":"n","datatype":"curie","field":"approved-open-standards","phase":"beta","register":"approved-open-standard","text":"Open standards that has been approved by government technology."}
+add-item	{"register-name":"Approved open standard guidance register"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"fields":["approved-open-standard-guidance","name","approved-open-standards","website","start-date","end-date"],"phase":"beta","register":"approved-open-standard-guidance","registry":"government-digital-service","text":"Guidance defining open standards approved for government technology"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"name":"approved-open-standard-guidance"}
+add-item	{"custodian":"Terence Eden"}
+add-item	{"fields":["approved-open-standard-guidance","name","approved-open-standards","website","start-date","end-date"],"phase":"beta","register":"approved-open-standard-guidance","registry":"government-digital-service","text":"Guidance defining open standards approved for use in government technology"}
+add-item	{"cardinality":"1","datatype":"string","field":"approved-open-standard-guidance","phase":"beta","register":"approved-open-standard-guidance","text":"Guidance related to an open standard that has been approved for use in government technology."}
+add-item	{"approved-open-standard-guidance":"114","approved-open-standards":["approved-open-standard:1019"],"name":"Exchange of calendar events","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-calendar-events"}
+add-item	{"approved-open-standard-guidance":"102","approved-open-standards":["approved-open-standard:1002"],"name":"Open contracting data","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/open-contracting-data-standard-profile"}
+add-item	{"approved-open-standard-guidance":"103","approved-open-standards":["approved-open-standard:1003"],"name":"International development data","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/open-standard-for-international-development-data"}
+add-item	{"approved-open-standard-guidance":"109","approved-open-standards":["approved-open-standard:1010","approved-open-standard:1011"],"name":"Cross platform character encoding profile","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/cross-platform-character-encoding-profile"}
+add-item	{"approved-open-standard-guidance":"105","approved-open-standards":["approved-open-standard:1005"],"name":"Multi agency incident transfer","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/multi-agency-incident-transfer"}
+add-item	{"approved-open-standard-guidance":"111","approved-open-standards":["approved-open-standard:1014"],"name":"Sharing or collaborating with government documents","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/sharing-or-collaborating-with-government-documents"}
+add-item	{"approved-open-standard-guidance":"112","approved-open-standards":["approved-open-standard:1015","approved-open-standard:1016","approved-open-standard:1017"],"name":"Viewing government documents","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/viewing-government-documents"}
+add-item	{"approved-open-standard-guidance":"107","approved-open-standards":["approved-open-standard:1008"],"name":"Country codes","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/country-codes"}
+add-item	{"approved-open-standard-guidance":"108","approved-open-standards":["approved-open-standard:1009"],"name":"Language tags","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/language-tags"}
+add-item	{"approved-open-standard-guidance":"101","approved-open-standards":["approved-open-standard:1001"],"name":"Date-times and time-stamps","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/date-times-and-time-stamps-standard"}
+add-item	{"approved-open-standard-guidance":"106","approved-open-standards":["approved-open-standard:1006","approved-open-standard:1007"],"name":"Exchange of location point","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point"}
+add-item	{"approved-open-standard-guidance":"110","approved-open-standards":["approved-open-standard:1012","approved-open-standard:1013"],"name":"Persistent resolvable identifiers","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/persistent-resolvable-identifiers"}
+add-item	{"approved-open-standard-guidance":"104","approved-open-standards":["approved-open-standard:1004"],"name":"Publishing vacancies","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/publishing-vacancies-online-standards-profile--2"}
+add-item	{"approved-open-standard-guidance":"113","approved-open-standards":["approved-open-standard:1018"],"name":"Exchange of contact information","start-date":"2018-01-31","website":"https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-contact-information"}
+append-entry	system	name	2018-06-18T16:16:14Z	sha-256:8cf9ac92b84f131cd46f7bb3fa7c3b6ecbc3c6977d608dd76b264a6eeff13c47
+append-entry	system	custodian	2018-06-18T16:16:14Z	sha-256:3714b2535f57d3e3381944e80340a2a316b4226c4a3cb99c2c912b261ab78132
+append-entry	system	field:approved-open-standard-guidance	2018-06-18T16:16:14Z	sha-256:c9ad6df6314ef09cfa72ca6c45a36d3525fdc53b2b0a9bc7f2ecc3fdb3d9e065
+append-entry	system	field:name	2018-06-18T16:16:14Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:approved-open-standards	2018-06-18T16:16:14Z	sha-256:4455fc089e7f0466535977123ec19ec2e00a22274acd0f91907a6159d6b96221
+append-entry	system	field:website	2018-06-18T16:16:14Z	sha-256:225c00de2d5a2f7ce3c02a40db2cba104c98ed72a981d195f7706ceff9be960e
+append-entry	system	field:start-date	2018-06-18T16:16:14Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-06-18T16:16:14Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:approved-open-standard-guidance	2018-06-18T16:16:14Z	sha-256:22301b5c919adb065fcc29120bb3eef592af37e787a0efc83b90d884bee42558
+append-entry	system	register:approved-open-standard-guidance	2018-09-05T09:32:26Z	sha-256:459a1cf3da6107c14351c24227f20f7c588ca23c17ffe328b9986fae5ad246b3
+append-entry	system	register-name	2018-09-05T17:07:50Z	sha-256:6701f510a1097bb7c681c694db5e076db83273930b4570f2862cb9c551f18bee
+append-entry	system	register-name	2018-09-10T10:09:34Z	sha-256:84f7c40c5fe092e0e1776f062e587f2d6d6cd5763554d2e496a285311f027a13
+append-entry	user	101	2018-06-18T16:16:14Z	sha-256:5dff728be4575f898721904988fff68daf372b1756b679cb83bb62a0b9a5d34e
+append-entry	user	102	2018-06-18T16:16:14Z	sha-256:bb5ff87dbed20a0ccf4942c2be03e3c67f0466744ace70d1d70c7dba80007999
+append-entry	user	103	2018-06-18T16:16:14Z	sha-256:b19e1bc8c8a66b2d2ec3e8a6bdca67d2e0f6ad17ea229b6112ddc1b4c25f5029
+append-entry	user	104	2018-06-18T16:16:14Z	sha-256:523c1abed0dc059f7133368813befffb3914b1d482c1803e70e12cfa0a02a5e4
+append-entry	user	105	2018-06-18T16:16:14Z	sha-256:5a72df8019638697ff547ff73d1af4200b3a84909e0cea03f3e52bee62fdd780
+append-entry	user	106	2018-06-18T16:16:14Z	sha-256:ec03e20b5a464a1a682c5365c224d1de389dca9f4baf6aa57ee85f6f1f052519
+append-entry	user	107	2018-06-18T16:16:14Z	sha-256:8496c935445ada318b89b747e473673c2f494561afd9856d30e88666193114ff
+append-entry	user	108	2018-06-18T16:16:14Z	sha-256:e11feb944829913870aa17c504369e0ae8a05ac8346dc01334a2972e2f57e0db
+append-entry	user	109	2018-06-18T16:16:14Z	sha-256:ae6ed594bfea32bd6591ac69cb789399a6190c56f0e9421912392bdb810f88b7
+append-entry	user	110	2018-06-18T16:16:14Z	sha-256:907d5c36b4c924d732a898f369639e7325476eeba51fb5235dd5d3fa06218319
+append-entry	user	111	2018-06-18T16:16:14Z	sha-256:435dcbfb4580f78a8e33ee4df68dbbe006e87f3707a00654798e4af2a1b97dca
+append-entry	user	112	2018-06-18T16:16:14Z	sha-256:ff65ab0db809033bd9f772c67071dbcee04db99ec19008914bc29e6697a33071
+append-entry	user	113	2018-06-18T16:16:14Z	sha-256:83694f4e58adb8d5476d508865c2441b426499afc51752ad6018480b6a696088
+append-entry	user	114	2018-06-18T16:16:14Z	sha-256:cf09c8135a162c378430936dd1f663b437c5ef74be410d0d3bfa175009d3358d
+assert-root-hash	sha-256:3e036f3f24c63f944ef5f6100dd8a05e1a9f3f91e8c92fb61a58b728cb8f9485

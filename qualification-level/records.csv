@@ -1,0 +1,17 @@
+index-entry-number,entry-number,entry-timestamp,key,qualification-level,name,qualification-sub-level,"european-qualification-framework-level",start-date,end-date
+16,16,2018-01-16T15:14:57Z,Level8,Level8,"Level 8",,"Level 8",,
+15,15,2018-01-16T15:14:57Z,Level7,Level7,"Level 7",,"Level 7",,
+14,14,2018-01-16T15:14:57Z,Level6,Level6,"Level 6",,"Level 6",,
+13,13,2018-01-16T15:14:57Z,Level5,Level5,"Level 5",,"Level 5",,
+12,12,2018-01-16T15:14:57Z,Level4,Level4,"Level 4",,"Level 5",,
+11,11,2018-01-16T15:14:57Z,Level3,Level3,"Level 3",,"Level 4",,
+10,10,2018-01-16T15:14:57Z,Level2,Level2,"Level 2",,"Level 3",,
+9,9,2018-01-16T15:14:57Z,Level1_2,Level1_2,"Level 1/2",,"Level 2/3",,
+8,8,2018-01-16T15:14:57Z,Level1,Level1,"Level 1",,"Level 2",,
+7,7,2018-01-16T15:14:57Z,Entry1_2_3,Entry1_2_3,"Entry Level","Entry Level 1,2,3",,,
+6,6,2018-01-16T15:14:57Z,Entry2_3,Entry2_3,"Entry Level","Entry Level 2,3",,,
+5,5,2018-01-16T15:14:57Z,Entry1_2,Entry1_2,"Entry Level","Entry Level 1,2",,,
+4,4,2018-01-16T15:14:57Z,Entry3,Entry3,"Entry Level","Entry Level 3","Level 1",,
+3,3,2018-01-16T15:14:57Z,Entry2,Entry2,"Entry Level","Entry Level 2",,,
+2,2,2018-01-16T15:14:57Z,Entry1,Entry1,"Entry Level","Entry Level 1",,,
+1,1,2018-01-16T15:14:57Z,EntryLevel,EntryLevel,"Entry Level",,,,2016-07-07

@@ -1,0 +1,108 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"fields":["statistical-geography-registration-district-wls","registration-district","name","name-cy","start-date","end-date"],"phase":"beta","register":"statistical-geography-registration-district-wls","registry":"office-for-national-statistics","text":"Statistical geography data for registration districts in Wales"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"custodian":"Mike Phelps-Cousins"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"registration-district","phase":"beta","register":"registration-district","text":"The code for a registration district in England or Wales."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"name-cy","phase":"beta","text":"Welsh name for an entry."}
+add-item	{"name":"statistical-geography-registration-district-wls"}
+add-item	{"cardinality":"1","datatype":"string","field":"statistical-geography-registration-district-wls","phase":"beta","register":"statistical-geography-registration-district-wls","text":"The statistical geography code for a registration district in Wales."}
+add-item	{"cardinality":"1","datatype":"string","field":"name-cy","phase":"beta","text":"The commonly-used Welsh name of a record."}
+add-item	{"register-name":"Statistical geography for registration districts in Wales register"}
+add-item	{"register-name":"Statistical geography for registration districts in Wales"}
+add-item	{"registration-district":"804","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000001"}
+add-item	{"registration-district":"811","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000003"}
+add-item	{"registration-district":"882","start-date":"2009-04-01","statistical-geography-registration-district-wls":"W20000038"}
+add-item	{"registration-district":"896","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000036"}
+add-item	{"registration-district":"819","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000008"}
+add-item	{"registration-district":"890","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000034"}
+add-item	{"registration-district":"837","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000012"}
+add-item	{"end-date":"2009-03-31","name":"Brecknock","name-cy":"Brycheiniog","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000026"}
+add-item	{"registration-district":"861","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000023"}
+add-item	{"registration-district":"805","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000002"}
+add-item	{"end-date":"2009-03-31","name":"Ystradgynlais","name-cy":"Ystradgynlais","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000033"}
+add-item	{"end-date":"2012-12-31","name":"The Vale of Glamorgan","name-cy":"Bro Morgannwg","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000035"}
+add-item	{"end-date":"2009-07-05","name":"De Meirionnydd","name-cy":"De Meirionnydd","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000017"}
+add-item	{"registration-district":"863","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000024"}
+add-item	{"end-date":"2009-03-31","name":"Machynlleth","name-cy":"Machynlleth","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000029"}
+add-item	{"end-date":"2009-03-31","name":"Mid Powys","name-cy":"Powys Ganol","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000027"}
+add-item	{"end-date":"2009-03-31","name":"Hay","name-cy":"Y Gelli","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000028"}
+add-item	{"registration-district":"855","start-date":"2009-07-06","statistical-geography-registration-district-wls":"W20000039"}
+add-item	{"end-date":"2013-03-06","name":"Cardiganshire North","name-cy":"Gogledd Sir Aberteifi","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000006"}
+add-item	{"end-date":"2009-07-05","name":"Bangor","name-cy":"Bangor","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000015"}
+add-item	{"registration-district":"839","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000013"}
+add-item	{"registration-district":"864","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000025"}
+add-item	{"registration-district":"897","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000037"}
+add-item	{"registration-district":"813","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000004"}
+add-item	{"end-date":"2013-03-06","name":"Cardiganshire Central","name-cy":"Sir Aberteifi Ganol","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000005"}
+add-item	{"end-date":"2009-07-05","name":"Dwyfor","name-cy":"Dwyfor","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000020"}
+add-item	{"end-date":"2009-07-05","name":"Penllyn","name-cy":"Penllyn","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000019"}
+add-item	{"end-date":"2009-03-31","name":"Welshpool and Llanfyllin","name-cy":"Trallwng a Llanfylin","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000032"}
+add-item	{"registration-district":"891","start-date":"2013-01-01","statistical-geography-registration-district-wls":"W20000035"}
+add-item	{"end-date":"2009-07-05","name":"Caernarfon","name-cy":"Caernarfon","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000016"}
+add-item	{"end-date":"2009-07-05","name":"Ardudwy","name-cy":"Ardudwy","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000014"}
+add-item	{"end-date":"2009-03-31","name":"Newtown","name-cy":"Drenewydd","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000030"}
+add-item	{"registration-district":"836","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000011"}
+add-item	{"registration-district":"846","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000018"}
+add-item	{"registration-district":"823","start-date":"2013-03-07","statistical-geography-registration-district-wls":"W20000040"}
+add-item	{"end-date":"2009-03-31","name":"Radnorshire East","name-cy":"Dwyrain Sir Maesyfed","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000031"}
+add-item	{"registration-district":"860","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000022"}
+add-item	{"end-date":"2013-03-06","name":"Cardiganshire South","name-cy":"De Sir Aberteifi","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000007"}
+add-item	{"registration-district":"833","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000010"}
+add-item	{"registration-district":"857","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000021"}
+add-item	{"registration-district":"822","start-date":"2009-01-01","statistical-geography-registration-district-wls":"W20000009"}
+append-entry	system	name	2017-11-29T13:43:27Z	sha-256:582e524e3378a50e2249b179334ea6402df113d39b1f6516d3a23f928bd6ed45
+append-entry	system	custodian	2017-11-29T13:43:27Z	sha-256:b4592c5c9a33527533605982956d698b720e7557f87862aabe0179c0baf9863f
+append-entry	system	field:statistical-geography-registration-district-wls	2017-11-29T13:43:27Z	sha-256:d6852a01f32da5dd07e245f04642fcb27bb5b551e78a1cf5396ecc942d9cd32d
+append-entry	system	field:registration-district	2017-11-29T13:43:27Z	sha-256:7b000fbeb51e390458974173e9fc38a1b999f0ef3d4bca588f1f51de1010ece1
+append-entry	system	field:name	2017-11-29T13:43:27Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:name-cy	2017-11-29T13:43:27Z	sha-256:f2fce0a8144ebc1a61ee0cd3d56288541679695ed8d89aa2b42de1f0a4b9563b
+append-entry	system	field:start-date	2017-11-29T13:43:27Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-11-29T13:43:27Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:statistical-geography-registration-district-wls	2017-11-29T13:43:27Z	sha-256:5227b87cd2e0ac340cb85150c16ced4f3688feb62244dc499facd1daa65559dc
+append-entry	system	field:name-cy	2018-06-07T11:09:11Z	sha-256:5a7c189a63f29248299a3b341569181ae3d7c134ffe5d1aa2269aa1badd20403
+append-entry	system	register-name	2018-09-05T12:46:54Z	sha-256:a5f51806a45a17ed2d0f969f1de96915502e960af9199e1a716223a6a41771e0
+append-entry	system	register-name	2018-09-10T10:50:45Z	sha-256:130e4d1d7a3fbb43f94be63a46a3537fd05579a7b959d45f3bedb5d10c7d0983
+append-entry	user	W20000037	2017-11-29T13:43:27Z	sha-256:22d944bfd23192dbf5905499190c449227e497cae463f4255eb06632c1157e02
+append-entry	user	W20000036	2017-11-29T13:43:27Z	sha-256:af4323bac908209344ca9636360b8009e47cc87a7440093245075573373c6a70
+append-entry	user	W20000035	2017-11-29T13:43:27Z	sha-256:e72fe02361db3a54d80e4c7083b0b49450e9fa075458570b7684d8545e2afec0
+append-entry	user	W20000034	2017-11-29T13:43:27Z	sha-256:cc0bab0d6a940d534546869f270740782bb353a207fac1a01100b1b19fda8174
+append-entry	user	W20000038	2017-11-29T13:43:27Z	sha-256:0dfb402a86d2dded11ca4b9edb5a184c5d43f95a885d90edbe6fd1739585138f
+append-entry	user	W20000025	2017-11-29T13:43:27Z	sha-256:7dcc1b8a815260fc718e0889c04abe5920eab98ab4535edf655fed5e51c62d3d
+append-entry	user	W20000024	2017-11-29T13:43:27Z	sha-256:8acf977fd0c7b6c2b78bc8a7a82a19be839965439d8f57d223556b00a44f3c6f
+append-entry	user	W20000023	2017-11-29T13:43:27Z	sha-256:7bab831549cbf8abf8a0e4940cc7a48b9057daaf2cfe4bdc8b0ad981306a0a6d
+append-entry	user	W20000022	2017-11-29T13:43:27Z	sha-256:b9c07f8baacf80f419cf5ea08c7a1456cd0fa8aec7a92e57bfdf70af08659be0
+append-entry	user	W20000021	2017-11-29T13:43:27Z	sha-256:dc273720901f33b15f2336c50a88d3bdc3d685a3e32b1242ab58c251de4e000c
+append-entry	user	W20000039	2017-11-29T13:43:27Z	sha-256:7d271771411e3a4278ed23d8748076845d78d014504f6a7a87c08387e2ee2018
+append-entry	user	W20000018	2017-11-29T13:43:27Z	sha-256:9628366d85335fe020b8e63a95c2601a2c0a4ab7209b483cf230ec793959501f
+append-entry	user	W20000013	2017-11-29T13:43:27Z	sha-256:a7eba8d70775c9056604acb9f8f73f741f5bf7de7309e72dfbf9232cc3836ade
+append-entry	user	W20000012	2017-11-29T13:43:27Z	sha-256:0e07c139d9c4db2f976250e8293758ed2d21bf378b3d9f2234399bbfe6195145
+append-entry	user	W20000011	2017-11-29T13:43:27Z	sha-256:e005c3de05f0f1f816bcd7eb81c2e8cfac5bc32daed48a3dc7cc4a4b61e2fc10
+append-entry	user	W20000010	2017-11-29T13:43:27Z	sha-256:469841991fb652398a9a23b68aa1ad4ea74f15a1209d2d6451e205f2c6d8b78a
+append-entry	user	W20000040	2017-11-29T13:43:27Z	sha-256:ab057e98fd921d5f03636d86806b550626e4eeee21d65ee2b995f08e9856f7f5
+append-entry	user	W20000009	2017-11-29T13:43:27Z	sha-256:953a10f109daabd4d797c97998d08cd442308f2141969e5b696382be7b6f8da1
+append-entry	user	W20000008	2017-11-29T13:43:27Z	sha-256:654117fbecb9a462d7c3805001e60aa655d3efe1e70982461047d98333186aa0
+append-entry	user	W20000004	2017-11-29T13:43:27Z	sha-256:f9bd00ce511cfb3ea8602a5b1f41d6e746e822248d2c233202abe459473eab8f
+append-entry	user	W20000003	2017-11-29T13:43:27Z	sha-256:9993d3431f0e0faa126c79b1292b9887b02a35eefa4b23e3a59ac23a3364b935
+append-entry	user	W20000002	2017-11-29T13:43:27Z	sha-256:da24de78bc29d0cfe56ce700f3e1516a8bf5a86345b43751687f1b93ed92ddab
+append-entry	user	W20000001	2017-11-29T13:43:27Z	sha-256:f81886a9d0385f7628e281c4b2a3b59c0418e4919e8dd9723171620acef6f1e8
+append-entry	user	W20000005	2017-11-29T13:43:27Z	sha-256:1f80f6c906bd07bb0ed6b1fee8c6c4d5519cab703157c6c19bfe985e6513a94e
+append-entry	user	W20000006	2017-11-29T13:43:27Z	sha-256:7545dd1fde5e964367ca8717334a0778464d44edaa39960f8530295b5cf2f75a
+append-entry	user	W20000007	2017-11-29T13:43:27Z	sha-256:da2ecf405254c050ab38fa422fdfa100cad642d2766e320c8c39f8269464d9d0
+append-entry	user	W20000014	2017-11-29T13:43:27Z	sha-256:bac74c36512ed4d7095f0061a05d88d301015112201a5df1be25f4e37d9791e3
+append-entry	user	W20000015	2017-11-29T13:43:27Z	sha-256:3ace843c35348e9354a44958537a1e4dae42597ca62de5131f30b0f091d96c23
+append-entry	user	W20000016	2017-11-29T13:43:27Z	sha-256:0414fc47cbb1a9eeed83a11b4bdc8ae0d9df9ea79011a6e212f46a82c560ec0a
+append-entry	user	W20000017	2017-11-29T13:43:27Z	sha-256:c6a936321180cbcad33a8ff6a25f515df4dc5e0fedba5f58cf130a8083e157c8
+append-entry	user	W20000019	2017-11-29T13:43:27Z	sha-256:449a87ea5fc80e4020632055063eef67100f4ff16e5ba29876e0125e85974ed5
+append-entry	user	W20000020	2017-11-29T13:43:27Z	sha-256:d50950025edb77da2eed85ba37d6c9c7100e2e5bc4633d55f63e21cec2c8db6f
+append-entry	user	W20000026	2017-11-29T13:43:27Z	sha-256:a1b79eb6463274d02a11745585743bc643b111f0934ed080cc4d909c12649a47
+append-entry	user	W20000027	2017-11-29T13:43:27Z	sha-256:1821150d7354e7f7cca7a1cbdf44460f76c247fb02591f9b993e1f2018490fd9
+append-entry	user	W20000028	2017-11-29T13:43:27Z	sha-256:58cc2ae9f41201802ca1aadf7a1487ab4d30a30af8de511c5ef7fc72bd1b315d
+append-entry	user	W20000029	2017-11-29T13:43:27Z	sha-256:404f91983a11ee2753f23c0e7a288896ae4be01a8e83db7be58bfbd8be78fe4c
+append-entry	user	W20000030	2017-11-29T13:43:27Z	sha-256:4e3d8063e17f26521a8637a06c6e75795963e938aca200c2d1db22e04d8c806d
+append-entry	user	W20000031	2017-11-29T13:43:27Z	sha-256:7ebca171f33dc9523ef6fa0610867cfcaf1cff398e678c078177a8a8777c98f5
+append-entry	user	W20000032	2017-11-29T13:43:27Z	sha-256:88d56b5282b0f4452ce4184705beb77066614313ec35659c2c5c96373d1dd9b0
+append-entry	user	W20000033	2017-11-29T13:43:27Z	sha-256:a3f35e2c4c2e21bbd2fef26912a26363d702e5e36bfda7b4da84bfb390c2cee6
+append-entry	user	W20000035	2017-11-29T13:43:27Z	sha-256:f61cc3ffa73bb1cdad98c63d11cebec7fcf151cf164c936f4567fca7101cf9ee
+assert-root-hash	sha-256:b0ea721a0084d0c31b49eff5504f9a298e9c18aa4220b406997e9d9d443965e1

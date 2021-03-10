@@ -1,0 +1,24 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"string","field":"ddat-profession-capability-framework-skill-type","phase":"beta","register":"ddat-profession-capability-framework-skill-type","text":"The unique code for a type of skill for use in the Digital, Data and Technology Profession Capability Framework."}
+add-item	{"fields":["ddat-profession-capability-framework-skill-type","name","start-date","end-date"],"phase":"beta","register":"ddat-profession-capability-framework-skill-type","registry":"government-digital-service","text":"Types of skill for use in the Digital, Data and Technology Profession Capability Framework"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"custodian":"Pat McGuire"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"register-name":"Digital, Data and Technology Profession Capability Framework skill type"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"name":"ddat-profession-capability-framework-skill-type"}
+add-item	{"register-name":"Digital Data and Technology Profession Capability Framework skill type"}
+add-item	{"ddat-profession-capability-framework-skill-type":"10","name":"Essential"}
+add-item	{"ddat-profession-capability-framework-skill-type":"11","name":"Desirable"}
+append-entry	system	name	2018-07-02T17:13:34Z	sha-256:c04f65c10edbe1c4fe44b08818bf004f22b23d8c02f0b4052c447f5eb328d04e
+append-entry	system	custodian	2018-07-02T17:13:34Z	sha-256:29b6db52f6bdd8c3af7286584fc4c5e03f483ed17e46a4876bad75b013e8c8a3
+append-entry	system	field:ddat-profession-capability-framework-skill-type	2018-07-02T17:13:34Z	sha-256:ff267157ffc2dbd2e150aece709213ae78805c13b77f5315f095962a91a77ab3
+append-entry	system	field:name	2018-07-02T17:13:34Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-07-02T17:13:34Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-07-02T17:13:34Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:ddat-profession-capability-framework-skill-type	2018-07-02T17:13:34Z	sha-256:142600fe4ce9393c83b62cf970f08d4c603343829ed589e2b00a1e6d08fb1d04
+append-entry	system	register-name	2018-07-02T18:14:22Z	sha-256:6a95950287874e65b76b9ef8a751c505eb42ac5615b2526638ae8420fc32653d
+append-entry	system	register-name	2018-07-03T13:24:02Z	sha-256:ff3193c1ec9d73f751fce52ff1373fe8683515fd81fe830abe4013c2bd7ce9b9
+append-entry	user	10	2018-07-02T17:13:34Z	sha-256:4f0d79984fb1fda4f0360375fbb2ab93bfd7cc638a9f1d5c395c73621b0cd705
+append-entry	user	11	2018-07-02T17:13:34Z	sha-256:c7d69ed24cd8fc11ce515e7b80ede9a22561d688040311fd856e63dc76d5cfaa
+assert-root-hash	sha-256:e976ce48923c17428003590523ba76f37a38b07a19466e450eac60da56807166

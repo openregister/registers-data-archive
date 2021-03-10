@@ -1,0 +1,70 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"register-name":"School types in England"}
+add-item	{"custodian":"Andy Sansom"}
+add-item	{"cardinality":"1","datatype":"string","field":"school-type-eng","phase":"beta","register":"school-type-eng","text":"Type of a school in England."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"name":"school-type-eng"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"fields":["school-type-eng","name","start-date","end-date"],"phase":"beta","register":"school-type-eng","registry":"department-for-education","text":"Types of school in England"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"name":"University technical college","school-type-eng":"40"}
+add-item	{"name":"Academy 16 to 19 sponsor led","school-type-eng":"46"}
+add-item	{"name":"Free schools 16 to 19","school-type-eng":"39"}
+add-item	{"name":"Foundation special school","school-type-eng":"12"}
+add-item	{"name":"Academy sponsor led","school-type-eng":"28"}
+add-item	{"name":"Academy alternative provision converter","school-type-eng":"42"}
+add-item	{"name":"Free schools","school-type-eng":"35"}
+add-item	{"name":"Community school","school-type-eng":"1"}
+add-item	{"name":"Academy 16-19 converter","school-type-eng":"45"}
+add-item	{"name":"City technology college","school-type-eng":"6"}
+add-item	{"name":"Voluntary aided school","school-type-eng":"2"}
+add-item	{"name":"Free schools special","school-type-eng":"36"}
+add-item	{"name":"Academy special converter","school-type-eng":"44"}
+add-item	{"name":"Local authority nursery school","school-type-eng":"15"}
+add-item	{"name":"Studio schools","school-type-eng":"41"}
+add-item	{"name":"Free schools alternative provision","school-type-eng":"38"}
+add-item	{"name":"Non-maintained special school","school-type-eng":"8"}
+add-item	{"name":"Other independent special school","school-type-eng":"10"}
+add-item	{"name":"Community special school","school-type-eng":"7"}
+add-item	{"name":"Academy special sponsor led","school-type-eng":"33"}
+add-item	{"name":"Voluntary controlled school","school-type-eng":"3"}
+add-item	{"name":"Academy converter","school-type-eng":"34"}
+add-item	{"name":"Foundation school","school-type-eng":"5"}
+add-item	{"name":"Other independent school","school-type-eng":"11"}
+add-item	{"name":"Pupil referral unit","school-type-eng":"14"}
+add-item	{"name":"Academy alternative provision sponsor led","school-type-eng":"43"}
+append-entry	system	name	2018-12-14T11:42:02Z	sha-256:0cd5f723eba644f8b41f1919c3c1e93ceb7107f67d7c851dbebafd43f93c1d3b
+append-entry	system	field:school-type-eng	2018-12-14T11:42:02Z	sha-256:83c4d29f799c74a7e494a2799996ae35b0964a93d48a1d6da1cbc922b7a95f0c
+append-entry	system	field:name	2018-12-14T11:42:02Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-12-14T11:42:02Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-12-14T11:42:02Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:school-type-eng	2018-12-14T11:42:02Z	sha-256:0742dcee802236eb6d52d613b241a73ffd5bd7772630c93449576733c99679be
+append-entry	system	register-name	2018-12-14T11:42:02Z	sha-256:309bcfcdfc9f5fc6ee6bbda41a1232d5ea832b40e05f8c6f3735ecf9e761c39c
+append-entry	system	custodian	2018-12-14T11:42:02Z	sha-256:094784a16ffa6e65ab6b62b6c005c4c48f6257e49089cdbf833e4d984c835caa
+append-entry	user	46	2018-12-14T11:42:02Z	sha-256:50908e0ccd35bbce4efbe8bd6bef5084ed8c7900053e532dfeb874288c7dabea
+append-entry	user	45	2018-12-14T11:42:02Z	sha-256:030428487a3fc283b095294a48bbe182c2c6ff59f1aa6d22d36f7b9322bf9d3c
+append-entry	user	42	2018-12-14T11:42:02Z	sha-256:55a64f55d2c1bf6047a34fd6a9a9352c31d2b2ce6da577fe6bafc3e61c0ed1be
+append-entry	user	43	2018-12-14T11:42:02Z	sha-256:da8342c1df27d6c064c905af9a55d9cdadcc4729c24877429de0dc39da35a040
+append-entry	user	34	2018-12-14T11:42:02Z	sha-256:8953998d38eb68efcf983d0e5f4b0c0d3d152c24c8952dcc7d5772f83e2497f7
+append-entry	user	44	2018-12-14T11:42:02Z	sha-256:80b9d3760550ab4de345a4a54b14e76486a35e177b75e70c58cd4482ee1965c6
+append-entry	user	33	2018-12-14T11:42:02Z	sha-256:870ddfc51d6f82950a525b919d0cbbfc0a1daff9f25c36ff38ebb8438f7d2f28
+append-entry	user	28	2018-12-14T11:42:02Z	sha-256:362975d6e0a0cf617e5695f3ac1ab9a2899dc03055965d91af96013cadfb81bd
+append-entry	user	6	2018-12-14T11:42:02Z	sha-256:eb1e502dbf5729fd9fa9abf1bd983873e1ff35bc03ca3d7c1e7939943d3789f3
+append-entry	user	1	2018-12-14T11:42:02Z	sha-256:68b998e311b2748dab77ad85c7870417ecd2a05318320e98c2412c7234f7e9f2
+append-entry	user	7	2018-12-14T11:42:02Z	sha-256:b839397e6cb5df38b50ea0735b7e370152aace92a56cea88fba2985c2368be72
+append-entry	user	5	2018-12-14T11:42:02Z	sha-256:870bd62514f80a050bd7b22ae81af25635ef4bfc00dd69f0fc2c0580a13c12e6
+append-entry	user	12	2018-12-14T11:42:02Z	sha-256:8da0c3745f17f11865c846b64de584607f2e18bd8627a4addcd5d2055e42fd1b
+append-entry	user	35	2018-12-14T11:42:02Z	sha-256:d61c96c40a7e2c31a5191104edce4d54817c13a59e388bbf12d83ed0e86cc606
+append-entry	user	39	2018-12-14T11:42:02Z	sha-256:e0a5a73244ff24748a55477a6e69e6502f59f08062ef241f376be167caedd6a3
+append-entry	user	38	2018-12-14T11:42:02Z	sha-256:8f1a68594bd0184250bf8c130d5a736ada8d457382f6022171f83fdbdfbf099e
+append-entry	user	36	2018-12-14T11:42:02Z	sha-256:66e0106b6dc5350e921b11cce78f15fae41c858410d13c336a44eeb7f82e276a
+append-entry	user	15	2018-12-14T11:42:02Z	sha-256:0808bf4b97e567b74acf2304712d4dccb4f1be816dd2d5903b5bd1107325feb4
+append-entry	user	8	2018-12-14T11:42:02Z	sha-256:2c1a5b4114468fa0d1db2997b73f96ff7fa71a5a0e39ee472176bfff415ce066
+append-entry	user	11	2018-12-14T11:42:02Z	sha-256:450c4a7f1aaf528681d1c972558b479ff0659805c1dfb85db2c04d33db308379
+append-entry	user	10	2018-12-14T11:42:02Z	sha-256:36224341ce6082278b6b854fc533a97b829dad507d7c4ee096714d75421dbe16
+append-entry	user	14	2018-12-14T11:42:02Z	sha-256:3f7a569ed5c3126bc77d144ea44b9e1c9a7f6b98740b8d189b03a20315fa60cf
+append-entry	user	41	2018-12-14T11:42:02Z	sha-256:caca39dd461bf518ca8b82e3ddafad3100da394edd20106fa51c72eca417ee07
+append-entry	user	40	2018-12-14T11:42:02Z	sha-256:1b692ee3f0e48fa56f423770d3f2d047bb07a5367c0b9978eeec78d94e2c7b38
+append-entry	user	2	2018-12-14T11:42:02Z	sha-256:1b3bdf366a3c06455667da56a192af090c2eb099126ddad460bac4fe95059e5b
+append-entry	user	3	2018-12-14T11:42:02Z	sha-256:7d646a44c8c2941c90f7910901bd1aa700754eea6015bc34dc1e4494fbc1f5d9
+assert-root-hash	sha-256:98d5ec18c1ee5b08aba0bfc3d15143450ce520de1a41c04d67c325a3d8af0442

@@ -1,0 +1,166 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"custodian":"Gillian Hall"}
+add-item	{"cardinality":"1","datatype":"string","field":"jobcentre-group","phase":"beta","register":"jobcentre-group","text":"A grouping of jobcentre offices"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"cardinality":"1","datatype":"string","field":"jobcentre-district","phase":"beta","register":"jobcentre-district","text":"A jobcentre office district"}
+add-item	{"fields":["jobcentre-district","name","jobcentre-group","start-date","end-date"],"phase":"beta","register":"jobcentre-district","registry":"department-for-work-pensions","text":"Districts of jobcentre offices"}
+add-item	{"name":"jobcentre-district"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"jobcentre-district","phase":"beta","register":"jobcentre-district","text":"The unique code for a jobcentre office district."}
+add-item	{"cardinality":"1","datatype":"string","field":"jobcentre-group","phase":"beta","register":"jobcentre-group","text":"The unique code for a grouping of jobcentre offices."}
+add-item	{"register-name":"Jobcentre district"}
+add-item	{"fields":["jobcentre-district","name","jobcentre-group","start-date","end-date"],"phase":"beta","register":"jobcentre-district","registry":"department-for-work-pensions","text":"Districts of jobcentre offices in England, Scotland and Wales"}
+add-item	{"fields":["jobcentre-district","name","jobcentre-group","start-date","end-date"],"phase":"beta","register":"jobcentre-district","registry":"department-for-work-pensions","text":"Jobcentre districts in England, Scotland and Wales"}
+add-item	{"register-name":"Jobcentre district register"}
+add-item	{"jobcentre-district":"112","jobcentre-group":"21","name":"Staffordshire and Derbyshire"}
+add-item	{"jobcentre-district":"128","jobcentre-group":"13","name":"Berkshire, Surrey and Sussex"}
+add-item	{"jobcentre-district":"132","jobcentre-group":"16","name":"Birmingham and Solihull"}
+add-item	{"jobcentre-district":"109","jobcentre-group":"13","name":"Dorset, Wiltshire, Hampshire and Isle of Wight"}
+add-item	{"jobcentre-district":"106","jobcentre-group":"15","name":"West London"}
+add-item	{"jobcentre-district":"116","jobcentre-group":"16","name":"Nottinghamshire, Lincolnshire and Rutland"}
+add-item	{"jobcentre-district":"120","jobcentre-group":"15","name":"North London"}
+add-item	{"jobcentre-district":"115","jobcentre-group":"11","name":"North and Mid Wales"}
+add-item	{"jobcentre-district":"105","jobcentre-group":"14","name":"Cumbria and Lancashire"}
+add-item	{"jobcentre-district":"133","jobcentre-group":"14","name":"Cheshire"}
+add-item	{"jobcentre-district":"127","jobcentre-group":"15","name":"Bedfordshire and Hertfordshire"}
+add-item	{"jobcentre-district":"131","jobcentre-group":"16","name":"Black Country"}
+add-item	{"jobcentre-district":"122","jobcentre-group":"13","name":"Devon, Cornwall and Somerset"}
+add-item	{"jobcentre-district":"124","jobcentre-group":"15","name":"Essex"}
+add-item	{"jobcentre-district":"126","jobcentre-group":"16","name":"East Anglia"}
+add-item	{"jobcentre-district":"118","jobcentre-group":"16","name":"Mercia"}
+add-item	{"jobcentre-district":"107","jobcentre-group":"14","name":"Merseyside"}
+add-item	{"jobcentre-district":"114","jobcentre-group":"17","name":"Northumberland, Tyne and Wear"}
+add-item	{"jobcentre-district":"108","jobcentre-group":"12","name":"Central Scotland"}
+add-item	{"jobcentre-district":"103","jobcentre-group":"11","name":"South East Wales"}
+add-item	{"jobcentre-district":"119","jobcentre-group":"15","name":"East London"}
+add-item	{"jobcentre-district":"125","jobcentre-group":"17","name":"West Yorkshire"}
+add-item	{"jobcentre-district":"111","jobcentre-group":"12","name":"West of Scotland"}
+add-item	{"jobcentre-district":"130","jobcentre-group":"17","name":"Durham and Tees Valley"}
+add-item	{"jobcentre-district":"117","jobcentre-group":"15","name":"Kent"}
+add-item	{"jobcentre-district":"121","jobcentre-group":"17","name":"South Yorkshire"}
+add-item	{"jobcentre-district":"134","jobcentre-group":"16","name":"Leicestershire and Northamptonshire"}
+add-item	{"jobcentre-district":"129","jobcentre-group":"15","name":"South London"}
+add-item	{"jobcentre-district":"101","jobcentre-group":"11","name":"South West Wales"}
+add-item	{"jobcentre-district":"104","jobcentre-group":"13","name":"Avon, Severn and Thames"}
+add-item	{"jobcentre-district":"110","jobcentre-group":"14","name":"Greater Manchester"}
+add-item	{"jobcentre-district":"113","jobcentre-group":"12","name":"East and South East Scotland"}
+add-item	{"jobcentre-district":"112","jobcentre-group":"16","name":"Midlands Shire"}
+add-item	{"jobcentre-district":"102","jobcentre-group":"12","name":"North of Scotland"}
+add-item	{"jobcentre-district":"123","jobcentre-group":"17","name":"North East Yorkshire and the Humber"}
+add-item	{"jobcentre-district":"112","jobcentre-group":"21","name":"Midland Shires"}
+add-item	{"jobcentre-district":"116","jobcentre-group":"21","name":"Lincolnshire, Nottinghamshire and Rutland"}
+add-item	{"end-date":"2018-03-31","jobcentre-district":"102","jobcentre-group":"12","name":"North of Scotland"}
+add-item	{"jobcentre-district":"135","jobcentre-group":"19","name":"Northern Scotland","start-date":"2018-04-01"}
+add-item	{"jobcentre-district":"136","jobcentre-group":"19","name":"North East Scotland","start-date":"2018-04-01"}
+add-item	{"end-date":"2018-03-31","jobcentre-district":"128","jobcentre-group":"13","name":"Berkshire, Surrey and Sussex"}
+add-item	{"jobcentre-district":"137","jobcentre-group":"23","name":"Surrey and Sussex","start-date":"2018-04-01"}
+add-item	{"jobcentre-district":"138","jobcentre-group":"23","name":"Berkshire, Buckinghamshire and Oxfordshire","start-date":"2018-04-01"}
+add-item	{"end-date":"2018-03-31","jobcentre-district":"104","jobcentre-group":"13","name":"Avon, Severn and Thames"}
+add-item	{"end-date":"2018-03-31","jobcentre-district":"122","jobcentre-group":"13","name":"Devon, Cornwall and Somerset"}
+add-item	{"jobcentre-district":"139","jobcentre-group":"24","name":"Avon, Somerset and Gloucestershire","start-date":"2018-04-01"}
+add-item	{"jobcentre-district":"140","jobcentre-group":"24","name":"Devon and Cornwall","start-date":"2018-04-01"}
+add-item	{"jobcentre-district":"126","jobcentre-group":"21","name":"East Anglia"}
+add-item	{"jobcentre-district":"134","jobcentre-group":"21","name":"Leicestershire and Northamptonshire"}
+add-item	{"jobcentre-district":"132","jobcentre-group":"20","name":"Birmingham and Solihull"}
+add-item	{"jobcentre-district":"131","jobcentre-group":"20","name":"Black Country"}
+add-item	{"jobcentre-district":"118","jobcentre-group":"20","name":"Mercia"}
+add-item	{"jobcentre-district":"105","jobcentre-group":"25","name":"Cumbria and Lancashire"}
+add-item	{"jobcentre-district":"121","jobcentre-group":"25","name":"South Yorkshire"}
+add-item	{"jobcentre-district":"125","jobcentre-group":"25","name":"West Yorkshire"}
+add-item	{"jobcentre-district":"108","jobcentre-group":"18","name":"Central Scotland"}
+add-item	{"jobcentre-district":"111","jobcentre-group":"18","name":"West of Scotland"}
+add-item	{"jobcentre-district":"113","jobcentre-group":"19","name":"East and South East Scotland"}
+add-item	{"jobcentre-district":"119","jobcentre-group":"22","name":"East London"}
+add-item	{"jobcentre-district":"124","jobcentre-group":"22","name":"Essex"}
+add-item	{"jobcentre-district":"120","jobcentre-group":"22","name":"North London"}
+add-item	{"jobcentre-district":"129","jobcentre-group":"22","name":"South London"}
+add-item	{"jobcentre-district":"106","jobcentre-group":"22","name":"West London"}
+add-item	{"jobcentre-district":"127","jobcentre-group":"23","name":"Bedfordshire and Hertfordshire"}
+add-item	{"jobcentre-district":"117","jobcentre-group":"23","name":"Kent"}
+add-item	{"jobcentre-district":"109","jobcentre-group":"24","name":"Dorset, Wiltshire, Hampshire and Isle of Wight"}
+append-entry	system	name	2018-02-01T13:30:23Z	sha-256:3e324fb8131441e4d0edc35656896124023b87cde4a4d1c3c63647854fcad4d2
+append-entry	system	custodian	2018-02-01T13:30:23Z	sha-256:431b5a1b6bb871fa6d434e5d71435f7fc7260bce35c7df46aff9fd2e7fb075e6
+append-entry	system	field:jobcentre-district	2018-02-01T13:30:23Z	sha-256:676c9b7a3007c6347a9e61a81736d336f1a1f5774afdda5e0e40f16e7c37a219
+append-entry	system	field:name	2018-02-01T13:30:23Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:jobcentre-group	2018-02-01T13:30:23Z	sha-256:dff62969133b6b0288f8d1e1c26df357fd79eb60d134ca695726590d6816e705
+append-entry	system	field:start-date	2018-02-01T13:30:23Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-02-01T13:30:23Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:jobcentre-district	2018-02-01T13:30:23Z	sha-256:a5e6e1ed5ab0dffea274824af1a41db44d4167487e18579381bf209aa99e88c7
+append-entry	system	field:jobcentre-district	2018-06-07T09:51:00Z	sha-256:99dc31884bad39b94ef01ee3bf9525e9f3ae626c623c3447677e3be95a462434
+append-entry	system	field:jobcentre-group	2018-06-07T09:52:09Z	sha-256:f2c569bf45d0ceba6055f673fd6c634d65a131fa23326ec644fb85723cc5b36e
+append-entry	system	field:jobcentre-district	2018-06-07T13:24:02Z	sha-256:99dc31884bad39b94ef01ee3bf9525e9f3ae626c623c3447677e3be95a462434
+append-entry	system	field:jobcentre-group	2018-06-07T13:26:04Z	sha-256:f2c569bf45d0ceba6055f673fd6c634d65a131fa23326ec644fb85723cc5b36e
+append-entry	system	field:jobcentre-district	2018-06-07T14:00:50Z	sha-256:99dc31884bad39b94ef01ee3bf9525e9f3ae626c623c3447677e3be95a462434
+append-entry	system	field:jobcentre-group	2018-06-07T14:07:00Z	sha-256:f2c569bf45d0ceba6055f673fd6c634d65a131fa23326ec644fb85723cc5b36e
+append-entry	system	register:jobcentre-district	2018-07-13T09:38:47Z	sha-256:8b2905acc66d55b330213e03b61316dbd74ec3f012722237e0cd3327276d999e
+append-entry	system	register:jobcentre-district	2018-09-05T10:52:29Z	sha-256:f21ee5ccc23609345c20d9e59dce845cbe084b460b2bb6928bf75cb13417b084
+append-entry	system	register-name	2018-09-05T17:12:31Z	sha-256:e93900a7a6acbb8418fbd233284a34271d28217a541725668bf6408c022731a2
+append-entry	system	register-name	2018-09-10T10:19:28Z	sha-256:68326df305936133e577aa33a2be910a38571a39bdb4dd578c035d417cb9d4e9
+append-entry	user	131	2018-02-01T13:30:23Z	sha-256:f7303bbfde0c2a52911f41360c6177555f31bdcbc4b130a5b7688894e3cb0545
+append-entry	user	130	2018-02-01T13:30:23Z	sha-256:4070c3138f0405ae19416aa75cf83cd6597aa5db372c58ab9c5da62ee687aa2b
+append-entry	user	114	2018-02-01T13:30:23Z	sha-256:e4838050c8e718f098809085abcad934a25d108c6c8e61edfd361707cdec9288
+append-entry	user	134	2018-02-01T13:30:23Z	sha-256:89604416a604fd278b7a64765ed1605cc037029e6b08efa63716ca8f0f542670
+append-entry	user	101	2018-02-01T13:30:23Z	sha-256:c406d01b776e39a642ae0ed03b3702ef3a9cf38c9fe2d8cf3c6d8c5aa6dbfc10
+append-entry	user	108	2018-02-01T13:30:23Z	sha-256:c9f98ed060b8687e9edd40b02eab705a285c06ab7b6fe1f1709f3fe4416b48fd
+append-entry	user	105	2018-02-01T13:30:23Z	sha-256:3cfc52c328fd3e8fc41399f6172b3c64867f189d42baa381564a3180700f5a25
+append-entry	user	133	2018-02-01T13:30:23Z	sha-256:54c3732761dcf35e00c2b80ec4847e4676c3397c7e81e8a6432cf1e8e9c4f8c3
+append-entry	user	122	2018-02-01T13:30:23Z	sha-256:9216fb88498f1fd92762682bcde75494b77c5206d2be590b9e70ba46faf9b67b
+append-entry	user	116	2018-02-01T13:30:23Z	sha-256:fb776d86d5b801d1569f57398716728dcea5fac8037b6f6aebcbdd48d60b624e
+append-entry	user	106	2018-02-01T13:30:23Z	sha-256:8d524cefd85bb42ae8563cbf17158384f0d091f041c7ea1c7473a51ebc4b2dec
+append-entry	user	112	2018-02-01T13:30:23Z	sha-256:56d7561747ad79a8fec42feefcd33c23a33a71fad8a14627c59d2d5d922a8ba7
+append-entry	user	129	2018-02-01T13:30:23Z	sha-256:999e5bf5ef15e202db0995f2b7e46e3d674c5305d3d9e2a150fb5c2e56a05562
+append-entry	user	125	2018-02-01T13:30:23Z	sha-256:6e3e81a3d7cdce9a3ed91c36e280a6b75178c7f0fe972ef5e763a0e08b458e55
+append-entry	user	103	2018-02-01T13:30:23Z	sha-256:e1c05f72006a37edd1a375242a1abf8277b26741d2076e1ef40e5f70c793b8ac
+append-entry	user	124	2018-02-01T13:30:23Z	sha-256:86f4d944732ff53120f38689c7395771d9a7d10e185c67cf48b2e318dd618f3d
+append-entry	user	104	2018-02-01T13:30:23Z	sha-256:4d79b884877196f8fadeec55211b7353ca41f5de539370d08a913651287d3c2f
+append-entry	user	120	2018-02-01T13:30:23Z	sha-256:5c5fc1d1a8e599d627fcbfba3a1b526f52169af7b8905361c1cc6d2655d1bd7f
+append-entry	user	118	2018-02-01T13:30:23Z	sha-256:b4fc6317312a03275dc0bd25582e3f3ea7193ebf1abda13eaed15c1b73e5bb9c
+append-entry	user	102	2018-02-01T13:30:23Z	sha-256:cd9e318112a6e0692de9648a7b230819e9728462307fbae43d65095cfda67476
+append-entry	user	128	2018-02-01T13:30:23Z	sha-256:5ca76f1e43186086434238cd17ef8da9eb13805d9cb1c0146b784927d21ede16
+append-entry	user	110	2018-02-01T13:30:23Z	sha-256:50701b49a209656745bb6274763c20f99ba9b6f37e8cc10a30529592e4c022c0
+append-entry	user	113	2018-02-01T13:30:23Z	sha-256:7a2a93eddb53f269cac63c8a742c510d0026feb545fdb672fa845ac27885cccd
+append-entry	user	127	2018-02-01T13:30:23Z	sha-256:54269a17f50c0cbefc7560709528874b48e326fa9a2d6b150acacda6a5ccd25a
+append-entry	user	111	2018-02-01T13:30:23Z	sha-256:6ad9c27cd05d8a0f3eae205990d241b107005e4aa1de159419fa4a5e7908be1f
+append-entry	user	117	2018-02-01T13:30:23Z	sha-256:abfeff95880ed24f030bb02147992b49fc475fe66fb16dc16a7144cc804ff36a
+append-entry	user	109	2018-02-01T13:30:23Z	sha-256:6b452a3dbf7a3b82bfcf25296730cc72f7bef4dd85c23d5a6ddc43dd28be61c3
+append-entry	user	107	2018-02-01T13:30:23Z	sha-256:791d7788c93ecf5190c1b6c78641c811e5376e5d7d84278ead9b44e9b1fc26e4
+append-entry	user	123	2018-02-01T13:30:23Z	sha-256:0bc10a3f90370979722a4ce7739f51aaaf4344428ff7129d66a73804b5cd8185
+append-entry	user	115	2018-02-01T13:30:23Z	sha-256:dcf3f3400947abb2524bdfcecea284b3615fe0f0272f57892d68d0d6c111e2a7
+append-entry	user	126	2018-02-01T13:30:23Z	sha-256:9e29aa6b83a298963cbf56b8586b467a5703084a2d081bbc7774dc20ba74f22a
+append-entry	user	119	2018-02-01T13:30:23Z	sha-256:892141ea84d2ab87d470c37098ea03eeec426fecf7b92d970f00692093e80a20
+append-entry	user	121	2018-02-01T13:30:23Z	sha-256:e50c3e272aed716ee63878de3b54c5d1ef8724a93b84a665e7bbb332ca98abd1
+append-entry	user	132	2018-02-01T13:30:23Z	sha-256:c4b484970f76b168c57d0e52122c3f0ee295b0180d1391d54205a739b9888a52
+append-entry	user	112	2018-07-05T10:13:17Z	sha-256:d5b62b12f9e58d58fabe6f1777206ec372c39d660533352fa75b9dd24e4faad6
+append-entry	user	116	2018-07-05T10:13:52Z	sha-256:ceb7e9b3cf759bd48965acd9dd3c2fa220902cf8d787cc653422ebbf11e9c70f
+append-entry	user	102	2018-07-05T10:14:22Z	sha-256:5a96b289ab990057e084c9b4ef861cf52720024565983fe6b5a57aa9f4b93908
+append-entry	user	135	2018-07-05T10:16:17Z	sha-256:6f52bd6a7c41adf4b8199fe8411198058735ca2ce1e6d4437721deb2f0c8cc68
+append-entry	user	136	2018-07-05T10:16:38Z	sha-256:a27d782e8873819302285067c475ec61219109f16446246b4c9da8a690983e52
+append-entry	user	128	2018-07-05T10:17:19Z	sha-256:ff6757721e3c9bec7e2090915697f79dc24119cf4f3938ff508ccb94d41eef1b
+append-entry	user	137	2018-07-05T10:17:45Z	sha-256:0a5b72b9f13940e531553995229a01fb5b2642308d515bd7b0781bb53b6917b3
+append-entry	user	138	2018-07-05T10:18:11Z	sha-256:8ee3cbd5ba5ef0cc5e8e719ac40e5df079aa840f2251d13202dd600c05df089c
+append-entry	user	104	2018-07-05T10:18:40Z	sha-256:45a06765f85d8622afbfd7bceb707aaae6e033ce2f9e26fec0a27edc034cd23f
+append-entry	user	122	2018-07-05T10:19:23Z	sha-256:b4ad3365262b57aa30e9680e488c31a3c5ebcdd97a977bdcac4e064da80a381c
+append-entry	user	139	2018-07-05T10:20:28Z	sha-256:979e3795cb72bfb6a18ad0f9a56b39a73406d2e9be55f8c8c39d277fe0552ae7
+append-entry	user	140	2018-07-05T10:21:28Z	sha-256:677087bf766dfc61919e00f9babaa23e239d623b69092823bf4f2ab63b2937fe
+append-entry	user	126	2018-07-05T10:22:52Z	sha-256:94efdf3f798fe87e024afb71acf1d2c7170c151f4275e73da5fa6309f45fd56c
+append-entry	user	134	2018-07-05T10:23:38Z	sha-256:140af4dd0812ae4c6d69c43f882747a8a39b40669143536d1a5be955ade2e0a1
+append-entry	user	132	2018-07-05T10:23:59Z	sha-256:48ff82f5f4844b9eb816c2a27ab98b7dc805c57b3f62a6c8999e4842c6d62158
+append-entry	user	131	2018-07-05T10:24:19Z	sha-256:e3cef021f9a197a5728f0cbf23adb1161105c2e29cf5763e38d68c44f29f2004
+append-entry	user	118	2018-07-05T10:24:46Z	sha-256:4f462e917343305952a9676176d6e45357c6e74100685abda2535861c9a53430
+append-entry	user	105	2018-07-05T10:25:25Z	sha-256:559a511c77d784eee545de371aa005008a6eb46988a8d04dfa68bb79cb6b62ed
+append-entry	user	121	2018-07-05T10:25:48Z	sha-256:576d54857f26454b4f2ca89197856e98c5317c03f741a5041cdaf31cbc839e56
+append-entry	user	125	2018-07-05T10:26:06Z	sha-256:d77d02741e3e2e357c4b1163ab6cb171aba722762584c76e35ab8f2aa0520b93
+append-entry	user	108	2018-07-05T10:26:46Z	sha-256:248584233c5d5c361e72227f83ce68119d0da2c4359c8de8cb9d9a84f062f4fa
+append-entry	user	111	2018-07-05T10:27:01Z	sha-256:5e648be8109e14e970e0ebd98a66b87e0287e56d8f50aa2cc4f0fd6d357fc358
+append-entry	user	113	2018-07-05T10:27:32Z	sha-256:1fe5f5037d50850bf693bee44a350b99ff15ee366e19c34e41e42fc7705bd5f5
+append-entry	user	119	2018-07-05T10:27:50Z	sha-256:b8b7a0fa8fb7e93c0fa27df363e8928681bc5fc7463a1ff65f024eaa4e6df3df
+append-entry	user	124	2018-07-05T10:28:13Z	sha-256:8f39f0423a79dbf378dcb4bdf880b47eeea6410d64427f60bb73b6cab3a433ac
+append-entry	user	120	2018-07-05T10:28:32Z	sha-256:765964d9a03cc703ca99383179889836fdb5b8ebcd41aa1f3131a4ca2bba1c3f
+append-entry	user	129	2018-07-05T10:29:00Z	sha-256:3180ef470ea8fea6348b3470efac3189e886d6e28e3069eae8ed49e11b445adc
+append-entry	user	106	2018-07-05T10:29:19Z	sha-256:5ce0ae0506b80886dabfcd61f9264fa77bbf5b50341ad54acbdba79502924349
+append-entry	user	127	2018-07-05T10:29:49Z	sha-256:d4d489417e5d47d542766b836c4438aadd646756fd2f437b1ac799fbf1ae81e0
+append-entry	user	117	2018-07-05T10:30:15Z	sha-256:56a4c8496b9bfc07729278600f2aa6aaeb8d4d17e153bc46dbc7e23c3a10dffe
+append-entry	user	109	2018-07-05T10:30:39Z	sha-256:c019dd937a6a305dd42bc86882aadfc79548f16f70b9524ca4d61b2283aafc4e
+append-entry	user	112	2019-11-18T16:29:01Z	sha-256:4997ea89d8adb231f1e99df1a308b8147d7f6ed33bf87d43cee980a09d197670
+assert-root-hash	sha-256:d3496f243f995938e7b66669e98d39e21366dd12d218eb36fa51164fcc9de33d

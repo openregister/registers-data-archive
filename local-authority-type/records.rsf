@@ -1,0 +1,55 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"custodian":"Stephen McAllister"}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-type","phase":"beta","register":"local-authority-type","text":"The type of local government organisation."}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"custodian":"Mark Coram"}
+add-item	{"register-name":"Local authority type"}
+add-item	{"fields":["local-authority-type","name","start-date","end-date"],"phase":"beta","register":"local-authority-type","registry":"department-for-communities-and-local-government","text":"Types of local government organisations in the UK"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable. For example, the date a school closed down."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"name":"local-authority-type"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register. For example, the date a country was first recognised by the UK."}
+add-item	{"fields":["local-authority-type","name","start-date","end-date"],"phase":"beta","register":"local-authority-type","registry":"ministry-of-housing-communities-and-local-government","text":"Types of local government organisations in the UK"}
+add-item	{"cardinality":"1","datatype":"string","field":"local-authority-type","phase":"beta","register":"local-authority-type","text":"The unique code for the type of local government organisation. For example, county council."}
+add-item	{"register-name":"Local authority type register"}
+add-item	{"local-authority-type":"BGH","name":"Borough"}
+add-item	{"local-authority-type":"UA","name":"Unitary authority"}
+add-item	{"local-authority-type":"LBO","name":"London borough"}
+add-item	{"local-authority-type":"CC","name":"City corporation"}
+add-item	{"local-authority-type":"SRA","name":"Strategic Regional Authority"}
+add-item	{"local-authority-type":"MD","name":"Metropolitan district"}
+add-item	{"local-authority-type":"CIT","name":"City"}
+add-item	{"local-authority-type":"DIS","name":"District"}
+add-item	{"local-authority-type":"NMD","name":"Non-metropolitan district"}
+add-item	{"local-authority-type":"CA","name":"Council area"}
+add-item	{"local-authority-type":"COMB","name":"Combined Authority","start-date":"2014-01-01"}
+add-item	{"local-authority-type":"CTY","name":"County"}
+append-entry	system	name	2017-07-17T10:59:49Z	sha-256:1138382b2b4f76e7e0488914c3d16eba4384338c070c98d9120392cff3af8710
+append-entry	system	custodian	2017-07-17T10:59:49Z	sha-256:1a79573f28a473bc281ae5ef7f1a910da710648bc666abf5930e05e1ed962f39
+append-entry	system	field:local-authority-type	2017-01-10T17:16:07Z	sha-256:c244c74c48c14b08aa98346ee8064743e65d6331b09d524c03a333468f3b58da
+append-entry	system	field:name	2017-01-10T17:16:07Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2017-01-10T17:16:07Z	sha-256:1cff4c622577fabd35917760b04bc304af3b950e19735b60152c19f18b55e75e
+append-entry	system	field:end-date	2017-01-10T17:16:07Z	sha-256:a557fa9bf4a6ce1991717b9429406f4fa724fb8818dfe018d306694de22efbf7
+append-entry	system	register:local-authority-type	2017-07-14T15:19:32Z	sha-256:8795fead7029a400e05954c74e19650d90afec3f91fcf3c2ced9e68c04986b8a
+append-entry	system	custodian	2017-08-23T12:00:00Z	sha-256:8ad423e17b667e022b439c38ecabfabf63a906622928a78adea768dad4f2563f
+append-entry	system	field:start-date	2017-08-29T11:30:00Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2017-08-29T11:31:00Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:local-authority-type	2018-02-20T12:52:14Z	sha-256:642873fe3929baade4f7c3934f61074cd534aebc5318d7845d120cfd6b31401d
+append-entry	system	field:local-authority-type	2018-06-07T11:05:36Z	sha-256:26134c24d1cd32150ec486ba4670882dcb0ae9885b34cae8f6dd1b6a40bb6434
+append-entry	system	register:local-authority-type	2018-09-05T10:57:23Z	sha-256:642873fe3929baade4f7c3934f61074cd534aebc5318d7845d120cfd6b31401d
+append-entry	system	register-name	2018-09-05T17:17:13Z	sha-256:a2a912d5649fcf36c560ded78b5ed7f716145c52f60a26adb4aac0acd8d80649
+append-entry	system	register-name	2018-09-10T10:25:07Z	sha-256:aa4733ee3cbeb29d9511c230cf1d08801788ba6de64f03f7e846205d896e0f56
+append-entry	user	CA	2016-10-21T16:18:12Z	sha-256:2d017603cd980eb893a533f3875a193878fbbc405450bb7e2fb967168432e54b
+append-entry	user	CTY	2016-10-21T16:18:12Z	sha-256:35eec4ce50968c2ee6170c4c0770997209f3b2ac87cdda868ab0f84b6db615b2
+append-entry	user	DIS	2016-10-21T16:18:12Z	sha-256:7f1e7cae1126bd0f2c3ba6206bcfac192e10f9892be37cd31036cf36f64c0f41
+append-entry	user	LBO	2016-10-21T16:18:12Z	sha-256:5c50d2de688279915dfa4ecfc4bf2d5208994e7c1ab9fc44cdd6f5966a3b9293
+append-entry	user	NMD	2016-10-21T16:18:12Z	sha-256:2b344b99e22b1688f426c9116d8313bafb545e6cdd6d0f03bd359fe7eb711e4b
+append-entry	user	MD	2016-10-21T16:18:12Z	sha-256:b2f6f4309f28abcd4b89d1b231d1e88166c97e20d8b0424a776096deba7b8a8e
+append-entry	user	UA	2016-10-21T16:18:12Z	sha-256:5341e80927b3ec7a5cb2b34dc3715904c9bd30d4a2cc04dae8b46e4adaaa1254
+append-entry	user	CC	2016-10-31T12:49:57Z	sha-256:e33590e74900c1585e049bbc673d566c745cb26360ee2c10fb571e3e79bef57d
+append-entry	user	SRA	2016-11-01T13:58:18Z	sha-256:5b13303f7bc0487a16ba5bd9133174342b749546a9f70b5e2e85d85471ff23c3
+append-entry	user	BGH	2017-10-25T17:09:29Z	sha-256:db26e0a8d9a98a3e65b470d544572638d90c634769a491ddd6edadd504ef8c34
+append-entry	user	CIT	2017-10-25T17:09:29Z	sha-256:dc17c068acc6f2d690285c00355938066ac897c0274a27298ee48b28a8f66da2
+append-entry	user	COMB	2018-10-09T13:46:55Z	sha-256:c7b9e8a1024171cdb0af94f88ba0a84da1743c922028058e34d6259a8ae42a65
+assert-root-hash	sha-256:90f9c8533439fae6dbee833829eacd9cc2370f8e2467438b07f33e4b394fa980

@@ -1,0 +1,16 @@
+index-entry-number,entry-number,entry-timestamp,key,jobcentre-group,name,start-date,end-date
+22,22,2018-10-03T14:43:11Z,15,15,"London and the Home Counties",,2018-03-31
+21,21,2018-07-05T10:10:40Z,25,25,"North Central England",2018-04-01,
+20,20,2018-07-05T10:09:59Z,24,24,"South West England",2018-04-01,
+19,19,2018-07-05T10:09:28Z,13,13,"Southern England",,2018-03-31
+18,18,2018-07-05T10:09:00Z,23,23,"South East England",2018-04-01,
+17,17,2018-07-05T10:08:27Z,22,22,"London and Essex",2018-04-01,
+15,15,2018-07-05T10:07:27Z,21,21,"North and East Midlands",2018-04-01,
+14,14,2018-07-05T10:06:54Z,20,20,"West Midlands",2018-04-01,
+13,13,2018-07-05T10:06:32Z,16,16,"Central England",,2018-03-31
+12,12,2018-07-05T10:05:28Z,19,19,"East and North Scotland",2018-04-01,
+11,11,2018-07-05T10:05:01Z,18,18,"Central and West Scotland",2018-04-01,
+10,10,2018-07-05T10:03:15Z,12,12,Scotland,,2018-03-31
+9,9,2018-07-05T10:02:36Z,14,14,"North West England",,
+8,8,2018-07-05T10:02:17Z,17,17,"North East England",,
+1,1,2018-01-03T16:49:03Z,11,11,Wales,,

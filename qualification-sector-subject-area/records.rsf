@@ -1,0 +1,155 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"register-name":"Qualification subject area"}
+add-item	{"fields":["qualification-sector-subject-area","parent-qualification-sector-subject-area","name","start-date","end-date"],"phase":"beta","register":"qualification-sector-subject-area","registry":"ofqual","text":"Subjects of qualifications regulated by Ofqual"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"cardinality":"1","datatype":"string","field":"parent-qualification-sector-subject-area","phase":"beta","register":"qualification-sector-subject-area","text":"The unique code for a wider subject area of a qualification regulated by Ofqual. For example, sociology is part of the wider subject area of social sciences."}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"register-name":"Qualification subject area register"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"custodian":"Paul Shanahan"}
+add-item	{"cardinality":"1","datatype":"string","field":"parent-qualification-sector-subject-area","phase":"beta","register":"qualification-sector-subject-area","text":"A broader subject area of a subject of a qualification regulated by Ofqual"}
+add-item	{"name":"qualification-sector-subject-area"}
+add-item	{"cardinality":"1","datatype":"string","field":"qualification-sector-subject-area","phase":"beta","register":"qualification-sector-subject-area","text":"A subject of a qualification regulated by Ofqual"}
+add-item	{"name":"Social Sciences","qualification-sector-subject-area":"11"}
+add-item	{"name":"Languages, Literature and Culture","qualification-sector-subject-area":"12"}
+add-item	{"name":"Engineering","parent-qualification-sector-subject-area":"04","qualification-sector-subject-area":"04.1"}
+add-item	{"name":"Child development and well-being","parent-qualification-sector-subject-area":"01","qualification-sector-subject-area":"01.5"}
+add-item	{"name":"Health and social care","parent-qualification-sector-subject-area":"01","qualification-sector-subject-area":"01.3"}
+add-item	{"name":"Linguistics","parent-qualification-sector-subject-area":"12","qualification-sector-subject-area":"12.3"}
+add-item	{"name":"Health, Public Services and Care","qualification-sector-subject-area":"01"}
+add-item	{"name":"Nursing and subjects and vocations allied to medicine","parent-qualification-sector-subject-area":"01","qualification-sector-subject-area":"01.2"}
+add-item	{"name":"Mathematics and statistics","parent-qualification-sector-subject-area":"02","qualification-sector-subject-area":"02.2"}
+add-item	{"name":"Geography","parent-qualification-sector-subject-area":"11","qualification-sector-subject-area":"11.1"}
+add-item	{"name":"Sociology and social policy","parent-qualification-sector-subject-area":"11","qualification-sector-subject-area":"11.2"}
+add-item	{"name":"History, Philosophy and Theology","qualification-sector-subject-area":"10"}
+add-item	{"name":"Media and communication","parent-qualification-sector-subject-area":"09","qualification-sector-subject-area":"09.3"}
+add-item	{"name":"Business, Administration and Law","qualification-sector-subject-area":"15"}
+add-item	{"name":"Preparation for Life and Work","qualification-sector-subject-area":"14"}
+add-item	{"name":"Animal care and veterinary science","parent-qualification-sector-subject-area":"03","qualification-sector-subject-area":"03.3"}
+add-item	{"name":"Economics","parent-qualification-sector-subject-area":"11","qualification-sector-subject-area":"11.4"}
+add-item	{"name":"Public services","parent-qualification-sector-subject-area":"01","qualification-sector-subject-area":"01.4"}
+add-item	{"name":"Transportation operations and maintenance","parent-qualification-sector-subject-area":"04","qualification-sector-subject-area":"04.3"}
+add-item	{"name":"Information and Communication Technology","qualification-sector-subject-area":"06"}
+add-item	{"name":"Law and legal services","parent-qualification-sector-subject-area":"15","qualification-sector-subject-area":"15.5"}
+add-item	{"name":"ICT practitioners","parent-qualification-sector-subject-area":"06","qualification-sector-subject-area":"06.1"}
+add-item	{"name":"Other languages, literature and culture","parent-qualification-sector-subject-area":"12","qualification-sector-subject-area":"12.2"}
+add-item	{"name":"Politics","parent-qualification-sector-subject-area":"11","qualification-sector-subject-area":"11.3"}
+add-item	{"name":"Hospitality and catering","parent-qualification-sector-subject-area":"07","qualification-sector-subject-area":"07.4"}
+add-item	{"name":"Horticulture and forestry","parent-qualification-sector-subject-area":"03","qualification-sector-subject-area":"03.2"}
+add-item	{"name":"Languages, literature and culture of the British Isles","parent-qualification-sector-subject-area":"12","qualification-sector-subject-area":"12.1"}
+add-item	{"name":"Archaeology and archaeological sciences","parent-qualification-sector-subject-area":"10","qualification-sector-subject-area":"10.2"}
+add-item	{"name":"Retail and Commercial Enterprise","qualification-sector-subject-area":"07"}
+add-item	{"name":"Construction, Planning and the Built Environment","qualification-sector-subject-area":"05"}
+add-item	{"name":"Travel and tourism","parent-qualification-sector-subject-area":"08","qualification-sector-subject-area":"08.2"}
+add-item	{"name":"Architecture","parent-qualification-sector-subject-area":"05","qualification-sector-subject-area":"05.1"}
+add-item	{"name":"Agriculture","parent-qualification-sector-subject-area":"03","qualification-sector-subject-area":"03.1"}
+add-item	{"name":"Foundations for learning and life","parent-qualification-sector-subject-area":"14","qualification-sector-subject-area":"14.1"}
+add-item	{"name":"Retailing and wholesaling","parent-qualification-sector-subject-area":"07","qualification-sector-subject-area":"07.1"}
+add-item	{"name":"Engineering and Manufacturing Technologies","qualification-sector-subject-area":"04"}
+add-item	{"name":"Education and Training","qualification-sector-subject-area":"13"}
+add-item	{"name":"Warehousing and distribution","parent-qualification-sector-subject-area":"07","qualification-sector-subject-area":"07.2"}
+add-item	{"name":"Arts, Media and Publishing","qualification-sector-subject-area":"09"}
+add-item	{"name":"Administration","parent-qualification-sector-subject-area":"15","qualification-sector-subject-area":"15.2"}
+add-item	{"name":"Marketing and sales","parent-qualification-sector-subject-area":"15","qualification-sector-subject-area":"15.4"}
+add-item	{"name":"Business management","parent-qualification-sector-subject-area":"15","qualification-sector-subject-area":"15.3"}
+add-item	{"name":"Science","parent-qualification-sector-subject-area":"02","qualification-sector-subject-area":"02.1"}
+add-item	{"name":"Performing arts","parent-qualification-sector-subject-area":"09","qualification-sector-subject-area":"09.1"}
+add-item	{"name":"Philosophy","parent-qualification-sector-subject-area":"10","qualification-sector-subject-area":"10.3"}
+add-item	{"name":"Leisure, Travel and Tourism","qualification-sector-subject-area":"08"}
+add-item	{"name":"Publishing and information services","parent-qualification-sector-subject-area":"09","qualification-sector-subject-area":"09.4"}
+add-item	{"name":"Accounting and finance","parent-qualification-sector-subject-area":"15","qualification-sector-subject-area":"15.1"}
+add-item	{"name":"Anthropology","parent-qualification-sector-subject-area":"11","qualification-sector-subject-area":"11.5"}
+add-item	{"name":"Teaching and lecturing","parent-qualification-sector-subject-area":"13","qualification-sector-subject-area":"13.1"}
+add-item	{"name":"Direct learning support","parent-qualification-sector-subject-area":"13","qualification-sector-subject-area":"13.2"}
+add-item	{"name":"Preparation for work","parent-qualification-sector-subject-area":"14","qualification-sector-subject-area":"14.2"}
+add-item	{"name":"Manufacturing technologies","parent-qualification-sector-subject-area":"04","qualification-sector-subject-area":"04.2"}
+add-item	{"name":"Environmental conservation","parent-qualification-sector-subject-area":"03","qualification-sector-subject-area":"03.4"}
+add-item	{"name":"Crafts, creative arts and design","parent-qualification-sector-subject-area":"09","qualification-sector-subject-area":"09.2"}
+add-item	{"name":"Building and construction","parent-qualification-sector-subject-area":"05","qualification-sector-subject-area":"05.2"}
+add-item	{"name":"ICT for users","parent-qualification-sector-subject-area":"06","qualification-sector-subject-area":"06.2"}
+add-item	{"name":"Sport, leisure and recreation","parent-qualification-sector-subject-area":"08","qualification-sector-subject-area":"08.1"}
+add-item	{"name":"Medicine and Dentistry","parent-qualification-sector-subject-area":"01","qualification-sector-subject-area":"01.1"}
+add-item	{"name":"Service enterprises","parent-qualification-sector-subject-area":"07","qualification-sector-subject-area":"07.3"}
+add-item	{"name":"Agriculture, Horticulture and Animal Care","qualification-sector-subject-area":"03"}
+add-item	{"name":"Science and Mathematics","qualification-sector-subject-area":"02"}
+add-item	{"name":"Urban, rural and regional planning","parent-qualification-sector-subject-area":"05","qualification-sector-subject-area":"05.3"}
+add-item	{"name":"Theology and religious studies","parent-qualification-sector-subject-area":"10","qualification-sector-subject-area":"10.4"}
+add-item	{"name":"History","parent-qualification-sector-subject-area":"10","qualification-sector-subject-area":"10.1"}
+append-entry	system	name	2018-01-16T15:17:11Z	sha-256:ab9c3f462cc39acfac8a3a9f17638435fa0391add4ccc72ecc9600f46ab3bdad
+append-entry	system	custodian	2018-01-16T15:17:11Z	sha-256:f96380a0e51f2cae12237103bfa5561b765cbae0142dacdce1aafa122df9f79e
+append-entry	system	field:qualification-sector-subject-area	2018-01-16T15:17:11Z	sha-256:c3dd7dbcaee4d327ee9f07a3f10f6602c7d181dcba1ed246271adb9a4e966456
+append-entry	system	field:parent-qualification-sector-subject-area	2018-01-16T15:17:11Z	sha-256:80816e14ae754bd05afa2ab69e6c99dbe123e1a47d56fbc656666b420b559fb0
+append-entry	system	field:name	2018-01-16T15:17:11Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:start-date	2018-01-16T15:17:11Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-01-16T15:17:11Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:qualification-sector-subject-area	2018-01-16T15:17:11Z	sha-256:53473c66b4fc680f62d1c42344316f1731d53369b6e1c62cdd099a958a2fe78d
+append-entry	system	field:parent-qualification-sector-subject-area	2018-06-07T11:13:01Z	sha-256:1240ced8382831b5f11800d000a49392318b1c2b6403e5a19f233a33e684a014
+append-entry	system	register:qualification-sector-subject-area	2018-09-05T11:05:52Z	sha-256:53473c66b4fc680f62d1c42344316f1731d53369b6e1c62cdd099a958a2fe78d
+append-entry	system	register-name	2018-09-05T17:19:40Z	sha-256:058ac0e4c3804ad6d3ad9c3ca7c2b276df32d2d7ca725f4859f10c438fc2cd7a
+append-entry	system	register-name	2018-09-10T10:27:45Z	sha-256:22124518fab48e4ccc99d70cbb25e60655f87a4ee48fe5f897423716cbc7f62b
+append-entry	user	01	2018-01-16T15:17:11Z	sha-256:928bf625349d7e7275b05d41a55908594f1679eeb4a6a17e7a20e59d6aa7822d
+append-entry	user	02	2018-01-16T15:17:11Z	sha-256:dff24a55b8e9576ce8baeb4368a5c1d284fac1f04523bc5acdcf44eb2b8f4539
+append-entry	user	03	2018-01-16T15:17:11Z	sha-256:c299c1ca30c0ef322683363edd5bde8151e4dc37592e5885fec45ab3b4498bd3
+append-entry	user	04	2018-01-16T15:17:11Z	sha-256:38cf0f708fee05f4741e71a30e07207782d5450c18dffd6d9ac1941baffc3389
+append-entry	user	05	2018-01-16T15:17:11Z	sha-256:329452c10b7e6f96f461fddd6459488a6fbc7ca919d03b3b6641dbfc2db8baac
+append-entry	user	06	2018-01-16T15:17:11Z	sha-256:442b70b4ad7a39107a2ae0a8468bb1b8990fe0db5ea4fff0ae5e7e7070fac821
+append-entry	user	07	2018-01-16T15:17:11Z	sha-256:86ed14d54d16e5d298d49ceeae29aa75159d5638f4d53b7c39ebf9fc6c828885
+append-entry	user	08	2018-01-16T15:17:11Z	sha-256:8273fd2c82d38faf97bd543ac533db0d89cfb8c42aed56f44ec661612bae2bcf
+append-entry	user	09	2018-01-16T15:17:11Z	sha-256:ef344a72fbecd51b9755dc9f3d1ef61cd6e0a741530ef9d5ec09cdc6f04e74a0
+append-entry	user	10	2018-01-16T15:17:11Z	sha-256:0dc0045634036ad1ea462f5071e448e2285c8d7534a311978acb79e68647a5fa
+append-entry	user	11	2018-01-16T15:17:11Z	sha-256:0ab923b5d3308fd8f8b69d13c6ffebf7eccd5cac1f2a0c78c9922eda7ab237f9
+append-entry	user	12	2018-01-16T15:17:11Z	sha-256:ab77b8e63cfaa14604e744a256cc91f600b10e6f6ad8c0ecd1368f6ad121903e
+append-entry	user	13	2018-01-16T15:17:11Z	sha-256:4c7e1d43bcab7c19c15d158098298f95eb2642f9432aa8f71aada66dd3076444
+append-entry	user	14	2018-01-16T15:17:11Z	sha-256:fa970954504a3776b49ef72b66f0e140ada64de90e8c02ddc91e932e137af710
+append-entry	user	15	2018-01-16T15:17:11Z	sha-256:a583ed113b6506676e921498815ee88eebb9d28acf5d0951521be03af45484f9
+append-entry	user	01.1	2018-01-16T15:17:11Z	sha-256:6e4708428e4c21a3ea140604df031edb6a90983c67914f77da933baf79f149ee
+append-entry	user	01.2	2018-01-16T15:17:11Z	sha-256:5f06222a511df40ae62bf16224d624b12b9031e612b3699501f1ab7964eeda55
+append-entry	user	01.3	2018-01-16T15:17:11Z	sha-256:5bb2a95eec0f0390c8fba833c06fb4eb21bfad777612e9bdccf537e24cba0282
+append-entry	user	01.4	2018-01-16T15:17:11Z	sha-256:cc52c39a8ea253d5446790f7aef892528e7f940e45ade21e81c385c4f4ddfb82
+append-entry	user	01.5	2018-01-16T15:17:11Z	sha-256:774492c34ea70056d73f463b946afcd0d18362db24bdf211f87816966ff465db
+append-entry	user	02.1	2018-01-16T15:17:11Z	sha-256:f7ccd7b8cb5d0817cd758e30a521d584b7f3d35d6724245189b19369d45cc478
+append-entry	user	02.2	2018-01-16T15:17:11Z	sha-256:73b355717978f53ce553c27f9399ea15bf7fabd7ec32b7248eee9ec7c92ef491
+append-entry	user	03.1	2018-01-16T15:17:11Z	sha-256:8dfc416221d3cad460610f70bf6e156342fde05c09aa68eb55df253d492f6022
+append-entry	user	03.2	2018-01-16T15:17:11Z	sha-256:f1927bafa1945af29a99f2c78681ed360b0bb2a3cd275d5cfdc0d1fa146541e8
+append-entry	user	03.3	2018-01-16T15:17:11Z	sha-256:6aeee42d0256ed5417b3239756048733087a7e2cd67b68e8a20068f7e900f695
+append-entry	user	03.4	2018-01-16T15:17:11Z	sha-256:13f3e75c2400c995a85a6fa2257964e7ed2185bde7b06c654711faef99077b97
+append-entry	user	04.1	2018-01-16T15:17:11Z	sha-256:eb5b688f8229a563fb0b3e110b0604388b1c0f38c59c980ecb84197e05daae77
+append-entry	user	04.2	2018-01-16T15:17:11Z	sha-256:c1aa023ac6a66354c610fdaffb953510e1332df1851c0840000455d410a2b225
+append-entry	user	04.3	2018-01-16T15:17:11Z	sha-256:f02e7219bb541781a897979d301e3381c8cc9427e37d86749ad39557e40103bf
+append-entry	user	05.1	2018-01-16T15:17:11Z	sha-256:386d9ac0ac9747bf9e19745fcacb862e5957ff899ec8ec089e054e1b1d5da82b
+append-entry	user	05.2	2018-01-16T15:17:11Z	sha-256:31827a8d572129b760d8352cc836e2bfa6fefdda6a17b78aeca6a084f0e2f5d7
+append-entry	user	05.3	2018-01-16T15:17:11Z	sha-256:9a02f65090a8cb2bfc44f607ee232e1f058ddcea418a8fa4f2a891595b002ab8
+append-entry	user	06.1	2018-01-16T15:17:11Z	sha-256:d08d360711f386bc11e89a14960b98d652a642e9c373146e6f38ee5cf78c3146
+append-entry	user	06.2	2018-01-16T15:17:11Z	sha-256:d49ce469423ca880adf1a54378e3b89a62fec667900e660e5511b0377dd033b5
+append-entry	user	07.1	2018-01-16T15:17:11Z	sha-256:4cc0d848463ac1cc3842055df219227d445a52e524734dbab37cd6188ea45d5e
+append-entry	user	07.2	2018-01-16T15:17:11Z	sha-256:71b8366837aeca30fb45fbd8b01091dd5b9c4845286f9011960757ce7d01d5fb
+append-entry	user	07.3	2018-01-16T15:17:11Z	sha-256:fff881b396dc8a19c65d72f43b766320bba2d18f78ea6960e6abafb94d08f6b8
+append-entry	user	07.4	2018-01-16T15:17:11Z	sha-256:e4e3c40f81328c96f6d22ade3617493b5b7314c37d3ee705b9311cce703df7ae
+append-entry	user	08.1	2018-01-16T15:17:11Z	sha-256:31250102965682f3f4f0fa8f2ff0cc8f0f834d21d968d982d22e95cff1f63a6b
+append-entry	user	08.2	2018-01-16T15:17:11Z	sha-256:29cebb08573457ea0b29ae18c77b0d9ac0429e027447f6d06b962237b52ac5f2
+append-entry	user	09.1	2018-01-16T15:17:11Z	sha-256:c9cb8b6d14d58528c8bf3e9ec42111c2e8751f41a157cf1987148c726190e95c
+append-entry	user	09.2	2018-01-16T15:17:11Z	sha-256:9e4d4c77aac66a993b7cb0619c2190f728b85f8ebf91420715d86c5e306558ba
+append-entry	user	09.3	2018-01-16T15:17:11Z	sha-256:04f11ef2939ccd5d2e582b275b761909ad096a50f9112a2b27a0e20b4f9e4033
+append-entry	user	09.4	2018-01-16T15:17:11Z	sha-256:0e737b9746454a9578ef120bc957edca1eb2260f7e72f5b2f1c17abcbace803c
+append-entry	user	10.1	2018-01-16T15:17:11Z	sha-256:83893caf88de47f3adb1d76160bfad8b5fa969193662080b65262a6d7aa783d3
+append-entry	user	10.2	2018-01-16T15:17:11Z	sha-256:b88ffe4eeac42f4ff88ba3b18cb8f9ffcf8bf997126e43a3580cae1fc855564a
+append-entry	user	10.3	2018-01-16T15:17:11Z	sha-256:056f745a9268d2cc2aa57c794fe564fca5e2397b4c84ac5f2e53051132357ca9
+append-entry	user	10.4	2018-01-16T15:17:11Z	sha-256:03ec36b41269a86d362314432a42da3700c11aa844f143d425b18b4602302238
+append-entry	user	11.1	2018-01-16T15:17:11Z	sha-256:d9228b60fb76d0e92c6f3f250a08463a6c99f42734fbf1564f539740bb2a9017
+append-entry	user	11.2	2018-01-16T15:17:11Z	sha-256:3e3f57fd2058c3ef0334c83288e3b97ff601bfe65e3a2aabf1bcdcc8587cf26d
+append-entry	user	11.3	2018-01-16T15:17:11Z	sha-256:2533b6f5f25f317899070beb24fbe5fd1b24ff26bdc31d3c51769337c0bea269
+append-entry	user	11.4	2018-01-16T15:17:11Z	sha-256:78caca9b48474403d974fff553649d61640302dfe3d51d86257dbf89a522effc
+append-entry	user	11.5	2018-01-16T15:17:11Z	sha-256:fc64c04349cee6d13d0a99e54312b6bb839af5936d46cba967a4a74b3317ef2c
+append-entry	user	12.1	2018-01-16T15:17:11Z	sha-256:377e64981617f99c17c8cd776dda90896f6e084a4e8820572494e77987af635e
+append-entry	user	12.2	2018-01-16T15:17:11Z	sha-256:47752d42ce4cf444664852405cc31e36ec514cb48a99f3fb8437f8da3c75a072
+append-entry	user	12.3	2018-01-16T15:17:11Z	sha-256:e67fe3e0fc4400a6590faedec4e47d7caf2a1d53e7d27d07f069eb19c6e3b8ec
+append-entry	user	13.1	2018-01-16T15:17:11Z	sha-256:6a51dea380fc975998bc5ac1ffecdb52716c23ec17b7db018f10b42a692c4b0c
+append-entry	user	13.2	2018-01-16T15:17:11Z	sha-256:d4c42b17a493fdf884a6dbd8bb71f2b93ca6f2f3b590c168dec3fa35a07e583e
+append-entry	user	14.1	2018-01-16T15:17:11Z	sha-256:bf224f91164f9178b1c06fb862ba5273020a5f5ac254d419b3a0a9794e195159
+append-entry	user	14.2	2018-01-16T15:17:11Z	sha-256:1d17814ba2537d3ee77c2d99cd67bfb62f4cf858d2829b5b98054ad86b15ca64
+append-entry	user	15.1	2018-01-16T15:17:11Z	sha-256:be0c9d66492fc614cd474bc3f30e3909a9dbed9d2ad7c74b97174b234cce7662
+append-entry	user	15.2	2018-01-16T15:17:11Z	sha-256:a1f4a8cffa3ce4befa77e3982708773220e882c44f3cb65912da90597ce575b5
+append-entry	user	15.3	2018-01-16T15:17:11Z	sha-256:a39996564549becdd7f00e11b9a4758249f84f74864e5c32cc59e085ba41deca
+append-entry	user	15.4	2018-01-16T15:17:11Z	sha-256:e8e660bcb27a700c4bc8e18f78f16e475fb54d4e25b6f696ccd8b318fa3c808c
+append-entry	user	15.5	2018-01-16T15:17:11Z	sha-256:93807596d917ea67c237707afe96c53eeee6e00476ac6cab078b368d5e586c50
+assert-root-hash	sha-256:d43faa05b5ce1290c1fa3422aa03dd7a3ac83c360e7856fe86e29260c7997b64

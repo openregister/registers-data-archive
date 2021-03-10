@@ -1,0 +1,59 @@
+assert-root-hash	sha-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+add-item	{"fields":["qualification-level","name","qualification-sub-level","european-qualification-framework-level","start-date","end-date"],"phase":"beta","register":"qualification-level","registry":"ofqual","text":"Levels of qualifications regulated by Ofqual"}
+add-item	{"name":"qualification-level"}
+add-item	{"cardinality":"1","datatype":"string","field":"name","phase":"beta","text":"The commonly-used name of a record."}
+add-item	{"cardinality":"1","datatype":"string","field":"qualification-level","phase":"beta","register":"qualification-level","text":"A level of a qualification regulated by Ofqual"}
+add-item	{"custodian":"Paul Shanahan"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"start-date","phase":"beta","text":"The date a record first became relevant to a register."}
+add-item	{"register-name":"Qualification level register"}
+add-item	{"cardinality":"1","datatype":"string","field":"qualification-sub-level","phase":"beta","text":"A sub-level of a qualification regulated by Ofqual"}
+add-item	{"cardinality":"1","datatype":"string","field":"european-qualification-framework-level","phase":"beta","text":"A level of a qualification under the European Qualifications Framework"}
+add-item	{"cardinality":"1","datatype":"datetime","field":"end-date","phase":"beta","text":"The date a record stopped being applicable."}
+add-item	{"cardinality":"1","datatype":"string","field":"european-qualification-framework-level","phase":"beta","text":"The level of qualification under the European Qualifications Framework."}
+add-item	{"register-name":"Qualification level"}
+add-item	{"name":"Entry Level","qualification-level":"Entry1_2","qualification-sub-level":"Entry Level 1,2"}
+add-item	{"european-qualification-framework-level":"Level 2","name":"Level 1","qualification-level":"Level1"}
+add-item	{"european-qualification-framework-level":"Level 8","name":"Level 8","qualification-level":"Level8"}
+add-item	{"name":"Entry Level","qualification-level":"Entry2","qualification-sub-level":"Entry Level 2"}
+add-item	{"european-qualification-framework-level":"Level 1","name":"Entry Level","qualification-level":"Entry3","qualification-sub-level":"Entry Level 3"}
+add-item	{"name":"Entry Level","qualification-level":"Entry2_3","qualification-sub-level":"Entry Level 2,3"}
+add-item	{"european-qualification-framework-level":"Level 7","name":"Level 7","qualification-level":"Level7"}
+add-item	{"european-qualification-framework-level":"Level 4","name":"Level 3","qualification-level":"Level3"}
+add-item	{"name":"Entry Level","qualification-level":"Entry1_2_3","qualification-sub-level":"Entry Level 1,2,3"}
+add-item	{"name":"Entry Level","qualification-level":"Entry1","qualification-sub-level":"Entry Level 1"}
+add-item	{"european-qualification-framework-level":"Level 3","name":"Level 2","qualification-level":"Level2"}
+add-item	{"european-qualification-framework-level":"Level 6","name":"Level 6","qualification-level":"Level6"}
+add-item	{"european-qualification-framework-level":"Level 2/3","name":"Level 1/2","qualification-level":"Level1_2"}
+add-item	{"end-date":"2016-07-07","name":"Entry Level","qualification-level":"EntryLevel"}
+add-item	{"european-qualification-framework-level":"Level 5","name":"Level 5","qualification-level":"Level5"}
+add-item	{"european-qualification-framework-level":"Level 5","name":"Level 4","qualification-level":"Level4"}
+append-entry	system	name	2018-01-16T15:14:57Z	sha-256:f897e8af40de54e3f89ee4bb069187f2dac852a04aa2ea7135be48fb92fd3997
+append-entry	system	custodian	2018-01-16T15:14:57Z	sha-256:f96380a0e51f2cae12237103bfa5561b765cbae0142dacdce1aafa122df9f79e
+append-entry	system	field:qualification-level	2018-01-16T15:14:57Z	sha-256:dacb0cf8a82b401725ce28a5c31c262611b3870c3bd8e995dab2b351328c953d
+append-entry	system	field:name	2018-01-16T15:14:57Z	sha-256:a7a9f2237dadcb3980f6ff8220279a3450778e9c78b6f0f12febc974d49a4a9f
+append-entry	system	field:qualification-sub-level	2018-01-16T15:14:57Z	sha-256:cbb922bb2187d908573ceed6520dde1864bbeb333cc3680540c9c31e9df9194e
+append-entry	system	field:european-qualification-framework-level	2018-01-16T15:14:57Z	sha-256:d700bac6d56c89dcd981dd6ddf6322ca7b9dcfcf9a3f635e3eec6e5151adbcc0
+append-entry	system	field:start-date	2018-01-16T15:14:57Z	sha-256:f09c439836eb6fccfb0680fa98dfc3d0300d1ceb2a43eb3c26b3eed01a42d2c2
+append-entry	system	field:end-date	2018-01-16T15:14:57Z	sha-256:c5845bfc15577e8c120970ba084f1dc2c82b10e703f80d1efe4f694295a5a71d
+append-entry	system	register:qualification-level	2018-01-16T15:14:57Z	sha-256:21b7edd7032b56b12dd0ef76346e79360dbe11d3b9055b1d9c8cadb8d1a322db
+append-entry	system	field:european-qualification-framework-level	2018-06-06T16:41:28Z	sha-256:7d0e46addb856e8286eee0bcfc79f8248d47351761b2f8311a3fcd71872fe95b
+append-entry	system	register:qualification-level	2018-09-05T11:03:28Z	sha-256:21b7edd7032b56b12dd0ef76346e79360dbe11d3b9055b1d9c8cadb8d1a322db
+append-entry	system	register-name	2018-09-05T17:18:59Z	sha-256:5e1a356367516ab3676a9dc98601be496671bc597a360be65ae9dc0a6aaa92e2
+append-entry	system	register-name	2018-09-10T10:27:13Z	sha-256:414ca98de3214e9617d34f03a89ad23f35ab74df29f20214735a83ce7ec814d6
+append-entry	user	EntryLevel	2018-01-16T15:14:57Z	sha-256:c0562269783b00fe35c9744b5f4b79be27a7a197f9358c7a96ccd4f8a73726a9
+append-entry	user	Entry1	2018-01-16T15:14:57Z	sha-256:b80267ec72a1717402568b836c40a44ca74dc5f3530dcb2919056298d5ab82c4
+append-entry	user	Entry2	2018-01-16T15:14:57Z	sha-256:5913b6d276c755a1378a322dc630da3bf1ccb11b84fba8d1e0817690ca1cc890
+append-entry	user	Entry3	2018-01-16T15:14:57Z	sha-256:4b55aa0a02fda9091939383d0aaaa4a7455b79e7c5f585a997ed7ce0bd9a18e6
+append-entry	user	Entry1_2	2018-01-16T15:14:57Z	sha-256:20a2909c6f817417ad9042cebce46af197aa1b98e59e3cd1267a308febc61197
+append-entry	user	Entry2_3	2018-01-16T15:14:57Z	sha-256:a21a96979cc2e37090276bc3a477a52718cafc3f6460f3e59b17dee57717a739
+append-entry	user	Entry1_2_3	2018-01-16T15:14:57Z	sha-256:2a6478791d227045db664c80742a80b53e823dcf3466d3686494833140db5178
+append-entry	user	Level1	2018-01-16T15:14:57Z	sha-256:d51978acb1b574c03c48db30660f66356950990ce53fac9d47159d6eb12dd5f6
+append-entry	user	Level1_2	2018-01-16T15:14:57Z	sha-256:0007040df4eeb0b168c3378843300732f6527f2ab7c145cccc7b7a7ff4525c42
+append-entry	user	Level2	2018-01-16T15:14:57Z	sha-256:79fce3154df4f85e00521848538350b9f94c304901222712019954d7c20ce36b
+append-entry	user	Level3	2018-01-16T15:14:57Z	sha-256:84bd01f4e81cb519bee17e318e950b79aa68f0c52dda2c1401e8bfce978bb4ff
+append-entry	user	Level4	2018-01-16T15:14:57Z	sha-256:8763934a7c3cdda4982789cbc23714fef055580f04863ffd7556373be64af909
+append-entry	user	Level5	2018-01-16T15:14:57Z	sha-256:901f9a20947ba275cf1e1e940da298e0422d0ff12c9d9d8c5480ee293213c2dc
+append-entry	user	Level6	2018-01-16T15:14:57Z	sha-256:e4c5cf44758d46a3cafe940bb59f2f91c3ea6bb1aa07853e3238aa2e159f61c0
+append-entry	user	Level7	2018-01-16T15:14:57Z	sha-256:f11317d79676fda506fb76c13b91bf3bed048a485a97bc9b728fbcb2cf2b7d54
+append-entry	user	Level8	2018-01-16T15:14:57Z	sha-256:0e9c4c85564a534ea941657cc67b8cda8dacbb1deb9c5d67a442eccc002aab39
+assert-root-hash	sha-256:13b0d80f5e8518f7034b6648f907b286f42b10b8e73303050e915d6c7010ac09
