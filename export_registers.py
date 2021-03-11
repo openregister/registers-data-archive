@@ -15,5 +15,6 @@ for register in beta_registers:
         else:
             url = f'https://{register}.register.gov.uk/records.{format}?page-size=5000'
         r = requests.get(url)
-        with open(f"{register}/records.{format}", "w") as f:
+        r.encoding='UTF-8'
+        with open(f"{register}/records.{format}", "w", encoding='utf-8') as f:
             f.write(r.text)

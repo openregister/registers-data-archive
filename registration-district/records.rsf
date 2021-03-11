@@ -98,7 +98,7 @@ add-item	{"name":"Northumberland","registration-district":"681"}
 add-item	{"name":"Bexley","registration-district":"220"}
 add-item	{"name":"Gateshead","registration-district":"51"}
 add-item	{"name":"Telford and Wrekin","registration-district":"716"}
-add-item	{"name":"Isle of Anglesey","name-cy":"Ynys MÃ´n","registration-district":"857"}
+add-item	{"name":"Isle of Anglesey","name-cy":"Ynys Môn","registration-district":"857"}
 add-item	{"name":"Hounslow","registration-district":"237"}
 add-item	{"name":"Rhondda Cynon Taf","registration-district":"864"}
 add-item	{"name":"Warwickshire","registration-district":"776"}
